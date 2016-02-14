@@ -21,6 +21,7 @@ primaries GROUP BY candidate;
 CREATE OR REPLACE VIEW partytotal AS
 SELECT party, SUM(VOTES) AS votes FROM primaries GROUP BY party;
 
+TRUNCATE primaries;
 LOAD DATA INFILE '/tmp/primaries.csv'
 INTO TABLE primaries
 FIELDS TERMINATED BY ','
