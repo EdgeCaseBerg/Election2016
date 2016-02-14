@@ -1,0 +1,3024 @@
+{
+  "NH": {
+    "GOP": {
+      "meta": {
+        "party": "GOP",
+        "statePostal": "NH",
+        "stateName": "New Hampshire",
+        "lastUpdated": "2016-02-10T22:33:22Z"
+      },
+      "data": {
+        "0": {
+          "county": "New Hampshire",
+          "precinctsReporting": 300,
+          "totalPrecincts": 300,
+          "totalVotes": 284120,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 100406,
+              "winner": "X",
+              "votePct": 35.34
+            },
+            {
+              "name": "Kasich",
+              "votes": 44909,
+              "winner": "",
+              "votePct": 15.81
+            },
+            {
+              "name": "Cruz",
+              "votes": 33189,
+              "winner": "",
+              "votePct": 11.68
+            },
+            {
+              "name": "Bush",
+              "votes": 31310,
+              "winner": "",
+              "votePct": 11.02
+            },
+            {
+              "name": "Rubio",
+              "votes": 30032,
+              "winner": "",
+              "votePct": 10.57
+            },
+            {
+              "name": "Christie",
+              "votes": 21069,
+              "winner": "",
+              "votePct": 7.42
+            },
+            {
+              "name": "Fiorina",
+              "votes": 11706,
+              "winner": "",
+              "votePct": 4.12
+            },
+            {
+              "name": "Carson",
+              "votes": 6509,
+              "winner": "",
+              "votePct": 2.29
+            },
+            {
+              "name": "Paul",
+              "votes": 1900,
+              "winner": "",
+              "votePct": 0.67
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 1775,
+              "winner": "",
+              "votePct": 0.62
+            },
+            {
+              "name": "Huckabee",
+              "votes": 215,
+              "winner": "",
+              "votePct": 0.08
+            },
+            {
+              "name": "Martin",
+              "votes": 169,
+              "winner": "",
+              "votePct": 0.06
+            },
+            {
+              "name": "Santorum",
+              "votes": 155,
+              "winner": "",
+              "votePct": 0.05
+            },
+            {
+              "name": "Gilmore",
+              "votes": 133,
+              "winner": "",
+              "votePct": 0.05
+            },
+            {
+              "name": "Witz",
+              "votes": 105,
+              "winner": "",
+              "votePct": 0.04
+            },
+            {
+              "name": "Pataki",
+              "votes": 80,
+              "winner": "",
+              "votePct": 0.03
+            },
+            {
+              "name": "Cook",
+              "votes": 77,
+              "winner": "",
+              "votePct": 0.03
+            },
+            {
+              "name": "Graham",
+              "votes": 70,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Jindal",
+              "votes": 64,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Cullison",
+              "votes": 54,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Lynch",
+              "votes": 47,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Robinson",
+              "votes": 44,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Comley",
+              "votes": 31,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Dyas",
+              "votes": 14,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Prag",
+              "votes": 14,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "McCarthy",
+              "votes": 12,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 9,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Huey",
+              "votes": 7,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Drozd",
+              "votes": 5,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Messina",
+              "votes": 5,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Mann",
+              "votes": 5,
+              "winner": "",
+              "votePct": 0
+            }
+          ]
+        },
+        "33001": {
+          "county": "33001",
+          "precinctsReporting": 16,
+          "totalPrecincts": 16,
+          "totalVotes": 15584,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 5505
+            },
+            {
+              "name": "Cruz",
+              "votes": 2017
+            },
+            {
+              "name": "Kasich",
+              "votes": 2460
+            },
+            {
+              "name": "Bush",
+              "votes": 1738
+            },
+            {
+              "name": "Rubio",
+              "votes": 1504
+            },
+            {
+              "name": "Christie",
+              "votes": 1001
+            },
+            {
+              "name": "Fiorina",
+              "votes": 672
+            },
+            {
+              "name": "Carson",
+              "votes": 390
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 143
+            },
+            {
+              "name": "Paul",
+              "votes": 79
+            },
+            {
+              "name": "Santorum",
+              "votes": 13
+            },
+            {
+              "name": "Huckabee",
+              "votes": 9
+            },
+            {
+              "name": "Witz",
+              "votes": 7
+            },
+            {
+              "name": "Lynch",
+              "votes": 7
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Martin",
+              "votes": 11
+            },
+            {
+              "name": "McCarthy",
+              "votes": 0
+            },
+            {
+              "name": "Messina",
+              "votes": 0
+            },
+            {
+              "name": "Pataki",
+              "votes": 5
+            },
+            {
+              "name": "Prag",
+              "votes": 0
+            },
+            {
+              "name": "Robinson",
+              "votes": 3
+            },
+            {
+              "name": "Comley",
+              "votes": 2
+            },
+            {
+              "name": "Cook",
+              "votes": 6
+            },
+            {
+              "name": "Cullison",
+              "votes": 2
+            },
+            {
+              "name": "Drozd",
+              "votes": 0
+            },
+            {
+              "name": "Dyas",
+              "votes": 1
+            },
+            {
+              "name": "Gilmore",
+              "votes": 5
+            },
+            {
+              "name": "Graham",
+              "votes": 4
+            },
+            {
+              "name": "Huey",
+              "votes": 0
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 0
+            },
+            {
+              "name": "Jindal",
+              "votes": 0
+            }
+          ]
+        },
+        "33003": {
+          "county": "33003",
+          "precinctsReporting": 18,
+          "totalPrecincts": 18,
+          "totalVotes": 12241,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 4182
+            },
+            {
+              "name": "Kasich",
+              "votes": 2281
+            },
+            {
+              "name": "Bush",
+              "votes": 1241
+            },
+            {
+              "name": "Rubio",
+              "votes": 1433
+            },
+            {
+              "name": "Cruz",
+              "votes": 1365
+            },
+            {
+              "name": "Fiorina",
+              "votes": 442
+            },
+            {
+              "name": "Christie",
+              "votes": 884
+            },
+            {
+              "name": "Witz",
+              "votes": 9
+            },
+            {
+              "name": "Paul",
+              "votes": 61
+            },
+            {
+              "name": "Santorum",
+              "votes": 6
+            },
+            {
+              "name": "Huckabee",
+              "votes": 8
+            },
+            {
+              "name": "Carson",
+              "votes": 280
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 26
+            },
+            {
+              "name": "Comley",
+              "votes": 2
+            },
+            {
+              "name": "Cook",
+              "votes": 2
+            },
+            {
+              "name": "Cullison",
+              "votes": 2
+            },
+            {
+              "name": "Drozd",
+              "votes": 0
+            },
+            {
+              "name": "Dyas",
+              "votes": 1
+            },
+            {
+              "name": "Gilmore",
+              "votes": 4
+            },
+            {
+              "name": "Graham",
+              "votes": 2
+            },
+            {
+              "name": "Huey",
+              "votes": 1
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 0
+            },
+            {
+              "name": "Jindal",
+              "votes": 1
+            },
+            {
+              "name": "Lynch",
+              "votes": 0
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Martin",
+              "votes": 7
+            },
+            {
+              "name": "McCarthy",
+              "votes": 0
+            },
+            {
+              "name": "Messina",
+              "votes": 0
+            },
+            {
+              "name": "Pataki",
+              "votes": 1
+            },
+            {
+              "name": "Prag",
+              "votes": 0
+            },
+            {
+              "name": "Robinson",
+              "votes": 0
+            }
+          ]
+        },
+        "33005": {
+          "county": "33005",
+          "precinctsReporting": 27,
+          "totalPrecincts": 27,
+          "totalVotes": 13432,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 4543
+            },
+            {
+              "name": "Cruz",
+              "votes": 1865
+            },
+            {
+              "name": "Kasich",
+              "votes": 2178
+            },
+            {
+              "name": "Rubio",
+              "votes": 1237
+            },
+            {
+              "name": "Carson",
+              "votes": 518
+            },
+            {
+              "name": "Bush",
+              "votes": 1501
+            },
+            {
+              "name": "Fiorina",
+              "votes": 565
+            },
+            {
+              "name": "Christie",
+              "votes": 763
+            },
+            {
+              "name": "Paul",
+              "votes": 115
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 55
+            },
+            {
+              "name": "Santorum",
+              "votes": 8
+            },
+            {
+              "name": "Huckabee",
+              "votes": 7
+            },
+            {
+              "name": "Comley",
+              "votes": 1
+            },
+            {
+              "name": "Cook",
+              "votes": 27
+            },
+            {
+              "name": "Cullison",
+              "votes": 1
+            },
+            {
+              "name": "Drozd",
+              "votes": 0
+            },
+            {
+              "name": "Dyas",
+              "votes": 4
+            },
+            {
+              "name": "Gilmore",
+              "votes": 5
+            },
+            {
+              "name": "Graham",
+              "votes": 5
+            },
+            {
+              "name": "Huey",
+              "votes": 1
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 1
+            },
+            {
+              "name": "Jindal",
+              "votes": 5
+            },
+            {
+              "name": "Lynch",
+              "votes": 2
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Martin",
+              "votes": 11
+            },
+            {
+              "name": "McCarthy",
+              "votes": 0
+            },
+            {
+              "name": "Messina",
+              "votes": 0
+            },
+            {
+              "name": "Pataki",
+              "votes": 5
+            },
+            {
+              "name": "Prag",
+              "votes": 1
+            },
+            {
+              "name": "Robinson",
+              "votes": 2
+            },
+            {
+              "name": "Witz",
+              "votes": 6
+            }
+          ]
+        },
+        "33007": {
+          "county": "33007",
+          "precinctsReporting": 25,
+          "totalPrecincts": 25,
+          "totalVotes": 5836,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 2183
+            },
+            {
+              "name": "Kasich",
+              "votes": 942
+            },
+            {
+              "name": "Rubio",
+              "votes": 615
+            },
+            {
+              "name": "Bush",
+              "votes": 561
+            },
+            {
+              "name": "Cruz",
+              "votes": 600
+            },
+            {
+              "name": "Christie",
+              "votes": 355
+            },
+            {
+              "name": "Carson",
+              "votes": 170
+            },
+            {
+              "name": "Fiorina",
+              "votes": 275
+            },
+            {
+              "name": "Paul",
+              "votes": 39
+            },
+            {
+              "name": "Pataki",
+              "votes": 3
+            },
+            {
+              "name": "McCarthy",
+              "votes": 3
+            },
+            {
+              "name": "Messina",
+              "votes": 1
+            },
+            {
+              "name": "Comley",
+              "votes": 2
+            },
+            {
+              "name": "Witz",
+              "votes": 3
+            },
+            {
+              "name": "Santorum",
+              "votes": 6
+            },
+            {
+              "name": "Huckabee",
+              "votes": 7
+            },
+            {
+              "name": "Gilmore",
+              "votes": 3
+            },
+            {
+              "name": "Graham",
+              "votes": 5
+            },
+            {
+              "name": "Huey",
+              "votes": 0
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 0
+            },
+            {
+              "name": "Jindal",
+              "votes": 1
+            },
+            {
+              "name": "Lynch",
+              "votes": 0
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Martin",
+              "votes": 8
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 53
+            },
+            {
+              "name": "Cook",
+              "votes": 0
+            },
+            {
+              "name": "Cullison",
+              "votes": 0
+            },
+            {
+              "name": "Drozd",
+              "votes": 0
+            },
+            {
+              "name": "Dyas",
+              "votes": 0
+            },
+            {
+              "name": "Prag",
+              "votes": 0
+            },
+            {
+              "name": "Robinson",
+              "votes": 1
+            }
+          ]
+        },
+        "33009": {
+          "county": "33009",
+          "precinctsReporting": 41,
+          "totalPrecincts": 41,
+          "totalVotes": 16575,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 4898
+            },
+            {
+              "name": "Kasich",
+              "votes": 3475
+            },
+            {
+              "name": "Cruz",
+              "votes": 1716
+            },
+            {
+              "name": "Fiorina",
+              "votes": 684
+            },
+            {
+              "name": "Bush",
+              "votes": 1864
+            },
+            {
+              "name": "Rubio",
+              "votes": 1923
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 235
+            },
+            {
+              "name": "Christie",
+              "votes": 1067
+            },
+            {
+              "name": "Carson",
+              "votes": 470
+            },
+            {
+              "name": "Paul",
+              "votes": 138
+            },
+            {
+              "name": "Witz",
+              "votes": 4
+            },
+            {
+              "name": "Huckabee",
+              "votes": 23
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 2
+            },
+            {
+              "name": "Jindal",
+              "votes": 2
+            },
+            {
+              "name": "Lynch",
+              "votes": 5
+            },
+            {
+              "name": "Mann",
+              "votes": 1
+            },
+            {
+              "name": "Martin",
+              "votes": 19
+            },
+            {
+              "name": "McCarthy",
+              "votes": 0
+            },
+            {
+              "name": "Messina",
+              "votes": 0
+            },
+            {
+              "name": "Pataki",
+              "votes": 10
+            },
+            {
+              "name": "Prag",
+              "votes": 1
+            },
+            {
+              "name": "Robinson",
+              "votes": 5
+            },
+            {
+              "name": "Santorum",
+              "votes": 9
+            },
+            {
+              "name": "Comley",
+              "votes": 0
+            },
+            {
+              "name": "Cook",
+              "votes": 5
+            },
+            {
+              "name": "Cullison",
+              "votes": 2
+            },
+            {
+              "name": "Drozd",
+              "votes": 1
+            },
+            {
+              "name": "Dyas",
+              "votes": 1
+            },
+            {
+              "name": "Gilmore",
+              "votes": 10
+            },
+            {
+              "name": "Graham",
+              "votes": 4
+            },
+            {
+              "name": "Huey",
+              "votes": 1
+            }
+          ]
+        },
+        "33011": {
+          "county": "33011",
+          "precinctsReporting": 50,
+          "totalPrecincts": 50,
+          "totalVotes": 83339,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 28981
+            },
+            {
+              "name": "Kasich",
+              "votes": 12504
+            },
+            {
+              "name": "Rubio",
+              "votes": 8803
+            },
+            {
+              "name": "Bush",
+              "votes": 9575
+            },
+            {
+              "name": "Cruz",
+              "votes": 9587
+            },
+            {
+              "name": "Christie",
+              "votes": 7144
+            },
+            {
+              "name": "Fiorina",
+              "votes": 3612
+            },
+            {
+              "name": "Carson",
+              "votes": 1725
+            },
+            {
+              "name": "Paul",
+              "votes": 610
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 467
+            },
+            {
+              "name": "Lynch",
+              "votes": 18
+            },
+            {
+              "name": "Martin",
+              "votes": 46
+            },
+            {
+              "name": "Witz",
+              "votes": 21
+            },
+            {
+              "name": "Pataki",
+              "votes": 12
+            },
+            {
+              "name": "Jindal",
+              "votes": 11
+            },
+            {
+              "name": "Graham",
+              "votes": 15
+            },
+            {
+              "name": "Huey",
+              "votes": 2
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 1
+            },
+            {
+              "name": "Comley",
+              "votes": 9
+            },
+            {
+              "name": "Cook",
+              "votes": 15
+            },
+            {
+              "name": "Cullison",
+              "votes": 16
+            },
+            {
+              "name": "Drozd",
+              "votes": 2
+            },
+            {
+              "name": "Dyas",
+              "votes": 4
+            },
+            {
+              "name": "Gilmore",
+              "votes": 44
+            },
+            {
+              "name": "Santorum",
+              "votes": 45
+            },
+            {
+              "name": "Huckabee",
+              "votes": 48
+            },
+            {
+              "name": "Prag",
+              "votes": 4
+            },
+            {
+              "name": "Robinson",
+              "votes": 10
+            },
+            {
+              "name": "McCarthy",
+              "votes": 4
+            },
+            {
+              "name": "Messina",
+              "votes": 2
+            },
+            {
+              "name": "Mann",
+              "votes": 2
+            }
+          ]
+        },
+        "33013": {
+          "county": "33013",
+          "precinctsReporting": 38,
+          "totalPrecincts": 38,
+          "totalVotes": 32949,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 10966
+            },
+            {
+              "name": "Cruz",
+              "votes": 3776
+            },
+            {
+              "name": "Kasich",
+              "votes": 6172
+            },
+            {
+              "name": "Bush",
+              "votes": 3816
+            },
+            {
+              "name": "Rubio",
+              "votes": 3056
+            },
+            {
+              "name": "Fiorina",
+              "votes": 1511
+            },
+            {
+              "name": "Christie",
+              "votes": 2377
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 161
+            },
+            {
+              "name": "Carson",
+              "votes": 753
+            },
+            {
+              "name": "Huckabee",
+              "votes": 35
+            },
+            {
+              "name": "Paul",
+              "votes": 200
+            },
+            {
+              "name": "Jindal",
+              "votes": 10
+            },
+            {
+              "name": "Witz",
+              "votes": 8
+            },
+            {
+              "name": "Martin",
+              "votes": 14
+            },
+            {
+              "name": "McCarthy",
+              "votes": 2
+            },
+            {
+              "name": "Messina",
+              "votes": 1
+            },
+            {
+              "name": "Pataki",
+              "votes": 14
+            },
+            {
+              "name": "Prag",
+              "votes": 4
+            },
+            {
+              "name": "Robinson",
+              "votes": 6
+            },
+            {
+              "name": "Lynch",
+              "votes": 3
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Santorum",
+              "votes": 11
+            },
+            {
+              "name": "Comley",
+              "votes": 6
+            },
+            {
+              "name": "Cook",
+              "votes": 9
+            },
+            {
+              "name": "Cullison",
+              "votes": 3
+            },
+            {
+              "name": "Drozd",
+              "votes": 0
+            },
+            {
+              "name": "Dyas",
+              "votes": 2
+            },
+            {
+              "name": "Gilmore",
+              "votes": 21
+            },
+            {
+              "name": "Graham",
+              "votes": 11
+            },
+            {
+              "name": "Huey",
+              "votes": 0
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 1
+            }
+          ]
+        },
+        "33015": {
+          "county": "33015",
+          "precinctsReporting": 41,
+          "totalPrecincts": 41,
+          "totalVotes": 73992,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 28716
+            },
+            {
+              "name": "Kasich",
+              "votes": 10370
+            },
+            {
+              "name": "Rubio",
+              "votes": 8074
+            },
+            {
+              "name": "Bush",
+              "votes": 7747
+            },
+            {
+              "name": "Cruz",
+              "votes": 7990
+            },
+            {
+              "name": "Christie",
+              "votes": 5768
+            },
+            {
+              "name": "Fiorina",
+              "votes": 2825
+            },
+            {
+              "name": "Carson",
+              "votes": 1447
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 349
+            },
+            {
+              "name": "Paul",
+              "votes": 417
+            },
+            {
+              "name": "Santorum",
+              "votes": 42
+            },
+            {
+              "name": "Graham",
+              "votes": 16
+            },
+            {
+              "name": "Jindal",
+              "votes": 26
+            },
+            {
+              "name": "Huckabee",
+              "votes": 43
+            },
+            {
+              "name": "Martin",
+              "votes": 33
+            },
+            {
+              "name": "Pataki",
+              "votes": 15
+            },
+            {
+              "name": "Prag",
+              "votes": 2
+            },
+            {
+              "name": "Robinson",
+              "votes": 11
+            },
+            {
+              "name": "Witz",
+              "votes": 31
+            },
+            {
+              "name": "McCarthy",
+              "votes": 1
+            },
+            {
+              "name": "Messina",
+              "votes": 0
+            },
+            {
+              "name": "Lynch",
+              "votes": 6
+            },
+            {
+              "name": "Mann",
+              "votes": 2
+            },
+            {
+              "name": "Huey",
+              "votes": 1
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 4
+            },
+            {
+              "name": "Comley",
+              "votes": 6
+            },
+            {
+              "name": "Cook",
+              "votes": 9
+            },
+            {
+              "name": "Cullison",
+              "votes": 19
+            },
+            {
+              "name": "Drozd",
+              "votes": 1
+            },
+            {
+              "name": "Dyas",
+              "votes": 0
+            },
+            {
+              "name": "Gilmore",
+              "votes": 21
+            }
+          ]
+        },
+        "33017": {
+          "county": "33017",
+          "precinctsReporting": 27,
+          "totalPrecincts": 27,
+          "totalVotes": 21855,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 7352
+            },
+            {
+              "name": "Cruz",
+              "votes": 3322
+            },
+            {
+              "name": "Kasich",
+              "votes": 3193
+            },
+            {
+              "name": "Rubio",
+              "votes": 2492
+            },
+            {
+              "name": "Bush",
+              "votes": 2443
+            },
+            {
+              "name": "Christie",
+              "votes": 1233
+            },
+            {
+              "name": "Fiorina",
+              "votes": 825
+            },
+            {
+              "name": "Carson",
+              "votes": 527
+            },
+            {
+              "name": "Paul",
+              "votes": 189
+            },
+            {
+              "name": "Huckabee",
+              "votes": 28
+            },
+            {
+              "name": "Gilmore",
+              "votes": 11
+            },
+            {
+              "name": "Witz",
+              "votes": 13
+            },
+            {
+              "name": "Prag",
+              "votes": 2
+            },
+            {
+              "name": "Martin",
+              "votes": 11
+            },
+            {
+              "name": "Graham",
+              "votes": 5
+            },
+            {
+              "name": "Huey",
+              "votes": 1
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 0
+            },
+            {
+              "name": "Jindal",
+              "votes": 8
+            },
+            {
+              "name": "Lynch",
+              "votes": 3
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Comley",
+              "votes": 3
+            },
+            {
+              "name": "Cook",
+              "votes": 4
+            },
+            {
+              "name": "Cullison",
+              "votes": 6
+            },
+            {
+              "name": "Drozd",
+              "votes": 0
+            },
+            {
+              "name": "Dyas",
+              "votes": 1
+            },
+            {
+              "name": "Santorum",
+              "votes": 10
+            },
+            {
+              "name": "McCarthy",
+              "votes": 1
+            },
+            {
+              "name": "Messina",
+              "votes": 1
+            },
+            {
+              "name": "Pataki",
+              "votes": 13
+            },
+            {
+              "name": "Robinson",
+              "votes": 5
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 153
+            }
+          ]
+        },
+        "33019": {
+          "county": "33019",
+          "precinctsReporting": 17,
+          "totalPrecincts": 17,
+          "totalVotes": 8317,
+          "Cand": [
+            {
+              "name": "Trump",
+              "votes": 3080
+            },
+            {
+              "name": "Kasich",
+              "votes": 1334
+            },
+            {
+              "name": "Cruz",
+              "votes": 951
+            },
+            {
+              "name": "Rubio",
+              "votes": 895
+            },
+            {
+              "name": "Bush",
+              "votes": 824
+            },
+            {
+              "name": "Fiorina",
+              "votes": 295
+            },
+            {
+              "name": "Carson",
+              "votes": 229
+            },
+            {
+              "name": "Christie",
+              "votes": 477
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 133
+            },
+            {
+              "name": "Paul",
+              "votes": 52
+            },
+            {
+              "name": "Santorum",
+              "votes": 5
+            },
+            {
+              "name": "Huckabee",
+              "votes": 7
+            },
+            {
+              "name": "Comley",
+              "votes": 0
+            },
+            {
+              "name": "Cook",
+              "votes": 0
+            },
+            {
+              "name": "Cullison",
+              "votes": 3
+            },
+            {
+              "name": "Drozd",
+              "votes": 1
+            },
+            {
+              "name": "Dyas",
+              "votes": 0
+            },
+            {
+              "name": "Gilmore",
+              "votes": 9
+            },
+            {
+              "name": "Graham",
+              "votes": 3
+            },
+            {
+              "name": "Huey",
+              "votes": 0
+            },
+            {
+              "name": "Iwachiw",
+              "votes": 0
+            },
+            {
+              "name": "Jindal",
+              "votes": 0
+            },
+            {
+              "name": "Lynch",
+              "votes": 3
+            },
+            {
+              "name": "Mann",
+              "votes": 0
+            },
+            {
+              "name": "Martin",
+              "votes": 9
+            },
+            {
+              "name": "McCarthy",
+              "votes": 1
+            },
+            {
+              "name": "Messina",
+              "votes": 0
+            },
+            {
+              "name": "Pataki",
+              "votes": 2
+            },
+            {
+              "name": "Prag",
+              "votes": 0
+            },
+            {
+              "name": "Robinson",
+              "votes": 1
+            },
+            {
+              "name": "Witz",
+              "votes": 3
+            }
+          ]
+        }
+      },
+      "delegates": {
+        "Trump": 10,
+        "Kasich": 4,
+        "Cruz": 3,
+        "Bush": 3,
+        "Rubio": 3,
+        "Christie": 0,
+        "Fiorina": 0,
+        "Carson": 0,
+        "Paul": 0,
+        "Total Write-ins": 0,
+        "Huckabee": 0,
+        "Martin": 0,
+        "Santorum": 0,
+        "Gilmore": 0,
+        "Witz": 0,
+        "Pataki": 0,
+        "Cook": 0,
+        "Graham": 0,
+        "Jindal": 0,
+        "Cullison": 0,
+        "Lynch": 0,
+        "Robinson": 0,
+        "Comley": 0,
+        "Dyas": 0,
+        "Prag": 0,
+        "McCarthy": 0,
+        "Iwachiw": 0,
+        "Huey": 0,
+        "Mann": 0,
+        "Messina": 0,
+        "Drozd": 0
+      }
+    },
+    "Dem": {
+      "meta": {
+        "party": "Dem",
+        "statePostal": "NH",
+        "stateName": "New Hampshire",
+        "lastUpdated": "2016-02-10T22:33:22Z"
+      },
+      "data": {
+        "0": {
+          "county": "New Hampshire",
+          "precinctsReporting": 300,
+          "totalPrecincts": 300,
+          "totalVotes": 250983,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 151584,
+              "winner": "X",
+              "votePct": 60.4
+            },
+            {
+              "name": "Clinton",
+              "votes": 95252,
+              "winner": "",
+              "votePct": 37.95
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 2174,
+              "winner": "",
+              "votePct": 0.87
+            },
+            {
+              "name": "O'Malley",
+              "votes": 643,
+              "winner": "",
+              "votePct": 0.26
+            },
+            {
+              "name": "Supreme",
+              "votes": 260,
+              "winner": "",
+              "votePct": 0.1
+            },
+            {
+              "name": "Thistle",
+              "votes": 226,
+              "winner": "",
+              "votePct": 0.09
+            },
+            {
+              "name": "Schwass",
+              "votes": 125,
+              "winner": "",
+              "votePct": 0.05
+            },
+            {
+              "name": "Burke",
+              "votes": 106,
+              "winner": "",
+              "votePct": 0.04
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 95,
+              "winner": "",
+              "votePct": 0.04
+            },
+            {
+              "name": "Wolfe",
+              "votes": 54,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Adams",
+              "votes": 52,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Kelso",
+              "votes": 47,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Judd",
+              "votes": 43,
+              "winner": "",
+              "votePct": 0.02
+            },
+            {
+              "name": "Elbot",
+              "votes": 34,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Locke",
+              "votes": 33,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "French",
+              "votes": 27,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Greenstein",
+              "votes": 27,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Valentine",
+              "votes": 25,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 22,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Lovitt",
+              "votes": 21,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Steinberg",
+              "votes": 21,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Hewes",
+              "votes": 18,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "McGaughey",
+              "votes": 17,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Sonnino",
+              "votes": 17,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 16,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Sloan",
+              "votes": 15,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Hutton",
+              "votes": 14,
+              "winner": "",
+              "votePct": 0.01
+            },
+            {
+              "name": "Moroz",
+              "votes": 8,
+              "winner": "",
+              "votePct": 0
+            },
+            {
+              "name": "Weil",
+              "votes": 7,
+              "winner": "",
+              "votePct": 0
+            }
+          ]
+        },
+        "33001": {
+          "county": "33001",
+          "precinctsReporting": 16,
+          "totalPrecincts": 16,
+          "totalVotes": 9772,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 5990
+            },
+            {
+              "name": "Clinton",
+              "votes": 3490
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 195
+            },
+            {
+              "name": "O'Malley",
+              "votes": 35
+            },
+            {
+              "name": "Thistle",
+              "votes": 12
+            },
+            {
+              "name": "Valentine",
+              "votes": 2
+            },
+            {
+              "name": "Lovitt",
+              "votes": 2
+            },
+            {
+              "name": "McGaughey",
+              "votes": 0
+            },
+            {
+              "name": "Moroz",
+              "votes": 1
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 2
+            },
+            {
+              "name": "Schwass",
+              "votes": 6
+            },
+            {
+              "name": "Sloan",
+              "votes": 2
+            },
+            {
+              "name": "Sonnino",
+              "votes": 0
+            },
+            {
+              "name": "Steinberg",
+              "votes": 0
+            },
+            {
+              "name": "Supreme",
+              "votes": 10
+            },
+            {
+              "name": "Adams",
+              "votes": 4
+            },
+            {
+              "name": "Burke",
+              "votes": 3
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 5
+            },
+            {
+              "name": "Elbot",
+              "votes": 1
+            },
+            {
+              "name": "French",
+              "votes": 1
+            },
+            {
+              "name": "Greenstein",
+              "votes": 0
+            },
+            {
+              "name": "Hewes",
+              "votes": 0
+            },
+            {
+              "name": "Hutton",
+              "votes": 0
+            },
+            {
+              "name": "Judd",
+              "votes": 2
+            },
+            {
+              "name": "Kelso",
+              "votes": 4
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 0
+            },
+            {
+              "name": "Locke",
+              "votes": 2
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Wolfe",
+              "votes": 3
+            }
+          ]
+        },
+        "33003": {
+          "county": "33003",
+          "precinctsReporting": 18,
+          "totalPrecincts": 18,
+          "totalVotes": 8961,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 5655
+            },
+            {
+              "name": "Clinton",
+              "votes": 3230
+            },
+            {
+              "name": "Supreme",
+              "votes": 11
+            },
+            {
+              "name": "Lovitt",
+              "votes": 2
+            },
+            {
+              "name": "Schwass",
+              "votes": 4
+            },
+            {
+              "name": "Sloan",
+              "votes": 1
+            },
+            {
+              "name": "Sonnino",
+              "votes": 0
+            },
+            {
+              "name": "Steinberg",
+              "votes": 0
+            },
+            {
+              "name": "McGaughey",
+              "votes": 1
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 1
+            },
+            {
+              "name": "Adams",
+              "votes": 2
+            },
+            {
+              "name": "Burke",
+              "votes": 3
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 3
+            },
+            {
+              "name": "Elbot",
+              "votes": 1
+            },
+            {
+              "name": "French",
+              "votes": 1
+            },
+            {
+              "name": "Greenstein",
+              "votes": 2
+            },
+            {
+              "name": "Hewes",
+              "votes": 0
+            },
+            {
+              "name": "Hutton",
+              "votes": 0
+            },
+            {
+              "name": "Judd",
+              "votes": 1
+            },
+            {
+              "name": "Kelso",
+              "votes": 1
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 0
+            },
+            {
+              "name": "Locke",
+              "votes": 1
+            },
+            {
+              "name": "Thistle",
+              "votes": 5
+            },
+            {
+              "name": "Valentine",
+              "votes": 0
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Wolfe",
+              "votes": 0
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 17
+            },
+            {
+              "name": "O'Malley",
+              "votes": 19
+            }
+          ]
+        },
+        "33005": {
+          "county": "33005",
+          "precinctsReporting": 27,
+          "totalPrecincts": 27,
+          "totalVotes": 17796,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 12471
+            },
+            {
+              "name": "Clinton",
+              "votes": 5166
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 39
+            },
+            {
+              "name": "O'Malley",
+              "votes": 42
+            },
+            {
+              "name": "Weil",
+              "votes": 1
+            },
+            {
+              "name": "French",
+              "votes": 2
+            },
+            {
+              "name": "Greenstein",
+              "votes": 2
+            },
+            {
+              "name": "Hewes",
+              "votes": 1
+            },
+            {
+              "name": "Hutton",
+              "votes": 0
+            },
+            {
+              "name": "Judd",
+              "votes": 4
+            },
+            {
+              "name": "Kelso",
+              "votes": 3
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 2
+            },
+            {
+              "name": "Locke",
+              "votes": 1
+            },
+            {
+              "name": "Lovitt",
+              "votes": 1
+            },
+            {
+              "name": "McGaughey",
+              "votes": 1
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 1
+            },
+            {
+              "name": "Schwass",
+              "votes": 5
+            },
+            {
+              "name": "Sloan",
+              "votes": 2
+            },
+            {
+              "name": "Sonnino",
+              "votes": 1
+            },
+            {
+              "name": "Steinberg",
+              "votes": 2
+            },
+            {
+              "name": "Supreme",
+              "votes": 13
+            },
+            {
+              "name": "Thistle",
+              "votes": 6
+            },
+            {
+              "name": "Valentine",
+              "votes": 1
+            },
+            {
+              "name": "Wolfe",
+              "votes": 6
+            },
+            {
+              "name": "Adams",
+              "votes": 3
+            },
+            {
+              "name": "Burke",
+              "votes": 8
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 8
+            },
+            {
+              "name": "Elbot",
+              "votes": 4
+            }
+          ]
+        },
+        "33007": {
+          "county": "33007",
+          "precinctsReporting": 25,
+          "totalPrecincts": 25,
+          "totalVotes": 5754,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 3637
+            },
+            {
+              "name": "Clinton",
+              "votes": 2013
+            },
+            {
+              "name": "O'Malley",
+              "votes": 20
+            },
+            {
+              "name": "Thistle",
+              "votes": 10
+            },
+            {
+              "name": "Schwass",
+              "votes": 4
+            },
+            {
+              "name": "Burke",
+              "votes": 6
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 4
+            },
+            {
+              "name": "Judd",
+              "votes": 1
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 1
+            },
+            {
+              "name": "Lovitt",
+              "votes": 1
+            },
+            {
+              "name": "McGaughey",
+              "votes": 1
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 1
+            },
+            {
+              "name": "Locke",
+              "votes": 0
+            },
+            {
+              "name": "Kelso",
+              "votes": 0
+            },
+            {
+              "name": "Elbot",
+              "votes": 0
+            },
+            {
+              "name": "French",
+              "votes": 0
+            },
+            {
+              "name": "Greenstein",
+              "votes": 0
+            },
+            {
+              "name": "Hewes",
+              "votes": 0
+            },
+            {
+              "name": "Hutton",
+              "votes": 0
+            },
+            {
+              "name": "Adams",
+              "votes": 1
+            },
+            {
+              "name": "Sloan",
+              "votes": 1
+            },
+            {
+              "name": "Sonnino",
+              "votes": 2
+            },
+            {
+              "name": "Steinberg",
+              "votes": 0
+            },
+            {
+              "name": "Supreme",
+              "votes": 1
+            },
+            {
+              "name": "Valentine",
+              "votes": 0
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Wolfe",
+              "votes": 0
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 50
+            }
+          ]
+        },
+        "33009": {
+          "county": "33009",
+          "precinctsReporting": 41,
+          "totalPrecincts": 41,
+          "totalVotes": 21412,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 14258
+            },
+            {
+              "name": "Clinton",
+              "votes": 6918
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 124
+            },
+            {
+              "name": "Supreme",
+              "votes": 9
+            },
+            {
+              "name": "Schwass",
+              "votes": 5
+            },
+            {
+              "name": "O'Malley",
+              "votes": 45
+            },
+            {
+              "name": "Sloan",
+              "votes": 0
+            },
+            {
+              "name": "Sonnino",
+              "votes": 0
+            },
+            {
+              "name": "Steinberg",
+              "votes": 1
+            },
+            {
+              "name": "Thistle",
+              "votes": 14
+            },
+            {
+              "name": "Valentine",
+              "votes": 0
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Wolfe",
+              "votes": 5
+            },
+            {
+              "name": "Adams",
+              "votes": 4
+            },
+            {
+              "name": "Burke",
+              "votes": 9
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 4
+            },
+            {
+              "name": "Elbot",
+              "votes": 1
+            },
+            {
+              "name": "French",
+              "votes": 2
+            },
+            {
+              "name": "Greenstein",
+              "votes": 2
+            },
+            {
+              "name": "Hewes",
+              "votes": 1
+            },
+            {
+              "name": "Hutton",
+              "votes": 0
+            },
+            {
+              "name": "Judd",
+              "votes": 2
+            },
+            {
+              "name": "Kelso",
+              "votes": 2
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 2
+            },
+            {
+              "name": "Locke",
+              "votes": 1
+            },
+            {
+              "name": "Lovitt",
+              "votes": 1
+            },
+            {
+              "name": "McGaughey",
+              "votes": 0
+            },
+            {
+              "name": "Moroz",
+              "votes": 2
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 0
+            }
+          ]
+        },
+        "33011": {
+          "county": "33011",
+          "precinctsReporting": 50,
+          "totalPrecincts": 50,
+          "totalVotes": 68109,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 38646
+            },
+            {
+              "name": "Clinton",
+              "votes": 28099
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 733
+            },
+            {
+              "name": "Supreme",
+              "votes": 84
+            },
+            {
+              "name": "O'Malley",
+              "votes": 179
+            },
+            {
+              "name": "Schwass",
+              "votes": 33
+            },
+            {
+              "name": "Burke",
+              "votes": 36
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 37
+            },
+            {
+              "name": "Elbot",
+              "votes": 12
+            },
+            {
+              "name": "Kelso",
+              "votes": 12
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 3
+            },
+            {
+              "name": "Locke",
+              "votes": 6
+            },
+            {
+              "name": "Lovitt",
+              "votes": 5
+            },
+            {
+              "name": "McGaughey",
+              "votes": 4
+            },
+            {
+              "name": "Moroz",
+              "votes": 5
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 11
+            },
+            {
+              "name": "Adams",
+              "votes": 13
+            },
+            {
+              "name": "French",
+              "votes": 6
+            },
+            {
+              "name": "Greenstein",
+              "votes": 7
+            },
+            {
+              "name": "Hewes",
+              "votes": 10
+            },
+            {
+              "name": "Hutton",
+              "votes": 5
+            },
+            {
+              "name": "Judd",
+              "votes": 13
+            },
+            {
+              "name": "Sloan",
+              "votes": 5
+            },
+            {
+              "name": "Sonnino",
+              "votes": 6
+            },
+            {
+              "name": "Steinberg",
+              "votes": 11
+            },
+            {
+              "name": "Thistle",
+              "votes": 94
+            },
+            {
+              "name": "Valentine",
+              "votes": 13
+            },
+            {
+              "name": "Weil",
+              "votes": 4
+            },
+            {
+              "name": "Wolfe",
+              "votes": 17
+            }
+          ]
+        },
+        "33013": {
+          "county": "33013",
+          "precinctsReporting": 38,
+          "totalPrecincts": 38,
+          "totalVotes": 30653,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 18076
+            },
+            {
+              "name": "Clinton",
+              "votes": 12209
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 133
+            },
+            {
+              "name": "O'Malley",
+              "votes": 75
+            },
+            {
+              "name": "Judd",
+              "votes": 6
+            },
+            {
+              "name": "Supreme",
+              "votes": 39
+            },
+            {
+              "name": "Thistle",
+              "votes": 24
+            },
+            {
+              "name": "Valentine",
+              "votes": 2
+            },
+            {
+              "name": "Weil",
+              "votes": 2
+            },
+            {
+              "name": "Wolfe",
+              "votes": 4
+            },
+            {
+              "name": "Kelso",
+              "votes": 3
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 2
+            },
+            {
+              "name": "Adams",
+              "votes": 4
+            },
+            {
+              "name": "Burke",
+              "votes": 7
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 6
+            },
+            {
+              "name": "Elbot",
+              "votes": 2
+            },
+            {
+              "name": "French",
+              "votes": 5
+            },
+            {
+              "name": "Greenstein",
+              "votes": 6
+            },
+            {
+              "name": "Hewes",
+              "votes": 2
+            },
+            {
+              "name": "Hutton",
+              "votes": 1
+            },
+            {
+              "name": "Locke",
+              "votes": 8
+            },
+            {
+              "name": "Lovitt",
+              "votes": 2
+            },
+            {
+              "name": "McGaughey",
+              "votes": 2
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 3
+            },
+            {
+              "name": "Schwass",
+              "votes": 21
+            },
+            {
+              "name": "Sloan",
+              "votes": 1
+            },
+            {
+              "name": "Sonnino",
+              "votes": 4
+            },
+            {
+              "name": "Steinberg",
+              "votes": 4
+            }
+          ]
+        },
+        "33015": {
+          "county": "33015",
+          "precinctsReporting": 41,
+          "totalPrecincts": 41,
+          "totalVotes": 54815,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 31080
+            },
+            {
+              "name": "Clinton",
+              "votes": 22829
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 492
+            },
+            {
+              "name": "O'Malley",
+              "votes": 125
+            },
+            {
+              "name": "Thistle",
+              "votes": 40
+            },
+            {
+              "name": "Kelso",
+              "votes": 14
+            },
+            {
+              "name": "Burke",
+              "votes": 20
+            },
+            {
+              "name": "French",
+              "votes": 7
+            },
+            {
+              "name": "Locke",
+              "votes": 9
+            },
+            {
+              "name": "Lovitt",
+              "votes": 4
+            },
+            {
+              "name": "McGaughey",
+              "votes": 8
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 2
+            },
+            {
+              "name": "Schwass",
+              "votes": 41
+            },
+            {
+              "name": "Sloan",
+              "votes": 2
+            },
+            {
+              "name": "Sonnino",
+              "votes": 3
+            },
+            {
+              "name": "Steinberg",
+              "votes": 0
+            },
+            {
+              "name": "Supreme",
+              "votes": 54
+            },
+            {
+              "name": "Greenstein",
+              "votes": 3
+            },
+            {
+              "name": "Hewes",
+              "votes": 4
+            },
+            {
+              "name": "Hutton",
+              "votes": 3
+            },
+            {
+              "name": "Judd",
+              "votes": 9
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 19
+            },
+            {
+              "name": "Elbot",
+              "votes": 12
+            },
+            {
+              "name": "Adams",
+              "votes": 16
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 4
+            },
+            {
+              "name": "Valentine",
+              "votes": 3
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Wolfe",
+              "votes": 12
+            }
+          ]
+        },
+        "33017": {
+          "county": "33017",
+          "precinctsReporting": 27,
+          "totalPrecincts": 27,
+          "totalVotes": 25086,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 15865
+            },
+            {
+              "name": "Clinton",
+              "votes": 8801
+            },
+            {
+              "name": "O'Malley",
+              "votes": 77
+            },
+            {
+              "name": "Greenstein",
+              "votes": 4
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 7
+            },
+            {
+              "name": "Wolfe",
+              "votes": 6
+            },
+            {
+              "name": "French",
+              "votes": 2
+            },
+            {
+              "name": "Hutton",
+              "votes": 4
+            },
+            {
+              "name": "Judd",
+              "votes": 3
+            },
+            {
+              "name": "Kelso",
+              "votes": 2
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 1
+            },
+            {
+              "name": "Locke",
+              "votes": 3
+            },
+            {
+              "name": "Lovitt",
+              "votes": 2
+            },
+            {
+              "name": "McGaughey",
+              "votes": 0
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 1
+            },
+            {
+              "name": "Schwass",
+              "votes": 2
+            },
+            {
+              "name": "Sloan",
+              "votes": 0
+            },
+            {
+              "name": "Sonnino",
+              "votes": 1
+            },
+            {
+              "name": "Steinberg",
+              "votes": 2
+            },
+            {
+              "name": "Supreme",
+              "votes": 25
+            },
+            {
+              "name": "Thistle",
+              "votes": 16
+            },
+            {
+              "name": "Valentine",
+              "votes": 2
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 249
+            },
+            {
+              "name": "Elbot",
+              "votes": 1
+            },
+            {
+              "name": "Hewes",
+              "votes": 0
+            },
+            {
+              "name": "Adams",
+              "votes": 3
+            },
+            {
+              "name": "Burke",
+              "votes": 7
+            }
+          ]
+        },
+        "33019": {
+          "county": "33019",
+          "precinctsReporting": 17,
+          "totalPrecincts": 17,
+          "totalVotes": 8625,
+          "Cand": [
+            {
+              "name": "Sanders",
+              "votes": 5906
+            },
+            {
+              "name": "Clinton",
+              "votes": 2497
+            },
+            {
+              "name": "Total Write-ins",
+              "votes": 142
+            },
+            {
+              "name": "O'Malley",
+              "votes": 26
+            },
+            {
+              "name": "Adams",
+              "votes": 2
+            },
+            {
+              "name": "Burke",
+              "votes": 7
+            },
+            {
+              "name": "De La Fuente",
+              "votes": 2
+            },
+            {
+              "name": "Elbot",
+              "votes": 0
+            },
+            {
+              "name": "French",
+              "votes": 1
+            },
+            {
+              "name": "Greenstein",
+              "votes": 1
+            },
+            {
+              "name": "Hewes",
+              "votes": 0
+            },
+            {
+              "name": "Hutton",
+              "votes": 1
+            },
+            {
+              "name": "Judd",
+              "votes": 2
+            },
+            {
+              "name": "Kelso",
+              "votes": 6
+            },
+            {
+              "name": "Lipscomb",
+              "votes": 1
+            },
+            {
+              "name": "Locke",
+              "votes": 2
+            },
+            {
+              "name": "Lovitt",
+              "votes": 1
+            },
+            {
+              "name": "McGaughey",
+              "votes": 0
+            },
+            {
+              "name": "Moroz",
+              "votes": 0
+            },
+            {
+              "name": "O'Donnell",
+              "votes": 0
+            },
+            {
+              "name": "Schwass",
+              "votes": 4
+            },
+            {
+              "name": "Sloan",
+              "votes": 1
+            },
+            {
+              "name": "Sonnino",
+              "votes": 0
+            },
+            {
+              "name": "Steinberg",
+              "votes": 1
+            },
+            {
+              "name": "Supreme",
+              "votes": 14
+            },
+            {
+              "name": "Thistle",
+              "votes": 5
+            },
+            {
+              "name": "Valentine",
+              "votes": 2
+            },
+            {
+              "name": "Weil",
+              "votes": 0
+            },
+            {
+              "name": "Wolfe",
+              "votes": 1
+            }
+          ]
+        }
+      },
+      "delegates": {
+        "Sanders": 15,
+        "Clinton": 9,
+        "Total Write-ins": 0,
+        "O'Malley": 0,
+        "Supreme": 0,
+        "Thistle": 0,
+        "Schwass": 0,
+        "Burke": 0,
+        "De La Fuente": 0,
+        "Wolfe": 0,
+        "Adams": 0,
+        "Kelso": 0,
+        "Judd": 0,
+        "Elbot": 0,
+        "Locke": 0,
+        "Greenstein": 0,
+        "French": 0,
+        "Valentine": 0,
+        "O'Donnell": 0,
+        "Steinberg": 0,
+        "Lovitt": 0,
+        "Hewes": 0,
+        "McGaughey": 0,
+        "Sonnino": 0,
+        "Lipscomb": 0,
+        "Sloan": 0,
+        "Hutton": 0,
+        "Moroz": 0,
+        "Weil": 0
+      }
+    }
+  }
+}
