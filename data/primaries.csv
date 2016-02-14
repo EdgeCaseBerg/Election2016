@@ -1,0 +1,27 @@
+State Caucus/Primary,Candidate,Party,Raw Votes,Percentage Vote,Delegates won,Notes
+IA,Hillary Clinton,Dem,69452,49.8,23,Raw votes computed by scripting against json from http://graphics.wsj.com/live/primary2016/IA/dem.json
+IA,Bernie Sanders,Dem,69733,49.6,21,Raw votes computed by scripting against json from http://graphics.wsj.com/live/primary2016/IA/dem.json
+IA,Martin O'Malley,Dem,752,0.5,0,Raw votes computed by scripting against json from http://graphics.wsj.com/live/primary2016/IA/dem.json
+IA,Ted Cruz,Rep,51666,27.7,8,Source for all IOWA Reps http://graphics.wsj.com/elections/2016/iowa-caucus-results
+IA,Donald Trump,Rep,45427,24.3,7,"Note that results on above page do not match computed from json for some reason. Assuming those numbers are more up to date, taking those raw votes rather than computed numbers"
+IA,Marco Rubio,Rep,43165,23.1,7,
+IA,Ben Carson,Rep,17395,9.3,3,
+IA,Rand Paul,Rep,8481,4.5,1,
+IA,Jeb Bush,Rep,"5,238",2.8,1,
+IA,Carly Fiorina,Rep,3485,1.9,1,
+IA,John Kasich,Rep,3474,1.9,1,
+IA,Mike Huckabee,Rep,3345,1.8,0,
+IA,Chris Christie,Rep,3284,1.8,0,
+IA,Rick Santorum,Rep,1783,1,0,
+IA,Jim Gilmore,Rep,133,0.1,0,
+NH,Hillary Clinton,Dem,96252,38,9,Source http://graphics.wsj.com/elections/2016/new-hampshire-primaries-results/
+NH,Bernie Sanders,Dem,151584,60.4,15,
+NH,Donald Trump,Rep,100406,35.3,10,
+NH,John Kasich,Rep,44909,15.8,4,
+NH,Ted Cruz,Rep,33189,11.7,3,
+NH,Jeb Bush,Rep,31310,11,3,
+NH,Marco Rubio,Rep,30032,10.6,3,
+NH,Chris Christie,Rep,21069,7.4,0,
+NH,Carly Fiorina,Rep,11706,4.1,0,
+NH,Ben Carson,Rep,6509,2.3,0,
+NH,Jim Gilmore,Rep,133,0.1,0,
