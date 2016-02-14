@@ -31,7 +31,9 @@ WHEN party = 'Rep' THEN IF(SUM(delegates) >= 1237, 'yes', 'no')
 ELSE 'no'
 END as nominated,
 SUM(votes) as votes
-FROM primaries GROUP BY candidate,party;
+FROM primaries 
+GROUP BY candidate,party 
+ORDER BY party, nominated DESC, votes DESC;
 
 TRUNCATE primaries;
 LOAD DATA INFILE '/tmp/primaries.csv'
