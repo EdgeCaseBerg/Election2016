@@ -16,10 +16,11 @@ CREATE TABLE IF NOT EXISTS primaries (
 
 CREATE OR REPLACE VIEW votetotal AS
 SELECT candidate, SUM(votes) AS votes, SUM(delegates) AS delegates FROM
-primaries GROUP BY candidate;
+primaries GROUP BY candidate ORDER BY votes DESC,delegates DESC;
 
 CREATE OR REPLACE VIEW partytotal AS
-SELECT party, SUM(VOTES) AS votes FROM primaries GROUP BY party;
+SELECT party, SUM(VOTES) AS votes FROM primaries 
+GROUP BY party ORDER BY votes DESC;
 
 TRUNCATE primaries;
 LOAD DATA INFILE '/tmp/primaries.csv'
