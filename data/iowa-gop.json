@@ -1,0 +1,8625 @@
+{
+  "meta": {
+    "party": "GOP",
+    "statePostal": "IA",
+    "stateName": "Iowa",
+    "lastUpdated": "2016-02-02T15:37:06Z"
+  },
+  "data": {
+    "0": {
+      "county": "Iowa",
+      "precinctsReporting": 1681,
+      "totalPrecincts": 1681,
+      "totalVotes": 186874,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 51666,
+          "winner": "X",
+          "votePct": 27.65
+        },
+        {
+          "name": "Trump",
+          "votes": 45427,
+          "winner": "",
+          "votePct": 24.31
+        },
+        {
+          "name": "Rubio",
+          "votes": 43165,
+          "winner": "",
+          "votePct": 23.1
+        },
+        {
+          "name": "Carson",
+          "votes": 17395,
+          "winner": "",
+          "votePct": 9.31
+        },
+        {
+          "name": "Paul",
+          "votes": 8481,
+          "winner": "",
+          "votePct": 4.54
+        },
+        {
+          "name": "Bush",
+          "votes": 5238,
+          "winner": "",
+          "votePct": 2.8
+        },
+        {
+          "name": "Fiorina",
+          "votes": 3485,
+          "winner": "",
+          "votePct": 1.86
+        },
+        {
+          "name": "Kasich",
+          "votes": 3474,
+          "winner": "",
+          "votePct": 1.86
+        },
+        {
+          "name": "Huckabee",
+          "votes": 3345,
+          "winner": "",
+          "votePct": 1.79
+        },
+        {
+          "name": "Christie",
+          "votes": 3284,
+          "winner": "",
+          "votePct": 1.76
+        },
+        {
+          "name": "Santorum",
+          "votes": 1783,
+          "winner": "",
+          "votePct": 0.95
+        },
+        {
+          "name": "Other",
+          "votes": 119,
+          "winner": "",
+          "votePct": 0.06
+        },
+        {
+          "name": "Gilmore",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.01
+        }
+      ]
+    },
+    "19001": {
+      "county": "19001",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 407,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 104,
+          "winner": "X",
+          "votePct": 25.55
+        },
+        {
+          "name": "Trump",
+          "votes": 104,
+          "winner": "",
+          "votePct": 25.55
+        },
+        {
+          "name": "Rubio",
+          "votes": 80,
+          "winner": "",
+          "votePct": 19.66
+        },
+        {
+          "name": "Carson",
+          "votes": 61,
+          "winner": "",
+          "votePct": 14.99
+        },
+        {
+          "name": "Fiorina",
+          "votes": 16,
+          "winner": "",
+          "votePct": 3.93
+        },
+        {
+          "name": "Paul",
+          "votes": 12,
+          "winner": "",
+          "votePct": 2.95
+        },
+        {
+          "name": "Huckabee",
+          "votes": 11,
+          "winner": "",
+          "votePct": 2.7
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.72
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.98
+        },
+        {
+          "name": "Bush",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.98
+        },
+        {
+          "name": "Kasich",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.49
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.25
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.25
+        }
+      ]
+    },
+    "19003": {
+      "county": "19003",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 273,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 81,
+          "winner": "X",
+          "votePct": 29.67
+        },
+        {
+          "name": "Trump",
+          "votes": 68,
+          "winner": "",
+          "votePct": 24.91
+        },
+        {
+          "name": "Rubio",
+          "votes": 47,
+          "winner": "",
+          "votePct": 17.22
+        },
+        {
+          "name": "Carson",
+          "votes": 30,
+          "winner": "",
+          "votePct": 10.99
+        },
+        {
+          "name": "Fiorina",
+          "votes": 16,
+          "winner": "",
+          "votePct": 5.86
+        },
+        {
+          "name": "Kasich",
+          "votes": 10,
+          "winner": "",
+          "votePct": 3.66
+        },
+        {
+          "name": "Paul",
+          "votes": 8,
+          "winner": "",
+          "votePct": 2.93
+        },
+        {
+          "name": "Bush",
+          "votes": 7,
+          "winner": "",
+          "votePct": 2.56
+        },
+        {
+          "name": "Huckabee",
+          "votes": 3,
+          "winner": "",
+          "votePct": 1.1
+        },
+        {
+          "name": "Christie",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.37
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.37
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.37
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19005": {
+      "county": "19005",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 687,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 183,
+          "winner": "X",
+          "votePct": 26.64
+        },
+        {
+          "name": "Trump",
+          "votes": 193,
+          "winner": "",
+          "votePct": 28.09
+        },
+        {
+          "name": "Rubio",
+          "votes": 131,
+          "winner": "",
+          "votePct": 19.07
+        },
+        {
+          "name": "Carson",
+          "votes": 77,
+          "winner": "",
+          "votePct": 11.21
+        },
+        {
+          "name": "Fiorina",
+          "votes": 54,
+          "winner": "",
+          "votePct": 7.86
+        },
+        {
+          "name": "Paul",
+          "votes": 16,
+          "winner": "",
+          "votePct": 2.33
+        },
+        {
+          "name": "Bush",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.6
+        },
+        {
+          "name": "Huckabee",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.31
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.87
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.58
+        },
+        {
+          "name": "Kasich",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.29
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.15
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19007": {
+      "county": "19007",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 840,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 269,
+          "winner": "X",
+          "votePct": 32.02
+        },
+        {
+          "name": "Trump",
+          "votes": 292,
+          "winner": "",
+          "votePct": 34.76
+        },
+        {
+          "name": "Carson",
+          "votes": 92,
+          "winner": "",
+          "votePct": 10.95
+        },
+        {
+          "name": "Rubio",
+          "votes": 90,
+          "winner": "",
+          "votePct": 10.71
+        },
+        {
+          "name": "Huckabee",
+          "votes": 44,
+          "winner": "",
+          "votePct": 5.24
+        },
+        {
+          "name": "Paul",
+          "votes": 20,
+          "winner": "",
+          "votePct": 2.38
+        },
+        {
+          "name": "Bush",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.55
+        },
+        {
+          "name": "Fiorina",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.48
+        },
+        {
+          "name": "Kasich",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.48
+        },
+        {
+          "name": "Santorum",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.24
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.12
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19009": {
+      "county": "19009",
+      "precinctsReporting": 2,
+      "totalPrecincts": 2,
+      "totalVotes": 374,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 135,
+          "winner": "X",
+          "votePct": 36.1
+        },
+        {
+          "name": "Trump",
+          "votes": 99,
+          "winner": "",
+          "votePct": 26.47
+        },
+        {
+          "name": "Rubio",
+          "votes": 56,
+          "winner": "",
+          "votePct": 14.97
+        },
+        {
+          "name": "Carson",
+          "votes": 33,
+          "winner": "",
+          "votePct": 8.82
+        },
+        {
+          "name": "Huckabee",
+          "votes": 20,
+          "winner": "",
+          "votePct": 5.35
+        },
+        {
+          "name": "Paul",
+          "votes": 11,
+          "winner": "",
+          "votePct": 2.94
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.67
+        },
+        {
+          "name": "Kasich",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.34
+        },
+        {
+          "name": "Fiorina",
+          "votes": 4,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Christie",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.27
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19011": {
+      "county": "19011",
+      "precinctsReporting": 19,
+      "totalPrecincts": 19,
+      "totalVotes": 1635,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 596,
+          "winner": "X",
+          "votePct": 36.45
+        },
+        {
+          "name": "Trump",
+          "votes": 410,
+          "winner": "",
+          "votePct": 25.08
+        },
+        {
+          "name": "Rubio",
+          "votes": 246,
+          "winner": "",
+          "votePct": 15.05
+        },
+        {
+          "name": "Carson",
+          "votes": 171,
+          "winner": "",
+          "votePct": 10.46
+        },
+        {
+          "name": "Paul",
+          "votes": 72,
+          "winner": "",
+          "votePct": 4.4
+        },
+        {
+          "name": "Fiorina",
+          "votes": 35,
+          "winner": "",
+          "votePct": 2.14
+        },
+        {
+          "name": "Huckabee",
+          "votes": 34,
+          "winner": "",
+          "votePct": 2.08
+        },
+        {
+          "name": "Kasich",
+          "votes": 27,
+          "winner": "",
+          "votePct": 1.65
+        },
+        {
+          "name": "Christie",
+          "votes": 23,
+          "winner": "",
+          "votePct": 1.41
+        },
+        {
+          "name": "Bush",
+          "votes": 11,
+          "winner": "",
+          "votePct": 0.67
+        },
+        {
+          "name": "Santorum",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.55
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.06
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19013": {
+      "county": "19013",
+      "precinctsReporting": 62,
+      "totalPrecincts": 62,
+      "totalVotes": 5910,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1585,
+          "winner": "X",
+          "votePct": 26.82
+        },
+        {
+          "name": "Rubio",
+          "votes": 1551,
+          "winner": "",
+          "votePct": 26.24
+        },
+        {
+          "name": "Trump",
+          "votes": 1360,
+          "winner": "",
+          "votePct": 23.01
+        },
+        {
+          "name": "Carson",
+          "votes": 497,
+          "winner": "",
+          "votePct": 8.41
+        },
+        {
+          "name": "Paul",
+          "votes": 357,
+          "winner": "",
+          "votePct": 6.04
+        },
+        {
+          "name": "Bush",
+          "votes": 178,
+          "winner": "",
+          "votePct": 3.01
+        },
+        {
+          "name": "Fiorina",
+          "votes": 131,
+          "winner": "",
+          "votePct": 2.22
+        },
+        {
+          "name": "Christie",
+          "votes": 104,
+          "winner": "",
+          "votePct": 1.76
+        },
+        {
+          "name": "Huckabee",
+          "votes": 72,
+          "winner": "",
+          "votePct": 1.22
+        },
+        {
+          "name": "Kasich",
+          "votes": 53,
+          "winner": "",
+          "votePct": 0.9
+        },
+        {
+          "name": "Santorum",
+          "votes": 20,
+          "winner": "",
+          "votePct": 0.34
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.03
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19015": {
+      "county": "19015",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 1758,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 566,
+          "winner": "X",
+          "votePct": 32.2
+        },
+        {
+          "name": "Trump",
+          "votes": 412,
+          "winner": "",
+          "votePct": 23.44
+        },
+        {
+          "name": "Rubio",
+          "votes": 320,
+          "winner": "",
+          "votePct": 18.2
+        },
+        {
+          "name": "Carson",
+          "votes": 177,
+          "winner": "",
+          "votePct": 10.07
+        },
+        {
+          "name": "Paul",
+          "votes": 96,
+          "winner": "",
+          "votePct": 5.46
+        },
+        {
+          "name": "Huckabee",
+          "votes": 67,
+          "winner": "",
+          "votePct": 3.81
+        },
+        {
+          "name": "Christie",
+          "votes": 40,
+          "winner": "",
+          "votePct": 2.28
+        },
+        {
+          "name": "Bush",
+          "votes": 31,
+          "winner": "",
+          "votePct": 1.76
+        },
+        {
+          "name": "Kasich",
+          "votes": 22,
+          "winner": "",
+          "votePct": 1.25
+        },
+        {
+          "name": "Santorum",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.08
+        },
+        {
+          "name": "Fiorina",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.4
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.06
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19017": {
+      "county": "19017",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 1490,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 408,
+          "winner": "X",
+          "votePct": 27.38
+        },
+        {
+          "name": "Rubio",
+          "votes": 389,
+          "winner": "",
+          "votePct": 26.11
+        },
+        {
+          "name": "Trump",
+          "votes": 347,
+          "winner": "",
+          "votePct": 23.29
+        },
+        {
+          "name": "Carson",
+          "votes": 134,
+          "winner": "",
+          "votePct": 8.99
+        },
+        {
+          "name": "Kasich",
+          "votes": 50,
+          "winner": "",
+          "votePct": 3.36
+        },
+        {
+          "name": "Paul",
+          "votes": 46,
+          "winner": "",
+          "votePct": 3.09
+        },
+        {
+          "name": "Bush",
+          "votes": 38,
+          "winner": "",
+          "votePct": 2.55
+        },
+        {
+          "name": "Fiorina",
+          "votes": 24,
+          "winner": "",
+          "votePct": 1.61
+        },
+        {
+          "name": "Huckabee",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.28
+        },
+        {
+          "name": "Santorum",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.28
+        },
+        {
+          "name": "Christie",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19019": {
+      "county": "19019",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 837,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 308,
+          "winner": "X",
+          "votePct": 36.8
+        },
+        {
+          "name": "Trump",
+          "votes": 217,
+          "winner": "",
+          "votePct": 25.93
+        },
+        {
+          "name": "Rubio",
+          "votes": 110,
+          "winner": "",
+          "votePct": 13.14
+        },
+        {
+          "name": "Carson",
+          "votes": 82,
+          "winner": "",
+          "votePct": 9.8
+        },
+        {
+          "name": "Paul",
+          "votes": 35,
+          "winner": "",
+          "votePct": 4.18
+        },
+        {
+          "name": "Fiorina",
+          "votes": 31,
+          "winner": "",
+          "votePct": 3.7
+        },
+        {
+          "name": "Huckabee",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.79
+        },
+        {
+          "name": "Christie",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.79
+        },
+        {
+          "name": "Bush",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.67
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.72
+        },
+        {
+          "name": "Santorum",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.48
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19021": {
+      "county": "19021",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 1009,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 309,
+          "winner": "X",
+          "votePct": 30.62
+        },
+        {
+          "name": "Trump",
+          "votes": 251,
+          "winner": "",
+          "votePct": 24.88
+        },
+        {
+          "name": "Rubio",
+          "votes": 221,
+          "winner": "",
+          "votePct": 21.9
+        },
+        {
+          "name": "Carson",
+          "votes": 97,
+          "winner": "",
+          "votePct": 9.61
+        },
+        {
+          "name": "Paul",
+          "votes": 26,
+          "winner": "",
+          "votePct": 2.58
+        },
+        {
+          "name": "Bush",
+          "votes": 23,
+          "winner": "",
+          "votePct": 2.28
+        },
+        {
+          "name": "Santorum",
+          "votes": 22,
+          "winner": "",
+          "votePct": 2.18
+        },
+        {
+          "name": "Fiorina",
+          "votes": 20,
+          "winner": "",
+          "votePct": 1.98
+        },
+        {
+          "name": "Huckabee",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.78
+        },
+        {
+          "name": "Kasich",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.49
+        },
+        {
+          "name": "Christie",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.69
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19023": {
+      "county": "19023",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 910,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 332,
+          "winner": "X",
+          "votePct": 36.48
+        },
+        {
+          "name": "Trump",
+          "votes": 220,
+          "winner": "",
+          "votePct": 24.18
+        },
+        {
+          "name": "Rubio",
+          "votes": 145,
+          "winner": "",
+          "votePct": 15.93
+        },
+        {
+          "name": "Carson",
+          "votes": 108,
+          "winner": "",
+          "votePct": 11.87
+        },
+        {
+          "name": "Paul",
+          "votes": 32,
+          "winner": "",
+          "votePct": 3.52
+        },
+        {
+          "name": "Bush",
+          "votes": 24,
+          "winner": "",
+          "votePct": 2.64
+        },
+        {
+          "name": "Huckabee",
+          "votes": 21,
+          "winner": "",
+          "votePct": 2.31
+        },
+        {
+          "name": "Fiorina",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.98
+        },
+        {
+          "name": "Christie",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.66
+        },
+        {
+          "name": "Kasich",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.33
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.11
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19025": {
+      "county": "19025",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 557,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 159,
+          "winner": "X",
+          "votePct": 28.55
+        },
+        {
+          "name": "Trump",
+          "votes": 136,
+          "winner": "",
+          "votePct": 24.42
+        },
+        {
+          "name": "Rubio",
+          "votes": 121,
+          "winner": "",
+          "votePct": 21.72
+        },
+        {
+          "name": "Carson",
+          "votes": 37,
+          "winner": "",
+          "votePct": 6.64
+        },
+        {
+          "name": "Huckabee",
+          "votes": 35,
+          "winner": "",
+          "votePct": 6.28
+        },
+        {
+          "name": "Paul",
+          "votes": 20,
+          "winner": "",
+          "votePct": 3.59
+        },
+        {
+          "name": "Santorum",
+          "votes": 19,
+          "winner": "",
+          "votePct": 3.41
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.8
+        },
+        {
+          "name": "Fiorina",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.44
+        },
+        {
+          "name": "Kasich",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.26
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.9
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19027": {
+      "county": "19027",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 1026,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 256,
+          "winner": "X",
+          "votePct": 24.95
+        },
+        {
+          "name": "Trump",
+          "votes": 298,
+          "winner": "",
+          "votePct": 29.04
+        },
+        {
+          "name": "Rubio",
+          "votes": 230,
+          "winner": "",
+          "votePct": 22.42
+        },
+        {
+          "name": "Carson",
+          "votes": 69,
+          "winner": "",
+          "votePct": 6.73
+        },
+        {
+          "name": "Bush",
+          "votes": 60,
+          "winner": "",
+          "votePct": 5.85
+        },
+        {
+          "name": "Fiorina",
+          "votes": 44,
+          "winner": "",
+          "votePct": 4.29
+        },
+        {
+          "name": "Paul",
+          "votes": 31,
+          "winner": "",
+          "votePct": 3.02
+        },
+        {
+          "name": "Kasich",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Huckabee",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Christie",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.68
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.49
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.1
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19029": {
+      "county": "19029",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 924,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 225,
+          "winner": "X",
+          "votePct": 24.35
+        },
+        {
+          "name": "Trump",
+          "votes": 262,
+          "winner": "",
+          "votePct": 28.35
+        },
+        {
+          "name": "Rubio",
+          "votes": 176,
+          "winner": "",
+          "votePct": 19.05
+        },
+        {
+          "name": "Carson",
+          "votes": 142,
+          "winner": "",
+          "votePct": 15.37
+        },
+        {
+          "name": "Bush",
+          "votes": 34,
+          "winner": "",
+          "votePct": 3.68
+        },
+        {
+          "name": "Kasich",
+          "votes": 21,
+          "winner": "",
+          "votePct": 2.27
+        },
+        {
+          "name": "Huckabee",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.84
+        },
+        {
+          "name": "Christie",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.62
+        },
+        {
+          "name": "Santorum",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.41
+        },
+        {
+          "name": "Fiorina",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.08
+        },
+        {
+          "name": "Paul",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.97
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19031": {
+      "county": "19031",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 1070,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 310,
+          "winner": "X",
+          "votePct": 28.97
+        },
+        {
+          "name": "Trump",
+          "votes": 281,
+          "winner": "",
+          "votePct": 26.26
+        },
+        {
+          "name": "Rubio",
+          "votes": 240,
+          "winner": "",
+          "votePct": 22.43
+        },
+        {
+          "name": "Carson",
+          "votes": 100,
+          "winner": "",
+          "votePct": 9.35
+        },
+        {
+          "name": "Paul",
+          "votes": 43,
+          "winner": "",
+          "votePct": 4.02
+        },
+        {
+          "name": "Kasich",
+          "votes": 26,
+          "winner": "",
+          "votePct": 2.43
+        },
+        {
+          "name": "Fiorina",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.78
+        },
+        {
+          "name": "Bush",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.59
+        },
+        {
+          "name": "Huckabee",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.84
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.56
+        },
+        {
+          "name": "Other",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.47
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.09
+        }
+      ]
+    },
+    "19033": {
+      "county": "19033",
+      "precinctsReporting": 26,
+      "totalPrecincts": 26,
+      "totalVotes": 2325,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 655,
+          "winner": "X",
+          "votePct": 28.17
+        },
+        {
+          "name": "Trump",
+          "votes": 597,
+          "winner": "",
+          "votePct": 25.68
+        },
+        {
+          "name": "Rubio",
+          "votes": 446,
+          "winner": "",
+          "votePct": 19.18
+        },
+        {
+          "name": "Carson",
+          "votes": 184,
+          "winner": "",
+          "votePct": 7.91
+        },
+        {
+          "name": "Bush",
+          "votes": 119,
+          "winner": "",
+          "votePct": 5.12
+        },
+        {
+          "name": "Christie",
+          "votes": 114,
+          "winner": "",
+          "votePct": 4.9
+        },
+        {
+          "name": "Paul",
+          "votes": 78,
+          "winner": "",
+          "votePct": 3.35
+        },
+        {
+          "name": "Fiorina",
+          "votes": 42,
+          "winner": "",
+          "votePct": 1.81
+        },
+        {
+          "name": "Huckabee",
+          "votes": 39,
+          "winner": "",
+          "votePct": 1.68
+        },
+        {
+          "name": "Kasich",
+          "votes": 29,
+          "winner": "",
+          "votePct": 1.25
+        },
+        {
+          "name": "Santorum",
+          "votes": 18,
+          "winner": "",
+          "votePct": 0.77
+        },
+        {
+          "name": "Other",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.17
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19035": {
+      "county": "19035",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 839,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 157,
+          "winner": "X",
+          "votePct": 18.71
+        },
+        {
+          "name": "Trump",
+          "votes": 248,
+          "winner": "",
+          "votePct": 29.56
+        },
+        {
+          "name": "Rubio",
+          "votes": 243,
+          "winner": "",
+          "votePct": 28.96
+        },
+        {
+          "name": "Carson",
+          "votes": 119,
+          "winner": "",
+          "votePct": 14.18
+        },
+        {
+          "name": "Huckabee",
+          "votes": 17,
+          "winner": "",
+          "votePct": 2.03
+        },
+        {
+          "name": "Bush",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.91
+        },
+        {
+          "name": "Paul",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.43
+        },
+        {
+          "name": "Fiorina",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.31
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Kasich",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.12
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19037": {
+      "county": "19037",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 601,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 161,
+          "winner": "X",
+          "votePct": 26.79
+        },
+        {
+          "name": "Trump",
+          "votes": 166,
+          "winner": "",
+          "votePct": 27.62
+        },
+        {
+          "name": "Rubio",
+          "votes": 143,
+          "winner": "",
+          "votePct": 23.79
+        },
+        {
+          "name": "Carson",
+          "votes": 57,
+          "winner": "",
+          "votePct": 9.48
+        },
+        {
+          "name": "Fiorina",
+          "votes": 27,
+          "winner": "",
+          "votePct": 4.49
+        },
+        {
+          "name": "Paul",
+          "votes": 18,
+          "winner": "",
+          "votePct": 3
+        },
+        {
+          "name": "Bush",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.83
+        },
+        {
+          "name": "Huckabee",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Kasich",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.5
+        },
+        {
+          "name": "Christie",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.33
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.17
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19039": {
+      "county": "19039",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 557,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 155,
+          "winner": "X",
+          "votePct": 27.83
+        },
+        {
+          "name": "Trump",
+          "votes": 202,
+          "winner": "",
+          "votePct": 36.27
+        },
+        {
+          "name": "Rubio",
+          "votes": 88,
+          "winner": "",
+          "votePct": 15.8
+        },
+        {
+          "name": "Carson",
+          "votes": 56,
+          "winner": "",
+          "votePct": 10.05
+        },
+        {
+          "name": "Paul",
+          "votes": 15,
+          "winner": "",
+          "votePct": 2.69
+        },
+        {
+          "name": "Bush",
+          "votes": 12,
+          "winner": "",
+          "votePct": 2.15
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.62
+        },
+        {
+          "name": "Fiorina",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.62
+        },
+        {
+          "name": "Huckabee",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.44
+        },
+        {
+          "name": "Kasich",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.54
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19041": {
+      "county": "19041",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 1025,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 291,
+          "winner": "X",
+          "votePct": 28.39
+        },
+        {
+          "name": "Trump",
+          "votes": 292,
+          "winner": "",
+          "votePct": 28.49
+        },
+        {
+          "name": "Carson",
+          "votes": 155,
+          "winner": "",
+          "votePct": 15.12
+        },
+        {
+          "name": "Rubio",
+          "votes": 149,
+          "winner": "",
+          "votePct": 14.54
+        },
+        {
+          "name": "Kasich",
+          "votes": 31,
+          "winner": "",
+          "votePct": 3.02
+        },
+        {
+          "name": "Paul",
+          "votes": 28,
+          "winner": "",
+          "votePct": 2.73
+        },
+        {
+          "name": "Huckabee",
+          "votes": 25,
+          "winner": "",
+          "votePct": 2.44
+        },
+        {
+          "name": "Bush",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.56
+        },
+        {
+          "name": "Christie",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.46
+        },
+        {
+          "name": "Santorum",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.37
+        },
+        {
+          "name": "Fiorina",
+          "votes": 8,
+          "winner": "",
+          "votePct": 0.78
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.1
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19043": {
+      "county": "19043",
+      "precinctsReporting": 14,
+      "totalPrecincts": 14,
+      "totalVotes": 846,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 298,
+          "winner": "X",
+          "votePct": 35.22
+        },
+        {
+          "name": "Trump",
+          "votes": 249,
+          "winner": "",
+          "votePct": 29.43
+        },
+        {
+          "name": "Rubio",
+          "votes": 109,
+          "winner": "",
+          "votePct": 12.88
+        },
+        {
+          "name": "Carson",
+          "votes": 67,
+          "winner": "",
+          "votePct": 7.92
+        },
+        {
+          "name": "Paul",
+          "votes": 29,
+          "winner": "",
+          "votePct": 3.43
+        },
+        {
+          "name": "Bush",
+          "votes": 26,
+          "winner": "",
+          "votePct": 3.07
+        },
+        {
+          "name": "Fiorina",
+          "votes": 26,
+          "winner": "",
+          "votePct": 3.07
+        },
+        {
+          "name": "Huckabee",
+          "votes": 17,
+          "winner": "",
+          "votePct": 2.01
+        },
+        {
+          "name": "Kasich",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.3
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.06
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.59
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19045": {
+      "county": "19045",
+      "precinctsReporting": 26,
+      "totalPrecincts": 26,
+      "totalVotes": 2306,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 621,
+          "winner": "X",
+          "votePct": 26.93
+        },
+        {
+          "name": "Trump",
+          "votes": 709,
+          "winner": "",
+          "votePct": 30.75
+        },
+        {
+          "name": "Rubio",
+          "votes": 459,
+          "winner": "",
+          "votePct": 19.9
+        },
+        {
+          "name": "Carson",
+          "votes": 159,
+          "winner": "",
+          "votePct": 6.9
+        },
+        {
+          "name": "Bush",
+          "votes": 106,
+          "winner": "",
+          "votePct": 4.6
+        },
+        {
+          "name": "Paul",
+          "votes": 94,
+          "winner": "",
+          "votePct": 4.08
+        },
+        {
+          "name": "Fiorina",
+          "votes": 70,
+          "winner": "",
+          "votePct": 3.04
+        },
+        {
+          "name": "Kasich",
+          "votes": 41,
+          "winner": "",
+          "votePct": 1.78
+        },
+        {
+          "name": "Christie",
+          "votes": 26,
+          "winner": "",
+          "votePct": 1.13
+        },
+        {
+          "name": "Huckabee",
+          "votes": 15,
+          "winner": "",
+          "votePct": 0.65
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.26
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19047": {
+      "county": "19047",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 699,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 226,
+          "winner": "X",
+          "votePct": 32.33
+        },
+        {
+          "name": "Trump",
+          "votes": 214,
+          "winner": "",
+          "votePct": 30.62
+        },
+        {
+          "name": "Rubio",
+          "votes": 114,
+          "winner": "",
+          "votePct": 16.31
+        },
+        {
+          "name": "Carson",
+          "votes": 63,
+          "winner": "",
+          "votePct": 9.01
+        },
+        {
+          "name": "Fiorina",
+          "votes": 24,
+          "winner": "",
+          "votePct": 3.43
+        },
+        {
+          "name": "Christie",
+          "votes": 14,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Bush",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.72
+        },
+        {
+          "name": "Paul",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.72
+        },
+        {
+          "name": "Kasich",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.14
+        },
+        {
+          "name": "Huckabee",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.72
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19049": {
+      "county": "19049",
+      "precinctsReporting": 34,
+      "totalPrecincts": 34,
+      "totalVotes": 7282,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1691,
+          "winner": "X",
+          "votePct": 23.22
+        },
+        {
+          "name": "Rubio",
+          "votes": 2469,
+          "winner": "",
+          "votePct": 33.91
+        },
+        {
+          "name": "Trump",
+          "votes": 1510,
+          "winner": "",
+          "votePct": 20.74
+        },
+        {
+          "name": "Carson",
+          "votes": 489,
+          "winner": "",
+          "votePct": 6.72
+        },
+        {
+          "name": "Paul",
+          "votes": 276,
+          "winner": "",
+          "votePct": 3.79
+        },
+        {
+          "name": "Christie",
+          "votes": 214,
+          "winner": "",
+          "votePct": 2.94
+        },
+        {
+          "name": "Bush",
+          "votes": 213,
+          "winner": "",
+          "votePct": 2.93
+        },
+        {
+          "name": "Kasich",
+          "votes": 167,
+          "winner": "",
+          "votePct": 2.29
+        },
+        {
+          "name": "Fiorina",
+          "votes": 133,
+          "winner": "",
+          "votePct": 1.83
+        },
+        {
+          "name": "Huckabee",
+          "votes": 61,
+          "winner": "",
+          "votePct": 0.84
+        },
+        {
+          "name": "Santorum",
+          "votes": 58,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.01
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19051": {
+      "county": "19051",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 531,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 168,
+          "winner": "X",
+          "votePct": 31.64
+        },
+        {
+          "name": "Trump",
+          "votes": 205,
+          "winner": "",
+          "votePct": 38.61
+        },
+        {
+          "name": "Carson",
+          "votes": 38,
+          "winner": "",
+          "votePct": 7.16
+        },
+        {
+          "name": "Huckabee",
+          "votes": 38,
+          "winner": "",
+          "votePct": 7.16
+        },
+        {
+          "name": "Rubio",
+          "votes": 37,
+          "winner": "",
+          "votePct": 6.97
+        },
+        {
+          "name": "Paul",
+          "votes": 25,
+          "winner": "",
+          "votePct": 4.71
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.88
+        },
+        {
+          "name": "Christie",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.51
+        },
+        {
+          "name": "Fiorina",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.19
+        },
+        {
+          "name": "Kasich",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.19
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19053": {
+      "county": "19053",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 497,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 173,
+          "winner": "X",
+          "votePct": 34.81
+        },
+        {
+          "name": "Trump",
+          "votes": 127,
+          "winner": "",
+          "votePct": 25.55
+        },
+        {
+          "name": "Carson",
+          "votes": 80,
+          "winner": "",
+          "votePct": 16.1
+        },
+        {
+          "name": "Rubio",
+          "votes": 73,
+          "winner": "",
+          "votePct": 14.69
+        },
+        {
+          "name": "Paul",
+          "votes": 19,
+          "winner": "",
+          "votePct": 3.82
+        },
+        {
+          "name": "Huckabee",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Bush",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.01
+        },
+        {
+          "name": "Kasich",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Santorum",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Fiorina",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.4
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19055": {
+      "county": "19055",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 894,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 317,
+          "winner": "X",
+          "votePct": 35.46
+        },
+        {
+          "name": "Trump",
+          "votes": 198,
+          "winner": "",
+          "votePct": 22.15
+        },
+        {
+          "name": "Rubio",
+          "votes": 172,
+          "winner": "",
+          "votePct": 19.24
+        },
+        {
+          "name": "Carson",
+          "votes": 92,
+          "winner": "",
+          "votePct": 10.29
+        },
+        {
+          "name": "Fiorina",
+          "votes": 52,
+          "winner": "",
+          "votePct": 5.82
+        },
+        {
+          "name": "Paul",
+          "votes": 27,
+          "winner": "",
+          "votePct": 3.02
+        },
+        {
+          "name": "Bush",
+          "votes": 19,
+          "winner": "",
+          "votePct": 2.13
+        },
+        {
+          "name": "Huckabee",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.78
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.56
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.34
+        },
+        {
+          "name": "Kasich",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.22
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19057": {
+      "county": "19057",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 2166,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 613,
+          "winner": "X",
+          "votePct": 28.3
+        },
+        {
+          "name": "Trump",
+          "votes": 659,
+          "winner": "",
+          "votePct": 30.42
+        },
+        {
+          "name": "Rubio",
+          "votes": 451,
+          "winner": "",
+          "votePct": 20.82
+        },
+        {
+          "name": "Carson",
+          "votes": 212,
+          "winner": "",
+          "votePct": 9.79
+        },
+        {
+          "name": "Paul",
+          "votes": 99,
+          "winner": "",
+          "votePct": 4.57
+        },
+        {
+          "name": "Christie",
+          "votes": 35,
+          "winner": "",
+          "votePct": 1.62
+        },
+        {
+          "name": "Huckabee",
+          "votes": 31,
+          "winner": "",
+          "votePct": 1.43
+        },
+        {
+          "name": "Kasich",
+          "votes": 20,
+          "winner": "",
+          "votePct": 0.92
+        },
+        {
+          "name": "Bush",
+          "votes": 19,
+          "winner": "",
+          "votePct": 0.88
+        },
+        {
+          "name": "Fiorina",
+          "votes": 17,
+          "winner": "",
+          "votePct": 0.78
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.28
+        },
+        {
+          "name": "Other",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.18
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19059": {
+      "county": "19059",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 1202,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 260,
+          "winner": "X",
+          "votePct": 21.63
+        },
+        {
+          "name": "Trump",
+          "votes": 342,
+          "winner": "",
+          "votePct": 28.45
+        },
+        {
+          "name": "Rubio",
+          "votes": 286,
+          "winner": "",
+          "votePct": 23.79
+        },
+        {
+          "name": "Carson",
+          "votes": 159,
+          "winner": "",
+          "votePct": 13.23
+        },
+        {
+          "name": "Bush",
+          "votes": 46,
+          "winner": "",
+          "votePct": 3.83
+        },
+        {
+          "name": "Paul",
+          "votes": 34,
+          "winner": "",
+          "votePct": 2.83
+        },
+        {
+          "name": "Kasich",
+          "votes": 27,
+          "winner": "",
+          "votePct": 2.25
+        },
+        {
+          "name": "Huckabee",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.25
+        },
+        {
+          "name": "Fiorina",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Christie",
+          "votes": 8,
+          "winner": "",
+          "votePct": 0.67
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.08
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19061": {
+      "county": "19061",
+      "precinctsReporting": 35,
+      "totalPrecincts": 35,
+      "totalVotes": 3975,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 824,
+          "winner": "X",
+          "votePct": 20.73
+        },
+        {
+          "name": "Trump",
+          "votes": 1087,
+          "winner": "",
+          "votePct": 27.35
+        },
+        {
+          "name": "Rubio",
+          "votes": 1060,
+          "winner": "",
+          "votePct": 26.67
+        },
+        {
+          "name": "Carson",
+          "votes": 384,
+          "winner": "",
+          "votePct": 9.66
+        },
+        {
+          "name": "Paul",
+          "votes": 230,
+          "winner": "",
+          "votePct": 5.79
+        },
+        {
+          "name": "Fiorina",
+          "votes": 97,
+          "winner": "",
+          "votePct": 2.44
+        },
+        {
+          "name": "Bush",
+          "votes": 95,
+          "winner": "",
+          "votePct": 2.39
+        },
+        {
+          "name": "Christie",
+          "votes": 75,
+          "winner": "",
+          "votePct": 1.89
+        },
+        {
+          "name": "Kasich",
+          "votes": 54,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Huckabee",
+          "votes": 48,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Santorum",
+          "votes": 21,
+          "winner": "",
+          "votePct": 0.53
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19063": {
+      "county": "19063",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 403,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 143,
+          "winner": "X",
+          "votePct": 35.48
+        },
+        {
+          "name": "Trump",
+          "votes": 122,
+          "winner": "",
+          "votePct": 30.27
+        },
+        {
+          "name": "Carson",
+          "votes": 49,
+          "winner": "",
+          "votePct": 12.16
+        },
+        {
+          "name": "Rubio",
+          "votes": 46,
+          "winner": "",
+          "votePct": 11.41
+        },
+        {
+          "name": "Bush",
+          "votes": 11,
+          "winner": "",
+          "votePct": 2.73
+        },
+        {
+          "name": "Huckabee",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.48
+        },
+        {
+          "name": "Fiorina",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.99
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.24
+        },
+        {
+          "name": "Kasich",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.99
+        },
+        {
+          "name": "Paul",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.99
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.25
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19065": {
+      "county": "19065",
+      "precinctsReporting": 25,
+      "totalPrecincts": 25,
+      "totalVotes": 1000,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 341,
+          "winner": "X",
+          "votePct": 34.1
+        },
+        {
+          "name": "Trump",
+          "votes": 240,
+          "winner": "",
+          "votePct": 24
+        },
+        {
+          "name": "Rubio",
+          "votes": 180,
+          "winner": "",
+          "votePct": 18
+        },
+        {
+          "name": "Carson",
+          "votes": 144,
+          "winner": "",
+          "votePct": 14.4
+        },
+        {
+          "name": "Paul",
+          "votes": 27,
+          "winner": "",
+          "votePct": 2.7
+        },
+        {
+          "name": "Bush",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.8
+        },
+        {
+          "name": "Fiorina",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.8
+        },
+        {
+          "name": "Huckabee",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.7
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Christie",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.3
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19067": {
+      "county": "19067",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 760,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 305,
+          "winner": "X",
+          "votePct": 40.13
+        },
+        {
+          "name": "Trump",
+          "votes": 200,
+          "winner": "",
+          "votePct": 26.32
+        },
+        {
+          "name": "Rubio",
+          "votes": 105,
+          "winner": "",
+          "votePct": 13.82
+        },
+        {
+          "name": "Carson",
+          "votes": 83,
+          "winner": "",
+          "votePct": 10.92
+        },
+        {
+          "name": "Bush",
+          "votes": 23,
+          "winner": "",
+          "votePct": 3.03
+        },
+        {
+          "name": "Paul",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.32
+        },
+        {
+          "name": "Kasich",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.18
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.18
+        },
+        {
+          "name": "Fiorina",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.05
+        },
+        {
+          "name": "Huckabee",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.05
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19069": {
+      "county": "19069",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 628,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 225,
+          "winner": "X",
+          "votePct": 35.83
+        },
+        {
+          "name": "Trump",
+          "votes": 159,
+          "winner": "",
+          "votePct": 25.32
+        },
+        {
+          "name": "Rubio",
+          "votes": 105,
+          "winner": "",
+          "votePct": 16.72
+        },
+        {
+          "name": "Carson",
+          "votes": 62,
+          "winner": "",
+          "votePct": 9.87
+        },
+        {
+          "name": "Huckabee",
+          "votes": 23,
+          "winner": "",
+          "votePct": 3.66
+        },
+        {
+          "name": "Paul",
+          "votes": 23,
+          "winner": "",
+          "votePct": 3.66
+        },
+        {
+          "name": "Bush",
+          "votes": 18,
+          "winner": "",
+          "votePct": 2.87
+        },
+        {
+          "name": "Fiorina",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Kasich",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.64
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.48
+        },
+        {
+          "name": "Christie",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.16
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19071": {
+      "county": "19071",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 426,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 87,
+          "winner": "X",
+          "votePct": 20.42
+        },
+        {
+          "name": "Trump",
+          "votes": 182,
+          "winner": "",
+          "votePct": 42.72
+        },
+        {
+          "name": "Rubio",
+          "votes": 77,
+          "winner": "",
+          "votePct": 18.08
+        },
+        {
+          "name": "Carson",
+          "votes": 40,
+          "winner": "",
+          "votePct": 9.39
+        },
+        {
+          "name": "Paul",
+          "votes": 11,
+          "winner": "",
+          "votePct": 2.58
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.35
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.41
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.17
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.17
+        },
+        {
+          "name": "Huckabee",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.47
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.23
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Fiorina",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19073": {
+      "county": "19073",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 546,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 162,
+          "winner": "X",
+          "votePct": 29.67
+        },
+        {
+          "name": "Trump",
+          "votes": 164,
+          "winner": "",
+          "votePct": 30.04
+        },
+        {
+          "name": "Rubio",
+          "votes": 77,
+          "winner": "",
+          "votePct": 14.1
+        },
+        {
+          "name": "Carson",
+          "votes": 62,
+          "winner": "",
+          "votePct": 11.36
+        },
+        {
+          "name": "Bush",
+          "votes": 25,
+          "winner": "",
+          "votePct": 4.58
+        },
+        {
+          "name": "Paul",
+          "votes": 14,
+          "winner": "",
+          "votePct": 2.56
+        },
+        {
+          "name": "Huckabee",
+          "votes": 14,
+          "winner": "",
+          "votePct": 2.56
+        },
+        {
+          "name": "Christie",
+          "votes": 13,
+          "winner": "",
+          "votePct": 2.38
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.28
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.1
+        },
+        {
+          "name": "Fiorina",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.37
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19075": {
+      "county": "19075",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 946,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 272,
+          "winner": "X",
+          "votePct": 28.75
+        },
+        {
+          "name": "Rubio",
+          "votes": 261,
+          "winner": "",
+          "votePct": 27.59
+        },
+        {
+          "name": "Trump",
+          "votes": 198,
+          "winner": "",
+          "votePct": 20.93
+        },
+        {
+          "name": "Carson",
+          "votes": 73,
+          "winner": "",
+          "votePct": 7.72
+        },
+        {
+          "name": "Huckabee",
+          "votes": 50,
+          "winner": "",
+          "votePct": 5.29
+        },
+        {
+          "name": "Paul",
+          "votes": 32,
+          "winner": "",
+          "votePct": 3.38
+        },
+        {
+          "name": "Bush",
+          "votes": 26,
+          "winner": "",
+          "votePct": 2.75
+        },
+        {
+          "name": "Christie",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.27
+        },
+        {
+          "name": "Fiorina",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.06
+        },
+        {
+          "name": "Santorum",
+          "votes": 8,
+          "winner": "",
+          "votePct": 0.85
+        },
+        {
+          "name": "Kasich",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.42
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19077": {
+      "county": "19077",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 754,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 218,
+          "winner": "X",
+          "votePct": 28.91
+        },
+        {
+          "name": "Trump",
+          "votes": 208,
+          "winner": "",
+          "votePct": 27.59
+        },
+        {
+          "name": "Rubio",
+          "votes": 118,
+          "winner": "",
+          "votePct": 15.65
+        },
+        {
+          "name": "Carson",
+          "votes": 107,
+          "winner": "",
+          "votePct": 14.19
+        },
+        {
+          "name": "Paul",
+          "votes": 28,
+          "winner": "",
+          "votePct": 3.71
+        },
+        {
+          "name": "Huckabee",
+          "votes": 23,
+          "winner": "",
+          "votePct": 3.05
+        },
+        {
+          "name": "Fiorina",
+          "votes": 18,
+          "winner": "",
+          "votePct": 2.39
+        },
+        {
+          "name": "Bush",
+          "votes": 16,
+          "winner": "",
+          "votePct": 2.12
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.19
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.93
+        },
+        {
+          "name": "Kasich",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.27
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19079": {
+      "county": "19079",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 957,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 277,
+          "winner": "X",
+          "votePct": 28.94
+        },
+        {
+          "name": "Trump",
+          "votes": 269,
+          "winner": "",
+          "votePct": 28.11
+        },
+        {
+          "name": "Rubio",
+          "votes": 159,
+          "winner": "",
+          "votePct": 16.61
+        },
+        {
+          "name": "Carson",
+          "votes": 89,
+          "winner": "",
+          "votePct": 9.3
+        },
+        {
+          "name": "Paul",
+          "votes": 48,
+          "winner": "",
+          "votePct": 5.02
+        },
+        {
+          "name": "Huckabee",
+          "votes": 25,
+          "winner": "",
+          "votePct": 2.61
+        },
+        {
+          "name": "Christie",
+          "votes": 21,
+          "winner": "",
+          "votePct": 2.19
+        },
+        {
+          "name": "Kasich",
+          "votes": 20,
+          "winner": "",
+          "votePct": 2.09
+        },
+        {
+          "name": "Santorum",
+          "votes": 20,
+          "winner": "",
+          "votePct": 2.09
+        },
+        {
+          "name": "Fiorina",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.46
+        },
+        {
+          "name": "Bush",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.21
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19081": {
+      "county": "19081",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 849,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 385,
+          "winner": "X",
+          "votePct": 45.35
+        },
+        {
+          "name": "Trump",
+          "votes": 160,
+          "winner": "",
+          "votePct": 18.85
+        },
+        {
+          "name": "Rubio",
+          "votes": 132,
+          "winner": "",
+          "votePct": 15.55
+        },
+        {
+          "name": "Carson",
+          "votes": 71,
+          "winner": "",
+          "votePct": 8.36
+        },
+        {
+          "name": "Bush",
+          "votes": 22,
+          "winner": "",
+          "votePct": 2.59
+        },
+        {
+          "name": "Paul",
+          "votes": 21,
+          "winner": "",
+          "votePct": 2.47
+        },
+        {
+          "name": "Fiorina",
+          "votes": 19,
+          "winner": "",
+          "votePct": 2.24
+        },
+        {
+          "name": "Huckabee",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.88
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.41
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.71
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.59
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19083": {
+      "county": "19083",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 1270,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 417,
+          "winner": "X",
+          "votePct": 32.83
+        },
+        {
+          "name": "Trump",
+          "votes": 295,
+          "winner": "",
+          "votePct": 23.23
+        },
+        {
+          "name": "Rubio",
+          "votes": 225,
+          "winner": "",
+          "votePct": 17.72
+        },
+        {
+          "name": "Carson",
+          "votes": 138,
+          "winner": "",
+          "votePct": 10.87
+        },
+        {
+          "name": "Paul",
+          "votes": 45,
+          "winner": "",
+          "votePct": 3.54
+        },
+        {
+          "name": "Christie",
+          "votes": 33,
+          "winner": "",
+          "votePct": 2.6
+        },
+        {
+          "name": "Huckabee",
+          "votes": 31,
+          "winner": "",
+          "votePct": 2.44
+        },
+        {
+          "name": "Santorum",
+          "votes": 29,
+          "winner": "",
+          "votePct": 2.28
+        },
+        {
+          "name": "Fiorina",
+          "votes": 25,
+          "winner": "",
+          "votePct": 1.97
+        },
+        {
+          "name": "Bush",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.5
+        },
+        {
+          "name": "Kasich",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.94
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.08
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19085": {
+      "county": "19085",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 1019,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 282,
+          "winner": "X",
+          "votePct": 27.67
+        },
+        {
+          "name": "Trump",
+          "votes": 315,
+          "winner": "",
+          "votePct": 30.91
+        },
+        {
+          "name": "Carson",
+          "votes": 221,
+          "winner": "",
+          "votePct": 21.69
+        },
+        {
+          "name": "Rubio",
+          "votes": 112,
+          "winner": "",
+          "votePct": 10.99
+        },
+        {
+          "name": "Fiorina",
+          "votes": 24,
+          "winner": "",
+          "votePct": 2.36
+        },
+        {
+          "name": "Christie",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.67
+        },
+        {
+          "name": "Paul",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.67
+        },
+        {
+          "name": "Huckabee",
+          "votes": 10,
+          "winner": "",
+          "votePct": 0.98
+        },
+        {
+          "name": "Kasich",
+          "votes": 10,
+          "winner": "",
+          "votePct": 0.98
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.59
+        },
+        {
+          "name": "Bush",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.49
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19087": {
+      "county": "19087",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 1212,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 379,
+          "winner": "X",
+          "votePct": 31.27
+        },
+        {
+          "name": "Trump",
+          "votes": 273,
+          "winner": "",
+          "votePct": 22.52
+        },
+        {
+          "name": "Rubio",
+          "votes": 228,
+          "winner": "",
+          "votePct": 18.81
+        },
+        {
+          "name": "Carson",
+          "votes": 189,
+          "winner": "",
+          "votePct": 15.59
+        },
+        {
+          "name": "Huckabee",
+          "votes": 33,
+          "winner": "",
+          "votePct": 2.72
+        },
+        {
+          "name": "Bush",
+          "votes": 31,
+          "winner": "",
+          "votePct": 2.56
+        },
+        {
+          "name": "Paul",
+          "votes": 30,
+          "winner": "",
+          "votePct": 2.48
+        },
+        {
+          "name": "Fiorina",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.49
+        },
+        {
+          "name": "Kasich",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.99
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.99
+        },
+        {
+          "name": "Christie",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.58
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19089": {
+      "county": "19089",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 367,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 106,
+          "winner": "X",
+          "votePct": 28.88
+        },
+        {
+          "name": "Trump",
+          "votes": 112,
+          "winner": "",
+          "votePct": 30.52
+        },
+        {
+          "name": "Rubio",
+          "votes": 89,
+          "winner": "",
+          "votePct": 24.25
+        },
+        {
+          "name": "Carson",
+          "votes": 26,
+          "winner": "",
+          "votePct": 7.08
+        },
+        {
+          "name": "Bush",
+          "votes": 19,
+          "winner": "",
+          "votePct": 5.18
+        },
+        {
+          "name": "Paul",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Huckabee",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Fiorina",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.82
+        },
+        {
+          "name": "Christie",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.54
+        },
+        {
+          "name": "Kasich",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19091": {
+      "county": "19091",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 605,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 168,
+          "winner": "X",
+          "votePct": 27.77
+        },
+        {
+          "name": "Trump",
+          "votes": 204,
+          "winner": "",
+          "votePct": 33.72
+        },
+        {
+          "name": "Rubio",
+          "votes": 111,
+          "winner": "",
+          "votePct": 18.35
+        },
+        {
+          "name": "Carson",
+          "votes": 48,
+          "winner": "",
+          "votePct": 7.93
+        },
+        {
+          "name": "Huckabee",
+          "votes": 17,
+          "winner": "",
+          "votePct": 2.81
+        },
+        {
+          "name": "Paul",
+          "votes": 16,
+          "winner": "",
+          "votePct": 2.64
+        },
+        {
+          "name": "Bush",
+          "votes": 14,
+          "winner": "",
+          "votePct": 2.31
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.49
+        },
+        {
+          "name": "Santorum",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.49
+        },
+        {
+          "name": "Fiorina",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.99
+        },
+        {
+          "name": "Kasich",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.5
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19093": {
+      "county": "19093",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 527,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 135,
+          "winner": "X",
+          "votePct": 25.62
+        },
+        {
+          "name": "Trump",
+          "votes": 136,
+          "winner": "",
+          "votePct": 25.81
+        },
+        {
+          "name": "Rubio",
+          "votes": 135,
+          "winner": "",
+          "votePct": 25.62
+        },
+        {
+          "name": "Carson",
+          "votes": 43,
+          "winner": "",
+          "votePct": 8.16
+        },
+        {
+          "name": "Fiorina",
+          "votes": 32,
+          "winner": "",
+          "votePct": 6.07
+        },
+        {
+          "name": "Santorum",
+          "votes": 14,
+          "winner": "",
+          "votePct": 2.66
+        },
+        {
+          "name": "Huckabee",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.52
+        },
+        {
+          "name": "Bush",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.52
+        },
+        {
+          "name": "Paul",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.33
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.76
+        },
+        {
+          "name": "Kasich",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.57
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.38
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19095": {
+      "county": "19095",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 1033,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 353,
+          "winner": "X",
+          "votePct": 34.17
+        },
+        {
+          "name": "Trump",
+          "votes": 249,
+          "winner": "",
+          "votePct": 24.1
+        },
+        {
+          "name": "Rubio",
+          "votes": 163,
+          "winner": "",
+          "votePct": 15.78
+        },
+        {
+          "name": "Carson",
+          "votes": 105,
+          "winner": "",
+          "votePct": 10.16
+        },
+        {
+          "name": "Paul",
+          "votes": 56,
+          "winner": "",
+          "votePct": 5.42
+        },
+        {
+          "name": "Huckabee",
+          "votes": 33,
+          "winner": "",
+          "votePct": 3.19
+        },
+        {
+          "name": "Fiorina",
+          "votes": 25,
+          "winner": "",
+          "votePct": 2.42
+        },
+        {
+          "name": "Kasich",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Christie",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.16
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.16
+        },
+        {
+          "name": "Bush",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.06
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19097": {
+      "county": "19097",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 930,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 265,
+          "winner": "X",
+          "votePct": 28.49
+        },
+        {
+          "name": "Trump",
+          "votes": 306,
+          "winner": "",
+          "votePct": 32.9
+        },
+        {
+          "name": "Rubio",
+          "votes": 169,
+          "winner": "",
+          "votePct": 18.17
+        },
+        {
+          "name": "Carson",
+          "votes": 64,
+          "winner": "",
+          "votePct": 6.88
+        },
+        {
+          "name": "Paul",
+          "votes": 34,
+          "winner": "",
+          "votePct": 3.66
+        },
+        {
+          "name": "Bush",
+          "votes": 26,
+          "winner": "",
+          "votePct": 2.8
+        },
+        {
+          "name": "Fiorina",
+          "votes": 21,
+          "winner": "",
+          "votePct": 2.26
+        },
+        {
+          "name": "Christie",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.94
+        },
+        {
+          "name": "Kasich",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.18
+        },
+        {
+          "name": "Huckabee",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.97
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.54
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.11
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.11
+        }
+      ]
+    },
+    "19099": {
+      "county": "19099",
+      "precinctsReporting": 20,
+      "totalPrecincts": 20,
+      "totalVotes": 2324,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 812,
+          "winner": "X",
+          "votePct": 34.94
+        },
+        {
+          "name": "Trump",
+          "votes": 583,
+          "winner": "",
+          "votePct": 25.09
+        },
+        {
+          "name": "Rubio",
+          "votes": 417,
+          "winner": "",
+          "votePct": 17.94
+        },
+        {
+          "name": "Carson",
+          "votes": 207,
+          "winner": "",
+          "votePct": 8.91
+        },
+        {
+          "name": "Paul",
+          "votes": 100,
+          "winner": "",
+          "votePct": 4.3
+        },
+        {
+          "name": "Huckabee",
+          "votes": 72,
+          "winner": "",
+          "votePct": 3.1
+        },
+        {
+          "name": "Bush",
+          "votes": 46,
+          "winner": "",
+          "votePct": 1.98
+        },
+        {
+          "name": "Fiorina",
+          "votes": 31,
+          "winner": "",
+          "votePct": 1.33
+        },
+        {
+          "name": "Christie",
+          "votes": 30,
+          "winner": "",
+          "votePct": 1.29
+        },
+        {
+          "name": "Kasich",
+          "votes": 13,
+          "winner": "",
+          "votePct": 0.56
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.52
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.04
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19101": {
+      "county": "19101",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 852,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 270,
+          "winner": "X",
+          "votePct": 31.69
+        },
+        {
+          "name": "Trump",
+          "votes": 223,
+          "winner": "",
+          "votePct": 26.17
+        },
+        {
+          "name": "Rubio",
+          "votes": 104,
+          "winner": "",
+          "votePct": 12.21
+        },
+        {
+          "name": "Paul",
+          "votes": 67,
+          "winner": "",
+          "votePct": 7.86
+        },
+        {
+          "name": "Carson",
+          "votes": 55,
+          "winner": "",
+          "votePct": 6.46
+        },
+        {
+          "name": "Huckabee",
+          "votes": 51,
+          "winner": "",
+          "votePct": 5.99
+        },
+        {
+          "name": "Kasich",
+          "votes": 25,
+          "winner": "",
+          "votePct": 2.93
+        },
+        {
+          "name": "Santorum",
+          "votes": 18,
+          "winner": "",
+          "votePct": 2.11
+        },
+        {
+          "name": "Bush",
+          "votes": 17,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Fiorina",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.29
+        },
+        {
+          "name": "Christie",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.82
+        },
+        {
+          "name": "Other",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.47
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19103": {
+      "county": "19103",
+      "precinctsReporting": 57,
+      "totalPrecincts": 57,
+      "totalVotes": 7227,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1413,
+          "winner": "X",
+          "votePct": 19.55
+        },
+        {
+          "name": "Rubio",
+          "votes": 2207,
+          "winner": "",
+          "votePct": 30.54
+        },
+        {
+          "name": "Trump",
+          "votes": 1394,
+          "winner": "",
+          "votePct": 19.29
+        },
+        {
+          "name": "Paul",
+          "votes": 691,
+          "winner": "",
+          "votePct": 9.56
+        },
+        {
+          "name": "Carson",
+          "votes": 531,
+          "winner": "",
+          "votePct": 7.35
+        },
+        {
+          "name": "Kasich",
+          "votes": 284,
+          "winner": "",
+          "votePct": 3.93
+        },
+        {
+          "name": "Bush",
+          "votes": 229,
+          "winner": "",
+          "votePct": 3.17
+        },
+        {
+          "name": "Fiorina",
+          "votes": 191,
+          "winner": "",
+          "votePct": 2.64
+        },
+        {
+          "name": "Christie",
+          "votes": 171,
+          "winner": "",
+          "votePct": 2.37
+        },
+        {
+          "name": "Huckabee",
+          "votes": 75,
+          "winner": "",
+          "votePct": 1.04
+        },
+        {
+          "name": "Santorum",
+          "votes": 37,
+          "winner": "",
+          "votePct": 0.51
+        },
+        {
+          "name": "Other",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.04
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.01
+        }
+      ]
+    },
+    "19105": {
+      "county": "19105",
+      "precinctsReporting": 14,
+      "totalPrecincts": 14,
+      "totalVotes": 1034,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 363,
+          "winner": "X",
+          "votePct": 35.11
+        },
+        {
+          "name": "Trump",
+          "votes": 258,
+          "winner": "",
+          "votePct": 24.95
+        },
+        {
+          "name": "Rubio",
+          "votes": 167,
+          "winner": "",
+          "votePct": 16.15
+        },
+        {
+          "name": "Carson",
+          "votes": 107,
+          "winner": "",
+          "votePct": 10.35
+        },
+        {
+          "name": "Fiorina",
+          "votes": 35,
+          "winner": "",
+          "votePct": 3.38
+        },
+        {
+          "name": "Paul",
+          "votes": 32,
+          "winner": "",
+          "votePct": 3.09
+        },
+        {
+          "name": "Bush",
+          "votes": 25,
+          "winner": "",
+          "votePct": 2.42
+        },
+        {
+          "name": "Santorum",
+          "votes": 21,
+          "winner": "",
+          "votePct": 2.03
+        },
+        {
+          "name": "Christie",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.35
+        },
+        {
+          "name": "Huckabee",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.58
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.58
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19107": {
+      "county": "19107",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 702,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 216,
+          "winner": "X",
+          "votePct": 30.77
+        },
+        {
+          "name": "Trump",
+          "votes": 220,
+          "winner": "",
+          "votePct": 31.34
+        },
+        {
+          "name": "Rubio",
+          "votes": 116,
+          "winner": "",
+          "votePct": 16.52
+        },
+        {
+          "name": "Carson",
+          "votes": 63,
+          "winner": "",
+          "votePct": 8.97
+        },
+        {
+          "name": "Huckabee",
+          "votes": 23,
+          "winner": "",
+          "votePct": 3.28
+        },
+        {
+          "name": "Paul",
+          "votes": 19,
+          "winner": "",
+          "votePct": 2.71
+        },
+        {
+          "name": "Bush",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.85
+        },
+        {
+          "name": "Fiorina",
+          "votes": 11,
+          "winner": "",
+          "votePct": 1.57
+        },
+        {
+          "name": "Santorum",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.42
+        },
+        {
+          "name": "Kasich",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.71
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.57
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.28
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19109": {
+      "county": "19109",
+      "precinctsReporting": 20,
+      "totalPrecincts": 20,
+      "totalVotes": 947,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 285,
+          "winner": "X",
+          "votePct": 30.1
+        },
+        {
+          "name": "Trump",
+          "votes": 224,
+          "winner": "",
+          "votePct": 23.65
+        },
+        {
+          "name": "Rubio",
+          "votes": 190,
+          "winner": "",
+          "votePct": 20.06
+        },
+        {
+          "name": "Carson",
+          "votes": 150,
+          "winner": "",
+          "votePct": 15.84
+        },
+        {
+          "name": "Huckabee",
+          "votes": 27,
+          "winner": "",
+          "votePct": 2.85
+        },
+        {
+          "name": "Paul",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.9
+        },
+        {
+          "name": "Kasich",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.58
+        },
+        {
+          "name": "Bush",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.37
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.27
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.95
+        },
+        {
+          "name": "Fiorina",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.42
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19111": {
+      "county": "19111",
+      "precinctsReporting": 22,
+      "totalPrecincts": 22,
+      "totalVotes": 1320,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 334,
+          "winner": "X",
+          "votePct": 25.3
+        },
+        {
+          "name": "Trump",
+          "votes": 409,
+          "winner": "",
+          "votePct": 30.98
+        },
+        {
+          "name": "Rubio",
+          "votes": 249,
+          "winner": "",
+          "votePct": 18.86
+        },
+        {
+          "name": "Carson",
+          "votes": 157,
+          "winner": "",
+          "votePct": 11.89
+        },
+        {
+          "name": "Fiorina",
+          "votes": 51,
+          "winner": "",
+          "votePct": 3.86
+        },
+        {
+          "name": "Paul",
+          "votes": 36,
+          "winner": "",
+          "votePct": 2.73
+        },
+        {
+          "name": "Huckabee",
+          "votes": 26,
+          "winner": "",
+          "votePct": 1.97
+        },
+        {
+          "name": "Bush",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.44
+        },
+        {
+          "name": "Kasich",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Christie",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.91
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.45
+        },
+        {
+          "name": "Other",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.38
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19113": {
+      "county": "19113",
+      "precinctsReporting": 86,
+      "totalPrecincts": 86,
+      "totalVotes": 11628,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 3422,
+          "winner": "X",
+          "votePct": 29.43
+        },
+        {
+          "name": "Rubio",
+          "votes": 2825,
+          "winner": "",
+          "votePct": 24.29
+        },
+        {
+          "name": "Trump",
+          "votes": 2344,
+          "winner": "",
+          "votePct": 20.16
+        },
+        {
+          "name": "Carson",
+          "votes": 1072,
+          "winner": "",
+          "votePct": 9.22
+        },
+        {
+          "name": "Paul",
+          "votes": 699,
+          "winner": "",
+          "votePct": 6.01
+        },
+        {
+          "name": "Fiorina",
+          "votes": 302,
+          "winner": "",
+          "votePct": 2.6
+        },
+        {
+          "name": "Christie",
+          "votes": 276,
+          "winner": "",
+          "votePct": 2.37
+        },
+        {
+          "name": "Bush",
+          "votes": 262,
+          "winner": "",
+          "votePct": 2.25
+        },
+        {
+          "name": "Kasich",
+          "votes": 262,
+          "winner": "",
+          "votePct": 2.25
+        },
+        {
+          "name": "Huckabee",
+          "votes": 99,
+          "winner": "",
+          "votePct": 0.85
+        },
+        {
+          "name": "Santorum",
+          "votes": 56,
+          "winner": "",
+          "votePct": 0.48
+        },
+        {
+          "name": "Other",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.08
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19115": {
+      "county": "19115",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 724,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 257,
+          "winner": "X",
+          "votePct": 35.5
+        },
+        {
+          "name": "Trump",
+          "votes": 261,
+          "winner": "",
+          "votePct": 36.05
+        },
+        {
+          "name": "Rubio",
+          "votes": 76,
+          "winner": "",
+          "votePct": 10.5
+        },
+        {
+          "name": "Carson",
+          "votes": 44,
+          "winner": "",
+          "votePct": 6.08
+        },
+        {
+          "name": "Huckabee",
+          "votes": 31,
+          "winner": "",
+          "votePct": 4.28
+        },
+        {
+          "name": "Paul",
+          "votes": 26,
+          "winner": "",
+          "votePct": 3.59
+        },
+        {
+          "name": "Bush",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.93
+        },
+        {
+          "name": "Kasich",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.69
+        },
+        {
+          "name": "Fiorina",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.69
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.55
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.14
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19117": {
+      "county": "19117",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 589,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 213,
+          "winner": "X",
+          "votePct": 36.16
+        },
+        {
+          "name": "Trump",
+          "votes": 159,
+          "winner": "",
+          "votePct": 26.99
+        },
+        {
+          "name": "Rubio",
+          "votes": 79,
+          "winner": "",
+          "votePct": 13.41
+        },
+        {
+          "name": "Carson",
+          "votes": 68,
+          "winner": "",
+          "votePct": 11.54
+        },
+        {
+          "name": "Paul",
+          "votes": 24,
+          "winner": "",
+          "votePct": 4.07
+        },
+        {
+          "name": "Huckabee",
+          "votes": 18,
+          "winner": "",
+          "votePct": 3.06
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.7
+        },
+        {
+          "name": "Fiorina",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.53
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.85
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.51
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.17
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Kasich",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19119": {
+      "county": "19119",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 1107,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 432,
+          "winner": "X",
+          "votePct": 39.02
+        },
+        {
+          "name": "Rubio",
+          "votes": 229,
+          "winner": "",
+          "votePct": 20.69
+        },
+        {
+          "name": "Carson",
+          "votes": 206,
+          "winner": "",
+          "votePct": 18.61
+        },
+        {
+          "name": "Trump",
+          "votes": 173,
+          "winner": "",
+          "votePct": 15.63
+        },
+        {
+          "name": "Santorum",
+          "votes": 20,
+          "winner": "",
+          "votePct": 1.81
+        },
+        {
+          "name": "Paul",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.26
+        },
+        {
+          "name": "Bush",
+          "votes": 11,
+          "winner": "",
+          "votePct": 0.99
+        },
+        {
+          "name": "Fiorina",
+          "votes": 10,
+          "winner": "",
+          "votePct": 0.9
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.54
+        },
+        {
+          "name": "Huckabee",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.27
+        },
+        {
+          "name": "Christie",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.27
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19121": {
+      "county": "19121",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 1349,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 452,
+          "winner": "X",
+          "votePct": 33.51
+        },
+        {
+          "name": "Trump",
+          "votes": 373,
+          "winner": "",
+          "votePct": 27.65
+        },
+        {
+          "name": "Rubio",
+          "votes": 250,
+          "winner": "",
+          "votePct": 18.53
+        },
+        {
+          "name": "Carson",
+          "votes": 107,
+          "winner": "",
+          "votePct": 7.93
+        },
+        {
+          "name": "Paul",
+          "votes": 51,
+          "winner": "",
+          "votePct": 3.78
+        },
+        {
+          "name": "Huckabee",
+          "votes": 34,
+          "winner": "",
+          "votePct": 2.52
+        },
+        {
+          "name": "Bush",
+          "votes": 22,
+          "winner": "",
+          "votePct": 1.63
+        },
+        {
+          "name": "Fiorina",
+          "votes": 21,
+          "winner": "",
+          "votePct": 1.56
+        },
+        {
+          "name": "Christie",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.33
+        },
+        {
+          "name": "Kasich",
+          "votes": 11,
+          "winner": "",
+          "votePct": 0.82
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.52
+        },
+        {
+          "name": "Other",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.22
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19123": {
+      "county": "19123",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 1960,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 669,
+          "winner": "X",
+          "votePct": 34.13
+        },
+        {
+          "name": "Trump",
+          "votes": 421,
+          "winner": "",
+          "votePct": 21.48
+        },
+        {
+          "name": "Rubio",
+          "votes": 368,
+          "winner": "",
+          "votePct": 18.78
+        },
+        {
+          "name": "Carson",
+          "votes": 209,
+          "winner": "",
+          "votePct": 10.66
+        },
+        {
+          "name": "Santorum",
+          "votes": 73,
+          "winner": "",
+          "votePct": 3.72
+        },
+        {
+          "name": "Paul",
+          "votes": 69,
+          "winner": "",
+          "votePct": 3.52
+        },
+        {
+          "name": "Huckabee",
+          "votes": 49,
+          "winner": "",
+          "votePct": 2.5
+        },
+        {
+          "name": "Bush",
+          "votes": 40,
+          "winner": "",
+          "votePct": 2.04
+        },
+        {
+          "name": "Fiorina",
+          "votes": 37,
+          "winner": "",
+          "votePct": 1.89
+        },
+        {
+          "name": "Christie",
+          "votes": 16,
+          "winner": "",
+          "votePct": 0.82
+        },
+        {
+          "name": "Kasich",
+          "votes": 8,
+          "winner": "",
+          "votePct": 0.41
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.05
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19125": {
+      "county": "19125",
+      "precinctsReporting": 17,
+      "totalPrecincts": 17,
+      "totalVotes": 2872,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1011,
+          "winner": "X",
+          "votePct": 35.2
+        },
+        {
+          "name": "Rubio",
+          "votes": 606,
+          "winner": "",
+          "votePct": 21.1
+        },
+        {
+          "name": "Trump",
+          "votes": 539,
+          "winner": "",
+          "votePct": 18.77
+        },
+        {
+          "name": "Carson",
+          "votes": 272,
+          "winner": "",
+          "votePct": 9.47
+        },
+        {
+          "name": "Paul",
+          "votes": 123,
+          "winner": "",
+          "votePct": 4.28
+        },
+        {
+          "name": "Bush",
+          "votes": 74,
+          "winner": "",
+          "votePct": 2.58
+        },
+        {
+          "name": "Huckabee",
+          "votes": 74,
+          "winner": "",
+          "votePct": 2.58
+        },
+        {
+          "name": "Christie",
+          "votes": 62,
+          "winner": "",
+          "votePct": 2.16
+        },
+        {
+          "name": "Fiorina",
+          "votes": 41,
+          "winner": "",
+          "votePct": 1.43
+        },
+        {
+          "name": "Santorum",
+          "votes": 40,
+          "winner": "",
+          "votePct": 1.39
+        },
+        {
+          "name": "Kasich",
+          "votes": 30,
+          "winner": "",
+          "votePct": 1.04
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19127": {
+      "county": "19127",
+      "precinctsReporting": 19,
+      "totalPrecincts": 19,
+      "totalVotes": 2327,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 630,
+          "winner": "X",
+          "votePct": 27.07
+        },
+        {
+          "name": "Trump",
+          "votes": 608,
+          "winner": "",
+          "votePct": 26.13
+        },
+        {
+          "name": "Rubio",
+          "votes": 502,
+          "winner": "",
+          "votePct": 21.57
+        },
+        {
+          "name": "Carson",
+          "votes": 226,
+          "winner": "",
+          "votePct": 9.71
+        },
+        {
+          "name": "Paul",
+          "votes": 75,
+          "winner": "",
+          "votePct": 3.22
+        },
+        {
+          "name": "Bush",
+          "votes": 61,
+          "winner": "",
+          "votePct": 2.62
+        },
+        {
+          "name": "Fiorina",
+          "votes": 57,
+          "winner": "",
+          "votePct": 2.45
+        },
+        {
+          "name": "Santorum",
+          "votes": 55,
+          "winner": "",
+          "votePct": 2.36
+        },
+        {
+          "name": "Huckabee",
+          "votes": 50,
+          "winner": "",
+          "votePct": 2.15
+        },
+        {
+          "name": "Kasich",
+          "votes": 33,
+          "winner": "",
+          "votePct": 1.42
+        },
+        {
+          "name": "Christie",
+          "votes": 27,
+          "winner": "",
+          "votePct": 1.16
+        },
+        {
+          "name": "Other",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.13
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19129": {
+      "county": "19129",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 1121,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 244,
+          "winner": "X",
+          "votePct": 21.77
+        },
+        {
+          "name": "Trump",
+          "votes": 300,
+          "winner": "",
+          "votePct": 26.76
+        },
+        {
+          "name": "Rubio",
+          "votes": 265,
+          "winner": "",
+          "votePct": 23.64
+        },
+        {
+          "name": "Carson",
+          "votes": 182,
+          "winner": "",
+          "votePct": 16.24
+        },
+        {
+          "name": "Paul",
+          "votes": 33,
+          "winner": "",
+          "votePct": 2.94
+        },
+        {
+          "name": "Santorum",
+          "votes": 31,
+          "winner": "",
+          "votePct": 2.77
+        },
+        {
+          "name": "Fiorina",
+          "votes": 23,
+          "winner": "",
+          "votePct": 2.05
+        },
+        {
+          "name": "Kasich",
+          "votes": 15,
+          "winner": "",
+          "votePct": 1.34
+        },
+        {
+          "name": "Christie",
+          "votes": 11,
+          "winner": "",
+          "votePct": 0.98
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 0.89
+        },
+        {
+          "name": "Huckabee",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.62
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19131": {
+      "county": "19131",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 471,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 114,
+          "winner": "X",
+          "votePct": 24.2
+        },
+        {
+          "name": "Trump",
+          "votes": 120,
+          "winner": "",
+          "votePct": 25.48
+        },
+        {
+          "name": "Carson",
+          "votes": 61,
+          "winner": "",
+          "votePct": 12.95
+        },
+        {
+          "name": "Rubio",
+          "votes": 56,
+          "winner": "",
+          "votePct": 11.89
+        },
+        {
+          "name": "Fiorina",
+          "votes": 55,
+          "winner": "",
+          "votePct": 11.68
+        },
+        {
+          "name": "Paul",
+          "votes": 34,
+          "winner": "",
+          "votePct": 7.22
+        },
+        {
+          "name": "Huckabee",
+          "votes": 11,
+          "winner": "",
+          "votePct": 2.34
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.12
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.85
+        },
+        {
+          "name": "Kasich",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.64
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.64
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19133": {
+      "county": "19133",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 512,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 185,
+          "winner": "X",
+          "votePct": 36.13
+        },
+        {
+          "name": "Trump",
+          "votes": 156,
+          "winner": "",
+          "votePct": 30.47
+        },
+        {
+          "name": "Rubio",
+          "votes": 94,
+          "winner": "",
+          "votePct": 18.36
+        },
+        {
+          "name": "Carson",
+          "votes": 41,
+          "winner": "",
+          "votePct": 8.01
+        },
+        {
+          "name": "Huckabee",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.76
+        },
+        {
+          "name": "Paul",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.56
+        },
+        {
+          "name": "Christie",
+          "votes": 8,
+          "winner": "",
+          "votePct": 1.56
+        },
+        {
+          "name": "Fiorina",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.17
+        },
+        {
+          "name": "Bush",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.39
+        },
+        {
+          "name": "Santorum",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.39
+        },
+        {
+          "name": "Kasich",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.2
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19135": {
+      "county": "19135",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 541,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 195,
+          "winner": "X",
+          "votePct": 36.04
+        },
+        {
+          "name": "Trump",
+          "votes": 170,
+          "winner": "",
+          "votePct": 31.42
+        },
+        {
+          "name": "Rubio",
+          "votes": 97,
+          "winner": "",
+          "votePct": 17.93
+        },
+        {
+          "name": "Carson",
+          "votes": 25,
+          "winner": "",
+          "votePct": 4.62
+        },
+        {
+          "name": "Paul",
+          "votes": 23,
+          "winner": "",
+          "votePct": 4.25
+        },
+        {
+          "name": "Huckabee",
+          "votes": 18,
+          "winner": "",
+          "votePct": 3.33
+        },
+        {
+          "name": "Kasich",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.74
+        },
+        {
+          "name": "Fiorina",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.74
+        },
+        {
+          "name": "Bush",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.55
+        },
+        {
+          "name": "Christie",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.37
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19137": {
+      "county": "19137",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 571,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 133,
+          "winner": "X",
+          "votePct": 23.29
+        },
+        {
+          "name": "Rubio",
+          "votes": 124,
+          "winner": "",
+          "votePct": 21.72
+        },
+        {
+          "name": "Trump",
+          "votes": 118,
+          "winner": "",
+          "votePct": 20.67
+        },
+        {
+          "name": "Carson",
+          "votes": 85,
+          "winner": "",
+          "votePct": 14.89
+        },
+        {
+          "name": "Bush",
+          "votes": 27,
+          "winner": "",
+          "votePct": 4.73
+        },
+        {
+          "name": "Fiorina",
+          "votes": 27,
+          "winner": "",
+          "votePct": 4.73
+        },
+        {
+          "name": "Paul",
+          "votes": 26,
+          "winner": "",
+          "votePct": 4.55
+        },
+        {
+          "name": "Huckabee",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.75
+        },
+        {
+          "name": "Kasich",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.75
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.05
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.88
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19139": {
+      "county": "19139",
+      "precinctsReporting": 23,
+      "totalPrecincts": 23,
+      "totalVotes": 2414,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 576,
+          "winner": "X",
+          "votePct": 23.86
+        },
+        {
+          "name": "Trump",
+          "votes": 720,
+          "winner": "",
+          "votePct": 29.83
+        },
+        {
+          "name": "Rubio",
+          "votes": 635,
+          "winner": "",
+          "votePct": 26.3
+        },
+        {
+          "name": "Paul",
+          "votes": 131,
+          "winner": "",
+          "votePct": 5.43
+        },
+        {
+          "name": "Carson",
+          "votes": 110,
+          "winner": "",
+          "votePct": 4.56
+        },
+        {
+          "name": "Bush",
+          "votes": 53,
+          "winner": "",
+          "votePct": 2.2
+        },
+        {
+          "name": "Christie",
+          "votes": 50,
+          "winner": "",
+          "votePct": 2.07
+        },
+        {
+          "name": "Kasich",
+          "votes": 45,
+          "winner": "",
+          "votePct": 1.86
+        },
+        {
+          "name": "Fiorina",
+          "votes": 43,
+          "winner": "",
+          "votePct": 1.78
+        },
+        {
+          "name": "Huckabee",
+          "votes": 39,
+          "winner": "",
+          "votePct": 1.62
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.5
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19141": {
+      "county": "19141",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 1219,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 347,
+          "winner": "X",
+          "votePct": 28.47
+        },
+        {
+          "name": "Rubio",
+          "votes": 281,
+          "winner": "",
+          "votePct": 23.05
+        },
+        {
+          "name": "Trump",
+          "votes": 256,
+          "winner": "",
+          "votePct": 21
+        },
+        {
+          "name": "Carson",
+          "votes": 220,
+          "winner": "",
+          "votePct": 18.05
+        },
+        {
+          "name": "Huckabee",
+          "votes": 45,
+          "winner": "",
+          "votePct": 3.69
+        },
+        {
+          "name": "Paul",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.56
+        },
+        {
+          "name": "Bush",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.39
+        },
+        {
+          "name": "Fiorina",
+          "votes": 10,
+          "winner": "",
+          "votePct": 0.82
+        },
+        {
+          "name": "Santorum",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.74
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.49
+        },
+        {
+          "name": "Christie",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.49
+        },
+        {
+          "name": "Other",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.25
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19143": {
+      "county": "19143",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 327,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 113,
+          "winner": "X",
+          "votePct": 34.56
+        },
+        {
+          "name": "Trump",
+          "votes": 78,
+          "winner": "",
+          "votePct": 23.85
+        },
+        {
+          "name": "Rubio",
+          "votes": 56,
+          "winner": "",
+          "votePct": 17.13
+        },
+        {
+          "name": "Carson",
+          "votes": 42,
+          "winner": "",
+          "votePct": 12.84
+        },
+        {
+          "name": "Bush",
+          "votes": 13,
+          "winner": "",
+          "votePct": 3.98
+        },
+        {
+          "name": "Paul",
+          "votes": 8,
+          "winner": "",
+          "votePct": 2.45
+        },
+        {
+          "name": "Fiorina",
+          "votes": 7,
+          "winner": "",
+          "votePct": 2.14
+        },
+        {
+          "name": "Huckabee",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.92
+        },
+        {
+          "name": "Christie",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.92
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.92
+        },
+        {
+          "name": "Kasich",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.31
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19145": {
+      "county": "19145",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 873,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 249,
+          "winner": "X",
+          "votePct": 28.52
+        },
+        {
+          "name": "Trump",
+          "votes": 232,
+          "winner": "",
+          "votePct": 26.58
+        },
+        {
+          "name": "Carson",
+          "votes": 157,
+          "winner": "",
+          "votePct": 17.98
+        },
+        {
+          "name": "Rubio",
+          "votes": 156,
+          "winner": "",
+          "votePct": 17.87
+        },
+        {
+          "name": "Bush",
+          "votes": 25,
+          "winner": "",
+          "votePct": 2.86
+        },
+        {
+          "name": "Paul",
+          "votes": 13,
+          "winner": "",
+          "votePct": 1.49
+        },
+        {
+          "name": "Kasich",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.37
+        },
+        {
+          "name": "Huckabee",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.03
+        },
+        {
+          "name": "Fiorina",
+          "votes": 8,
+          "winner": "",
+          "votePct": 0.92
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Christie",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.46
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.11
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19147": {
+      "county": "19147",
+      "precinctsReporting": 6,
+      "totalPrecincts": 6,
+      "totalVotes": 432,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 110,
+          "winner": "X",
+          "votePct": 25.46
+        },
+        {
+          "name": "Trump",
+          "votes": 117,
+          "winner": "",
+          "votePct": 27.08
+        },
+        {
+          "name": "Rubio",
+          "votes": 94,
+          "winner": "",
+          "votePct": 21.76
+        },
+        {
+          "name": "Carson",
+          "votes": 40,
+          "winner": "",
+          "votePct": 9.26
+        },
+        {
+          "name": "Huckabee",
+          "votes": 17,
+          "winner": "",
+          "votePct": 3.94
+        },
+        {
+          "name": "Paul",
+          "votes": 15,
+          "winner": "",
+          "votePct": 3.47
+        },
+        {
+          "name": "Bush",
+          "votes": 14,
+          "winner": "",
+          "votePct": 3.24
+        },
+        {
+          "name": "Fiorina",
+          "votes": 9,
+          "winner": "",
+          "votePct": 2.08
+        },
+        {
+          "name": "Christie",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.39
+        },
+        {
+          "name": "Kasich",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.16
+        },
+        {
+          "name": "Santorum",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.16
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19149": {
+      "county": "19149",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 1886,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 530,
+          "winner": "X",
+          "votePct": 28.1
+        },
+        {
+          "name": "Trump",
+          "votes": 618,
+          "winner": "",
+          "votePct": 32.77
+        },
+        {
+          "name": "Rubio",
+          "votes": 373,
+          "winner": "",
+          "votePct": 19.78
+        },
+        {
+          "name": "Carson",
+          "votes": 195,
+          "winner": "",
+          "votePct": 10.34
+        },
+        {
+          "name": "Bush",
+          "votes": 44,
+          "winner": "",
+          "votePct": 2.33
+        },
+        {
+          "name": "Paul",
+          "votes": 34,
+          "winner": "",
+          "votePct": 1.8
+        },
+        {
+          "name": "Christie",
+          "votes": 25,
+          "winner": "",
+          "votePct": 1.33
+        },
+        {
+          "name": "Kasich",
+          "votes": 22,
+          "winner": "",
+          "votePct": 1.17
+        },
+        {
+          "name": "Fiorina",
+          "votes": 19,
+          "winner": "",
+          "votePct": 1.01
+        },
+        {
+          "name": "Huckabee",
+          "votes": 14,
+          "winner": "",
+          "votePct": 0.74
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.64
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19151": {
+      "county": "19151",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 483,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 187,
+          "winner": "X",
+          "votePct": 38.72
+        },
+        {
+          "name": "Trump",
+          "votes": 110,
+          "winner": "",
+          "votePct": 22.77
+        },
+        {
+          "name": "Carson",
+          "votes": 70,
+          "winner": "",
+          "votePct": 14.49
+        },
+        {
+          "name": "Rubio",
+          "votes": 65,
+          "winner": "",
+          "votePct": 13.46
+        },
+        {
+          "name": "Huckabee",
+          "votes": 16,
+          "winner": "",
+          "votePct": 3.31
+        },
+        {
+          "name": "Paul",
+          "votes": 13,
+          "winner": "",
+          "votePct": 2.69
+        },
+        {
+          "name": "Bush",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.86
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.04
+        },
+        {
+          "name": "Fiorina",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.04
+        },
+        {
+          "name": "Kasich",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.41
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.21
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19153": {
+      "county": "19153",
+      "precinctsReporting": 177,
+      "totalPrecincts": 177,
+      "totalVotes": 31098,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 7864,
+          "winner": "X",
+          "votePct": 25.29
+        },
+        {
+          "name": "Rubio",
+          "votes": 8365,
+          "winner": "",
+          "votePct": 26.9
+        },
+        {
+          "name": "Trump",
+          "votes": 6764,
+          "winner": "",
+          "votePct": 21.75
+        },
+        {
+          "name": "Carson",
+          "votes": 2297,
+          "winner": "",
+          "votePct": 7.39
+        },
+        {
+          "name": "Paul",
+          "votes": 1633,
+          "winner": "",
+          "votePct": 5.25
+        },
+        {
+          "name": "Bush",
+          "votes": 1405,
+          "winner": "",
+          "votePct": 4.52
+        },
+        {
+          "name": "Kasich",
+          "votes": 773,
+          "winner": "",
+          "votePct": 2.49
+        },
+        {
+          "name": "Christie",
+          "votes": 745,
+          "winner": "",
+          "votePct": 2.4
+        },
+        {
+          "name": "Huckabee",
+          "votes": 565,
+          "winner": "",
+          "votePct": 1.82
+        },
+        {
+          "name": "Fiorina",
+          "votes": 420,
+          "winner": "",
+          "votePct": 1.35
+        },
+        {
+          "name": "Santorum",
+          "votes": 234,
+          "winner": "",
+          "votePct": 0.75
+        },
+        {
+          "name": "Other",
+          "votes": 31,
+          "winner": "",
+          "votePct": 0.1
+        },
+        {
+          "name": "Gilmore",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.01
+        }
+      ]
+    },
+    "19155": {
+      "county": "19155",
+      "precinctsReporting": 40,
+      "totalPrecincts": 40,
+      "totalVotes": 4373,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 942,
+          "winner": "X",
+          "votePct": 21.54
+        },
+        {
+          "name": "Trump",
+          "votes": 1508,
+          "winner": "",
+          "votePct": 34.48
+        },
+        {
+          "name": "Rubio",
+          "votes": 750,
+          "winner": "",
+          "votePct": 17.15
+        },
+        {
+          "name": "Carson",
+          "votes": 543,
+          "winner": "",
+          "votePct": 12.42
+        },
+        {
+          "name": "Paul",
+          "votes": 156,
+          "winner": "",
+          "votePct": 3.57
+        },
+        {
+          "name": "Kasich",
+          "votes": 127,
+          "winner": "",
+          "votePct": 2.9
+        },
+        {
+          "name": "Santorum",
+          "votes": 115,
+          "winner": "",
+          "votePct": 2.63
+        },
+        {
+          "name": "Fiorina",
+          "votes": 80,
+          "winner": "",
+          "votePct": 1.83
+        },
+        {
+          "name": "Bush",
+          "votes": 70,
+          "winner": "",
+          "votePct": 1.6
+        },
+        {
+          "name": "Christie",
+          "votes": 53,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Huckabee",
+          "votes": 25,
+          "winner": "",
+          "votePct": 0.57
+        },
+        {
+          "name": "Other",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.09
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19157": {
+      "county": "19157",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 983,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 282,
+          "winner": "X",
+          "votePct": 28.69
+        },
+        {
+          "name": "Trump",
+          "votes": 258,
+          "winner": "",
+          "votePct": 26.25
+        },
+        {
+          "name": "Rubio",
+          "votes": 183,
+          "winner": "",
+          "votePct": 18.62
+        },
+        {
+          "name": "Carson",
+          "votes": 76,
+          "winner": "",
+          "votePct": 7.73
+        },
+        {
+          "name": "Paul",
+          "votes": 63,
+          "winner": "",
+          "votePct": 6.41
+        },
+        {
+          "name": "Bush",
+          "votes": 38,
+          "winner": "",
+          "votePct": 3.87
+        },
+        {
+          "name": "Huckabee",
+          "votes": 30,
+          "winner": "",
+          "votePct": 3.05
+        },
+        {
+          "name": "Kasich",
+          "votes": 18,
+          "winner": "",
+          "votePct": 1.83
+        },
+        {
+          "name": "Christie",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.42
+        },
+        {
+          "name": "Fiorina",
+          "votes": 14,
+          "winner": "",
+          "votePct": 1.42
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.71
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19159": {
+      "county": "19159",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 332,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 84,
+          "winner": "X",
+          "votePct": 25.3
+        },
+        {
+          "name": "Trump",
+          "votes": 106,
+          "winner": "",
+          "votePct": 31.93
+        },
+        {
+          "name": "Carson",
+          "votes": 52,
+          "winner": "",
+          "votePct": 15.66
+        },
+        {
+          "name": "Rubio",
+          "votes": 50,
+          "winner": "",
+          "votePct": 15.06
+        },
+        {
+          "name": "Bush",
+          "votes": 16,
+          "winner": "",
+          "votePct": 4.82
+        },
+        {
+          "name": "Huckabee",
+          "votes": 14,
+          "winner": "",
+          "votePct": 4.22
+        },
+        {
+          "name": "Christie",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.9
+        },
+        {
+          "name": "Fiorina",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.9
+        },
+        {
+          "name": "Paul",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.3
+        },
+        {
+          "name": "Gilmore",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.3
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Kasich",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19161": {
+      "county": "19161",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 669,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 187,
+          "winner": "X",
+          "votePct": 27.95
+        },
+        {
+          "name": "Trump",
+          "votes": 212,
+          "winner": "",
+          "votePct": 31.69
+        },
+        {
+          "name": "Rubio",
+          "votes": 81,
+          "winner": "",
+          "votePct": 12.11
+        },
+        {
+          "name": "Carson",
+          "votes": 61,
+          "winner": "",
+          "votePct": 9.12
+        },
+        {
+          "name": "Santorum",
+          "votes": 49,
+          "winner": "",
+          "votePct": 7.32
+        },
+        {
+          "name": "Bush",
+          "votes": 19,
+          "winner": "",
+          "votePct": 2.84
+        },
+        {
+          "name": "Huckabee",
+          "votes": 18,
+          "winner": "",
+          "votePct": 2.69
+        },
+        {
+          "name": "Paul",
+          "votes": 17,
+          "winner": "",
+          "votePct": 2.54
+        },
+        {
+          "name": "Fiorina",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.79
+        },
+        {
+          "name": "Kasich",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.05
+        },
+        {
+          "name": "Christie",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.9
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19163": {
+      "county": "19163",
+      "precinctsReporting": 63,
+      "totalPrecincts": 63,
+      "totalVotes": 9749,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 2396,
+          "winner": "X",
+          "votePct": 24.58
+        },
+        {
+          "name": "Rubio",
+          "votes": 2553,
+          "winner": "",
+          "votePct": 26.19
+        },
+        {
+          "name": "Trump",
+          "votes": 2465,
+          "winner": "",
+          "votePct": 25.28
+        },
+        {
+          "name": "Carson",
+          "votes": 532,
+          "winner": "",
+          "votePct": 5.46
+        },
+        {
+          "name": "Paul",
+          "votes": 486,
+          "winner": "",
+          "votePct": 4.99
+        },
+        {
+          "name": "Kasich",
+          "votes": 436,
+          "winner": "",
+          "votePct": 4.47
+        },
+        {
+          "name": "Bush",
+          "votes": 353,
+          "winner": "",
+          "votePct": 3.62
+        },
+        {
+          "name": "Fiorina",
+          "votes": 219,
+          "winner": "",
+          "votePct": 2.25
+        },
+        {
+          "name": "Christie",
+          "votes": 178,
+          "winner": "",
+          "votePct": 1.83
+        },
+        {
+          "name": "Huckabee",
+          "votes": 78,
+          "winner": "",
+          "votePct": 0.8
+        },
+        {
+          "name": "Santorum",
+          "votes": 50,
+          "winner": "",
+          "votePct": 0.51
+        },
+        {
+          "name": "Other",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.03
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19165": {
+      "county": "19165",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 745,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 207,
+          "winner": "X",
+          "votePct": 27.79
+        },
+        {
+          "name": "Trump",
+          "votes": 203,
+          "winner": "",
+          "votePct": 27.25
+        },
+        {
+          "name": "Rubio",
+          "votes": 129,
+          "winner": "",
+          "votePct": 17.32
+        },
+        {
+          "name": "Carson",
+          "votes": 109,
+          "winner": "",
+          "votePct": 14.63
+        },
+        {
+          "name": "Paul",
+          "votes": 23,
+          "winner": "",
+          "votePct": 3.09
+        },
+        {
+          "name": "Fiorina",
+          "votes": 22,
+          "winner": "",
+          "votePct": 2.95
+        },
+        {
+          "name": "Huckabee",
+          "votes": 18,
+          "winner": "",
+          "votePct": 2.42
+        },
+        {
+          "name": "Christie",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.34
+        },
+        {
+          "name": "Bush",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Kasich",
+          "votes": 9,
+          "winner": "",
+          "votePct": 1.21
+        },
+        {
+          "name": "Santorum",
+          "votes": 6,
+          "winner": "",
+          "votePct": 0.81
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19167": {
+      "county": "19167",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 4594,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1524,
+          "winner": "X",
+          "votePct": 33.17
+        },
+        {
+          "name": "Rubio",
+          "votes": 1469,
+          "winner": "",
+          "votePct": 31.98
+        },
+        {
+          "name": "Carson",
+          "votes": 686,
+          "winner": "",
+          "votePct": 14.93
+        },
+        {
+          "name": "Trump",
+          "votes": 502,
+          "winner": "",
+          "votePct": 10.93
+        },
+        {
+          "name": "Paul",
+          "votes": 117,
+          "winner": "",
+          "votePct": 2.55
+        },
+        {
+          "name": "Santorum",
+          "votes": 77,
+          "winner": "",
+          "votePct": 1.68
+        },
+        {
+          "name": "Bush",
+          "votes": 76,
+          "winner": "",
+          "votePct": 1.65
+        },
+        {
+          "name": "Kasich",
+          "votes": 45,
+          "winner": "",
+          "votePct": 0.98
+        },
+        {
+          "name": "Fiorina",
+          "votes": 39,
+          "winner": "",
+          "votePct": 0.85
+        },
+        {
+          "name": "Huckabee",
+          "votes": 35,
+          "winner": "",
+          "votePct": 0.76
+        },
+        {
+          "name": "Christie",
+          "votes": 24,
+          "winner": "",
+          "votePct": 0.52
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19169": {
+      "county": "19169",
+      "precinctsReporting": 43,
+      "totalPrecincts": 43,
+      "totalVotes": 7534,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1815,
+          "winner": "X",
+          "votePct": 24.09
+        },
+        {
+          "name": "Rubio",
+          "votes": 2415,
+          "winner": "",
+          "votePct": 32.05
+        },
+        {
+          "name": "Trump",
+          "votes": 1152,
+          "winner": "",
+          "votePct": 15.29
+        },
+        {
+          "name": "Carson",
+          "votes": 641,
+          "winner": "",
+          "votePct": 8.51
+        },
+        {
+          "name": "Paul",
+          "votes": 629,
+          "winner": "",
+          "votePct": 8.35
+        },
+        {
+          "name": "Bush",
+          "votes": 212,
+          "winner": "",
+          "votePct": 2.81
+        },
+        {
+          "name": "Kasich",
+          "votes": 193,
+          "winner": "",
+          "votePct": 2.56
+        },
+        {
+          "name": "Christie",
+          "votes": 166,
+          "winner": "",
+          "votePct": 2.2
+        },
+        {
+          "name": "Huckabee",
+          "votes": 123,
+          "winner": "",
+          "votePct": 1.63
+        },
+        {
+          "name": "Fiorina",
+          "votes": 117,
+          "winner": "",
+          "votePct": 1.55
+        },
+        {
+          "name": "Santorum",
+          "votes": 62,
+          "winner": "",
+          "votePct": 0.82
+        },
+        {
+          "name": "Other",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.09
+        },
+        {
+          "name": "Gilmore",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.03
+        }
+      ]
+    },
+    "19171": {
+      "county": "19171",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 983,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 307,
+          "winner": "X",
+          "votePct": 31.23
+        },
+        {
+          "name": "Trump",
+          "votes": 350,
+          "winner": "",
+          "votePct": 35.61
+        },
+        {
+          "name": "Rubio",
+          "votes": 123,
+          "winner": "",
+          "votePct": 12.51
+        },
+        {
+          "name": "Carson",
+          "votes": 83,
+          "winner": "",
+          "votePct": 8.44
+        },
+        {
+          "name": "Huckabee",
+          "votes": 33,
+          "winner": "",
+          "votePct": 3.36
+        },
+        {
+          "name": "Paul",
+          "votes": 27,
+          "winner": "",
+          "votePct": 2.75
+        },
+        {
+          "name": "Christie",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.63
+        },
+        {
+          "name": "Bush",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.22
+        },
+        {
+          "name": "Kasich",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.22
+        },
+        {
+          "name": "Fiorina",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.02
+        },
+        {
+          "name": "Santorum",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.02
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19173": {
+      "county": "19173",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 379,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 74,
+          "winner": "X",
+          "votePct": 19.53
+        },
+        {
+          "name": "Trump",
+          "votes": 140,
+          "winner": "",
+          "votePct": 36.94
+        },
+        {
+          "name": "Carson",
+          "votes": 63,
+          "winner": "",
+          "votePct": 16.62
+        },
+        {
+          "name": "Rubio",
+          "votes": 52,
+          "winner": "",
+          "votePct": 13.72
+        },
+        {
+          "name": "Bush",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.64
+        },
+        {
+          "name": "Paul",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.64
+        },
+        {
+          "name": "Huckabee",
+          "votes": 9,
+          "winner": "",
+          "votePct": 2.37
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.58
+        },
+        {
+          "name": "Fiorina",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.58
+        },
+        {
+          "name": "Christie",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.32
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.79
+        },
+        {
+          "name": "Other",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.26
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19175": {
+      "county": "19175",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 702,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 203,
+          "winner": "X",
+          "votePct": 28.92
+        },
+        {
+          "name": "Trump",
+          "votes": 194,
+          "winner": "",
+          "votePct": 27.64
+        },
+        {
+          "name": "Rubio",
+          "votes": 135,
+          "winner": "",
+          "votePct": 19.23
+        },
+        {
+          "name": "Carson",
+          "votes": 87,
+          "winner": "",
+          "votePct": 12.39
+        },
+        {
+          "name": "Huckabee",
+          "votes": 28,
+          "winner": "",
+          "votePct": 3.99
+        },
+        {
+          "name": "Fiorina",
+          "votes": 16,
+          "winner": "",
+          "votePct": 2.28
+        },
+        {
+          "name": "Bush",
+          "votes": 12,
+          "winner": "",
+          "votePct": 1.71
+        },
+        {
+          "name": "Paul",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.42
+        },
+        {
+          "name": "Kasich",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Santorum",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Christie",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.43
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19177": {
+      "county": "19177",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 533,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 196,
+          "winner": "X",
+          "votePct": 36.77
+        },
+        {
+          "name": "Trump",
+          "votes": 151,
+          "winner": "",
+          "votePct": 28.33
+        },
+        {
+          "name": "Rubio",
+          "votes": 63,
+          "winner": "",
+          "votePct": 11.82
+        },
+        {
+          "name": "Carson",
+          "votes": 56,
+          "winner": "",
+          "votePct": 10.51
+        },
+        {
+          "name": "Huckabee",
+          "votes": 51,
+          "winner": "",
+          "votePct": 9.57
+        },
+        {
+          "name": "Paul",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.31
+        },
+        {
+          "name": "Bush",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.56
+        },
+        {
+          "name": "Christie",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.56
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.38
+        },
+        {
+          "name": "Kasich",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.19
+        },
+        {
+          "name": "Fiorina",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Santorum",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19179": {
+      "county": "19179",
+      "precinctsReporting": 22,
+      "totalPrecincts": 22,
+      "totalVotes": 1669,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 489,
+          "winner": "X",
+          "votePct": 29.3
+        },
+        {
+          "name": "Trump",
+          "votes": 592,
+          "winner": "",
+          "votePct": 35.47
+        },
+        {
+          "name": "Rubio",
+          "votes": 242,
+          "winner": "",
+          "votePct": 14.5
+        },
+        {
+          "name": "Carson",
+          "votes": 127,
+          "winner": "",
+          "votePct": 7.61
+        },
+        {
+          "name": "Huckabee",
+          "votes": 103,
+          "winner": "",
+          "votePct": 6.17
+        },
+        {
+          "name": "Paul",
+          "votes": 50,
+          "winner": "",
+          "votePct": 3
+        },
+        {
+          "name": "Bush",
+          "votes": 24,
+          "winner": "",
+          "votePct": 1.44
+        },
+        {
+          "name": "Christie",
+          "votes": 21,
+          "winner": "",
+          "votePct": 1.26
+        },
+        {
+          "name": "Fiorina",
+          "votes": 10,
+          "winner": "",
+          "votePct": 0.6
+        },
+        {
+          "name": "Kasich",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.54
+        },
+        {
+          "name": "Santorum",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.12
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19181": {
+      "county": "19181",
+      "precinctsReporting": 31,
+      "totalPrecincts": 31,
+      "totalVotes": 3809,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1120,
+          "winner": "X",
+          "votePct": 29.4
+        },
+        {
+          "name": "Trump",
+          "votes": 982,
+          "winner": "",
+          "votePct": 25.78
+        },
+        {
+          "name": "Rubio",
+          "votes": 784,
+          "winner": "",
+          "votePct": 20.58
+        },
+        {
+          "name": "Carson",
+          "votes": 374,
+          "winner": "",
+          "votePct": 9.82
+        },
+        {
+          "name": "Paul",
+          "votes": 197,
+          "winner": "",
+          "votePct": 5.17
+        },
+        {
+          "name": "Bush",
+          "votes": 95,
+          "winner": "",
+          "votePct": 2.49
+        },
+        {
+          "name": "Huckabee",
+          "votes": 76,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Christie",
+          "votes": 65,
+          "winner": "",
+          "votePct": 1.71
+        },
+        {
+          "name": "Kasich",
+          "votes": 44,
+          "winner": "",
+          "votePct": 1.16
+        },
+        {
+          "name": "Fiorina",
+          "votes": 37,
+          "winner": "",
+          "votePct": 0.97
+        },
+        {
+          "name": "Santorum",
+          "votes": 33,
+          "winner": "",
+          "votePct": 0.87
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.05
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19183": {
+      "county": "19183",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 1544,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 542,
+          "winner": "X",
+          "votePct": 35.1
+        },
+        {
+          "name": "Trump",
+          "votes": 329,
+          "winner": "",
+          "votePct": 21.31
+        },
+        {
+          "name": "Rubio",
+          "votes": 222,
+          "winner": "",
+          "votePct": 14.38
+        },
+        {
+          "name": "Carson",
+          "votes": 194,
+          "winner": "",
+          "votePct": 12.56
+        },
+        {
+          "name": "Paul",
+          "votes": 104,
+          "winner": "",
+          "votePct": 6.74
+        },
+        {
+          "name": "Bush",
+          "votes": 63,
+          "winner": "",
+          "votePct": 4.08
+        },
+        {
+          "name": "Fiorina",
+          "votes": 30,
+          "winner": "",
+          "votePct": 1.94
+        },
+        {
+          "name": "Huckabee",
+          "votes": 23,
+          "winner": "",
+          "votePct": 1.49
+        },
+        {
+          "name": "Santorum",
+          "votes": 15,
+          "winner": "",
+          "votePct": 0.97
+        },
+        {
+          "name": "Kasich",
+          "votes": 13,
+          "winner": "",
+          "votePct": 0.84
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.58
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19185": {
+      "county": "19185",
+      "precinctsReporting": 4,
+      "totalPrecincts": 4,
+      "totalVotes": 419,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 171,
+          "winner": "X",
+          "votePct": 40.81
+        },
+        {
+          "name": "Trump",
+          "votes": 114,
+          "winner": "",
+          "votePct": 27.21
+        },
+        {
+          "name": "Rubio",
+          "votes": 57,
+          "winner": "",
+          "votePct": 13.6
+        },
+        {
+          "name": "Carson",
+          "votes": 36,
+          "winner": "",
+          "votePct": 8.59
+        },
+        {
+          "name": "Huckabee",
+          "votes": 15,
+          "winner": "",
+          "votePct": 3.58
+        },
+        {
+          "name": "Bush",
+          "votes": 9,
+          "winner": "",
+          "votePct": 2.15
+        },
+        {
+          "name": "Kasich",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.67
+        },
+        {
+          "name": "Fiorina",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.19
+        },
+        {
+          "name": "Paul",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.72
+        },
+        {
+          "name": "Santorum",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.24
+        },
+        {
+          "name": "Christie",
+          "votes": 1,
+          "winner": "",
+          "votePct": 0.24
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19187": {
+      "county": "19187",
+      "precinctsReporting": 28,
+      "totalPrecincts": 28,
+      "totalVotes": 1591,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 432,
+          "winner": "X",
+          "votePct": 27.15
+        },
+        {
+          "name": "Trump",
+          "votes": 435,
+          "winner": "",
+          "votePct": 27.34
+        },
+        {
+          "name": "Rubio",
+          "votes": 286,
+          "winner": "",
+          "votePct": 17.98
+        },
+        {
+          "name": "Carson",
+          "votes": 120,
+          "winner": "",
+          "votePct": 7.54
+        },
+        {
+          "name": "Christie",
+          "votes": 79,
+          "winner": "",
+          "votePct": 4.97
+        },
+        {
+          "name": "Huckabee",
+          "votes": 76,
+          "winner": "",
+          "votePct": 4.78
+        },
+        {
+          "name": "Paul",
+          "votes": 62,
+          "winner": "",
+          "votePct": 3.9
+        },
+        {
+          "name": "Bush",
+          "votes": 44,
+          "winner": "",
+          "votePct": 2.77
+        },
+        {
+          "name": "Kasich",
+          "votes": 28,
+          "winner": "",
+          "votePct": 1.76
+        },
+        {
+          "name": "Fiorina",
+          "votes": 17,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Santorum",
+          "votes": 12,
+          "winner": "",
+          "votePct": 0.75
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19189": {
+      "county": "19189",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 617,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 187,
+          "winner": "X",
+          "votePct": 30.31
+        },
+        {
+          "name": "Rubio",
+          "votes": 128,
+          "winner": "",
+          "votePct": 20.75
+        },
+        {
+          "name": "Trump",
+          "votes": 115,
+          "winner": "",
+          "votePct": 18.64
+        },
+        {
+          "name": "Carson",
+          "votes": 91,
+          "winner": "",
+          "votePct": 14.75
+        },
+        {
+          "name": "Huckabee",
+          "votes": 27,
+          "winner": "",
+          "votePct": 4.38
+        },
+        {
+          "name": "Bush",
+          "votes": 24,
+          "winner": "",
+          "votePct": 3.89
+        },
+        {
+          "name": "Paul",
+          "votes": 22,
+          "winner": "",
+          "votePct": 3.57
+        },
+        {
+          "name": "Christie",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.62
+        },
+        {
+          "name": "Fiorina",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.13
+        },
+        {
+          "name": "Santorum",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.65
+        },
+        {
+          "name": "Kasich",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.32
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19191": {
+      "county": "19191",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 1044,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 251,
+          "winner": "X",
+          "votePct": 24.04
+        },
+        {
+          "name": "Trump",
+          "votes": 274,
+          "winner": "",
+          "votePct": 26.25
+        },
+        {
+          "name": "Rubio",
+          "votes": 208,
+          "winner": "",
+          "votePct": 19.92
+        },
+        {
+          "name": "Carson",
+          "votes": 151,
+          "winner": "",
+          "votePct": 14.46
+        },
+        {
+          "name": "Paul",
+          "votes": 40,
+          "winner": "",
+          "votePct": 3.83
+        },
+        {
+          "name": "Kasich",
+          "votes": 30,
+          "winner": "",
+          "votePct": 2.87
+        },
+        {
+          "name": "Fiorina",
+          "votes": 27,
+          "winner": "",
+          "votePct": 2.59
+        },
+        {
+          "name": "Bush",
+          "votes": 26,
+          "winner": "",
+          "votePct": 2.49
+        },
+        {
+          "name": "Huckabee",
+          "votes": 23,
+          "winner": "",
+          "votePct": 2.2
+        },
+        {
+          "name": "Christie",
+          "votes": 9,
+          "winner": "",
+          "votePct": 0.86
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.29
+        },
+        {
+          "name": "Other",
+          "votes": 2,
+          "winner": "",
+          "votePct": 0.19
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19193": {
+      "county": "19193",
+      "precinctsReporting": 44,
+      "totalPrecincts": 44,
+      "totalVotes": 5055,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 1367,
+          "winner": "X",
+          "votePct": 27.04
+        },
+        {
+          "name": "Trump",
+          "votes": 1600,
+          "winner": "",
+          "votePct": 31.65
+        },
+        {
+          "name": "Rubio",
+          "votes": 1065,
+          "winner": "",
+          "votePct": 21.07
+        },
+        {
+          "name": "Carson",
+          "votes": 394,
+          "winner": "",
+          "votePct": 7.79
+        },
+        {
+          "name": "Santorum",
+          "votes": 153,
+          "winner": "",
+          "votePct": 3.03
+        },
+        {
+          "name": "Paul",
+          "votes": 141,
+          "winner": "",
+          "votePct": 2.79
+        },
+        {
+          "name": "Fiorina",
+          "votes": 114,
+          "winner": "",
+          "votePct": 2.26
+        },
+        {
+          "name": "Bush",
+          "votes": 85,
+          "winner": "",
+          "votePct": 1.68
+        },
+        {
+          "name": "Christie",
+          "votes": 69,
+          "winner": "",
+          "votePct": 1.36
+        },
+        {
+          "name": "Kasich",
+          "votes": 44,
+          "winner": "",
+          "votePct": 0.87
+        },
+        {
+          "name": "Huckabee",
+          "votes": 23,
+          "winner": "",
+          "votePct": 0.45
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19195": {
+      "county": "19195",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 375,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 115,
+          "winner": "X",
+          "votePct": 30.67
+        },
+        {
+          "name": "Trump",
+          "votes": 113,
+          "winner": "",
+          "votePct": 30.13
+        },
+        {
+          "name": "Rubio",
+          "votes": 55,
+          "winner": "",
+          "votePct": 14.67
+        },
+        {
+          "name": "Carson",
+          "votes": 25,
+          "winner": "",
+          "votePct": 6.67
+        },
+        {
+          "name": "Huckabee",
+          "votes": 18,
+          "winner": "",
+          "votePct": 4.8
+        },
+        {
+          "name": "Paul",
+          "votes": 14,
+          "winner": "",
+          "votePct": 3.73
+        },
+        {
+          "name": "Fiorina",
+          "votes": 11,
+          "winner": "",
+          "votePct": 2.93
+        },
+        {
+          "name": "Bush",
+          "votes": 9,
+          "winner": "",
+          "votePct": 2.4
+        },
+        {
+          "name": "Christie",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.6
+        },
+        {
+          "name": "Kasich",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.33
+        },
+        {
+          "name": "Santorum",
+          "votes": 4,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19197": {
+      "county": "19197",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 562,
+      "Cand": [
+        {
+          "name": "Cruz",
+          "votes": 190,
+          "winner": "X",
+          "votePct": 33.81
+        },
+        {
+          "name": "Trump",
+          "votes": 129,
+          "winner": "",
+          "votePct": 22.95
+        },
+        {
+          "name": "Rubio",
+          "votes": 124,
+          "winner": "",
+          "votePct": 22.06
+        },
+        {
+          "name": "Carson",
+          "votes": 58,
+          "winner": "",
+          "votePct": 10.32
+        },
+        {
+          "name": "Bush",
+          "votes": 16,
+          "winner": "",
+          "votePct": 2.85
+        },
+        {
+          "name": "Huckabee",
+          "votes": 15,
+          "winner": "",
+          "votePct": 2.67
+        },
+        {
+          "name": "Christie",
+          "votes": 10,
+          "winner": "",
+          "votePct": 1.78
+        },
+        {
+          "name": "Paul",
+          "votes": 7,
+          "winner": "",
+          "votePct": 1.25
+        },
+        {
+          "name": "Kasich",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.07
+        },
+        {
+          "name": "Fiorina",
+          "votes": 4,
+          "winner": "",
+          "votePct": 0.71
+        },
+        {
+          "name": "Santorum",
+          "votes": 3,
+          "winner": "",
+          "votePct": 0.53
+        },
+        {
+          "name": "Gilmore",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    }
+  },
+  "delegates": {
+    "Cruz": 8,
+    "Trump": 7,
+    "Rubio": 7,
+    "Carson": 3,
+    "Paul": 1,
+    "Bush": 1,
+    "Fiorina": 1,
+    "Kasich": 1,
+    "Huckabee": 0,
+    "Christie": 0,
+    "Santorum": 0,
+    "Other": 0,
+    "Gilmore": 0
+  }
+}

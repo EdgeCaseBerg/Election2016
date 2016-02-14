@@ -1,0 +1,3817 @@
+{
+  "meta": {
+    "party": "Dem",
+    "statePostal": "IA",
+    "stateName": "Iowa",
+    "lastUpdated": "2016-02-02T18:05:32Z"
+  },
+  "data": {
+    "0": {
+      "county": "Iowa",
+      "precinctsReporting": 1681,
+      "totalPrecincts": 1681,
+      "totalVotes": 1406,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 701,
+          "winner": "X",
+          "votePct": 49.86
+        },
+        {
+          "name": "Sanders",
+          "votes": 697,
+          "winner": "",
+          "votePct": 49.57
+        },
+        {
+          "name": "O'Malley",
+          "votes": 8,
+          "winner": "",
+          "votePct": 0.57
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19001": {
+      "county": "19001",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 168,
+          "winner": "X",
+          "votePct": 56
+        },
+        {
+          "name": "Sanders",
+          "votes": 132,
+          "winner": "",
+          "votePct": 44
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19003": {
+      "county": "19003",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 113,
+          "winner": "X",
+          "votePct": 56.78
+        },
+        {
+          "name": "Sanders",
+          "votes": 86,
+          "winner": "",
+          "votePct": 43.22
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19005": {
+      "county": "19005",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 600,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 304,
+          "winner": "X",
+          "votePct": 50.67
+        },
+        {
+          "name": "Sanders",
+          "votes": 296,
+          "winner": "",
+          "votePct": 49.33
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19007": {
+      "county": "19007",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 499,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 273,
+          "winner": "X",
+          "votePct": 54.71
+        },
+        {
+          "name": "Sanders",
+          "votes": 226,
+          "winner": "",
+          "votePct": 45.29
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19009": {
+      "county": "19009",
+      "precinctsReporting": 2,
+      "totalPrecincts": 2,
+      "totalVotes": 299,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 187,
+          "winner": "X",
+          "votePct": 62.54
+        },
+        {
+          "name": "Sanders",
+          "votes": 112,
+          "winner": "",
+          "votePct": 37.46
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19011": {
+      "county": "19011",
+      "precinctsReporting": 19,
+      "totalPrecincts": 19,
+      "totalVotes": 1200,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 672,
+          "winner": "X",
+          "votePct": 56
+        },
+        {
+          "name": "Sanders",
+          "votes": 528,
+          "winner": "",
+          "votePct": 44
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19013": {
+      "county": "19013",
+      "precinctsReporting": 62,
+      "totalPrecincts": 62,
+      "totalVotes": 6899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 3220,
+          "winner": "X",
+          "votePct": 46.67
+        },
+        {
+          "name": "Sanders",
+          "votes": 3647,
+          "winner": "",
+          "votePct": 52.86
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 16,
+          "winner": "",
+          "votePct": 0.23
+        },
+        {
+          "name": "O'Malley",
+          "votes": 16,
+          "winner": "",
+          "votePct": 0.23
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19015": {
+      "county": "19015",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 1300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 585,
+          "winner": "X",
+          "votePct": 45
+        },
+        {
+          "name": "Sanders",
+          "votes": 715,
+          "winner": "",
+          "votePct": 55
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19017": {
+      "county": "19017",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 1200,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 640,
+          "winner": "X",
+          "votePct": 53.33
+        },
+        {
+          "name": "Sanders",
+          "votes": 544,
+          "winner": "",
+          "votePct": 45.33
+        },
+        {
+          "name": "O'Malley",
+          "votes": 16,
+          "winner": "",
+          "votePct": 1.33
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19019": {
+      "county": "19019",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 1000,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 525,
+          "winner": "X",
+          "votePct": 52.5
+        },
+        {
+          "name": "Sanders",
+          "votes": 475,
+          "winner": "",
+          "votePct": 47.5
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19021": {
+      "county": "19021",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 599,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 291,
+          "winner": "X",
+          "votePct": 48.58
+        },
+        {
+          "name": "Sanders",
+          "votes": 291,
+          "winner": "",
+          "votePct": 48.58
+        },
+        {
+          "name": "O'Malley",
+          "votes": 17,
+          "winner": "",
+          "votePct": 2.84
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19023": {
+      "county": "19023",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 600,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 250,
+          "winner": "X",
+          "votePct": 41.67
+        },
+        {
+          "name": "Sanders",
+          "votes": 350,
+          "winner": "",
+          "votePct": 58.33
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19025": {
+      "county": "19025",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 200,
+          "winner": "X",
+          "votePct": 50
+        },
+        {
+          "name": "Sanders",
+          "votes": 200,
+          "winner": "",
+          "votePct": 50
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19027": {
+      "county": "19027",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 800,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 504,
+          "winner": "X",
+          "votePct": 63
+        },
+        {
+          "name": "Sanders",
+          "votes": 296,
+          "winner": "",
+          "votePct": 37
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19029": {
+      "county": "19029",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 500,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 300,
+          "winner": "X",
+          "votePct": 60
+        },
+        {
+          "name": "Sanders",
+          "votes": 190,
+          "winner": "",
+          "votePct": 38
+        },
+        {
+          "name": "O'Malley",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19031": {
+      "county": "19031",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 799,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 354,
+          "winner": "X",
+          "votePct": 44.31
+        },
+        {
+          "name": "Sanders",
+          "votes": 445,
+          "winner": "",
+          "votePct": 55.69
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19033": {
+      "county": "19033",
+      "precinctsReporting": 26,
+      "totalPrecincts": 26,
+      "totalVotes": 2199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1091,
+          "winner": "X",
+          "votePct": 49.61
+        },
+        {
+          "name": "Sanders",
+          "votes": 1108,
+          "winner": "",
+          "votePct": 50.39
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19035": {
+      "county": "19035",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 181,
+          "winner": "X",
+          "votePct": 45.36
+        },
+        {
+          "name": "Sanders",
+          "votes": 218,
+          "winner": "",
+          "votePct": 54.64
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19037": {
+      "county": "19037",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 599,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 360,
+          "winner": "X",
+          "votePct": 60.1
+        },
+        {
+          "name": "Sanders",
+          "votes": 233,
+          "winner": "",
+          "votePct": 38.9
+        },
+        {
+          "name": "O'Malley",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19039": {
+      "county": "19039",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 232,
+          "winner": "X",
+          "votePct": 58
+        },
+        {
+          "name": "Sanders",
+          "votes": 168,
+          "winner": "",
+          "votePct": 42
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19041": {
+      "county": "19041",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 599,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 296,
+          "winner": "X",
+          "votePct": 49.42
+        },
+        {
+          "name": "Sanders",
+          "votes": 303,
+          "winner": "",
+          "votePct": 50.58
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19043": {
+      "county": "19043",
+      "precinctsReporting": 14,
+      "totalPrecincts": 14,
+      "totalVotes": 800,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 392,
+          "winner": "X",
+          "votePct": 49
+        },
+        {
+          "name": "Sanders",
+          "votes": 408,
+          "winner": "",
+          "votePct": 51
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19045": {
+      "county": "19045",
+      "precinctsReporting": 26,
+      "totalPrecincts": 26,
+      "totalVotes": 2399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1165,
+          "winner": "X",
+          "votePct": 48.56
+        },
+        {
+          "name": "Sanders",
+          "votes": 1234,
+          "winner": "",
+          "votePct": 51.44
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19047": {
+      "county": "19047",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 499,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 225,
+          "winner": "X",
+          "votePct": 45.09
+        },
+        {
+          "name": "Sanders",
+          "votes": 208,
+          "winner": "",
+          "votePct": 41.68
+        },
+        {
+          "name": "O'Malley",
+          "votes": 66,
+          "winner": "",
+          "votePct": 13.23
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19049": {
+      "county": "19049",
+      "precinctsReporting": 34,
+      "totalPrecincts": 34,
+      "totalVotes": 2899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1667,
+          "winner": "X",
+          "votePct": 57.5
+        },
+        {
+          "name": "Sanders",
+          "votes": 1208,
+          "winner": "",
+          "votePct": 41.67
+        },
+        {
+          "name": "O'Malley",
+          "votes": 24,
+          "winner": "",
+          "votePct": 0.83
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19051": {
+      "county": "19051",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 174,
+          "winner": "X",
+          "votePct": 58
+        },
+        {
+          "name": "Sanders",
+          "votes": 126,
+          "winner": "",
+          "votePct": 42
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19053": {
+      "county": "19053",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 299,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 150,
+          "winner": "X",
+          "votePct": 50.17
+        },
+        {
+          "name": "Sanders",
+          "votes": 141,
+          "winner": "",
+          "votePct": 47.16
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 4,
+          "winner": "",
+          "votePct": 1.34
+        },
+        {
+          "name": "O'Malley",
+          "votes": 4,
+          "winner": "",
+          "votePct": 1.34
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19055": {
+      "county": "19055",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 800,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 440,
+          "winner": "X",
+          "votePct": 55
+        },
+        {
+          "name": "Sanders",
+          "votes": 344,
+          "winner": "",
+          "votePct": 43
+        },
+        {
+          "name": "O'Malley",
+          "votes": 16,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19057": {
+      "county": "19057",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 1999,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 933,
+          "winner": "X",
+          "votePct": 46.67
+        },
+        {
+          "name": "Sanders",
+          "votes": 1066,
+          "winner": "",
+          "votePct": 53.33
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19059": {
+      "county": "19059",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 699,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 341,
+          "winner": "X",
+          "votePct": 48.78
+        },
+        {
+          "name": "Sanders",
+          "votes": 358,
+          "winner": "",
+          "votePct": 51.22
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19061": {
+      "county": "19061",
+      "precinctsReporting": 35,
+      "totalPrecincts": 35,
+      "totalVotes": 4798,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 2504,
+          "winner": "X",
+          "votePct": 52.19
+        },
+        {
+          "name": "Sanders",
+          "votes": 2276,
+          "winner": "",
+          "votePct": 47.44
+        },
+        {
+          "name": "O'Malley",
+          "votes": 18,
+          "winner": "",
+          "votePct": 0.38
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19063": {
+      "county": "19063",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 168,
+          "winner": "X",
+          "votePct": 56
+        },
+        {
+          "name": "Sanders",
+          "votes": 132,
+          "winner": "",
+          "votePct": 44
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19065": {
+      "county": "19065",
+      "precinctsReporting": 25,
+      "totalPrecincts": 25,
+      "totalVotes": 998,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 525,
+          "winner": "X",
+          "votePct": 52.61
+        },
+        {
+          "name": "Sanders",
+          "votes": 468,
+          "winner": "",
+          "votePct": 46.89
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 5,
+          "winner": "",
+          "votePct": 0.5
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19067": {
+      "county": "19067",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 799,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 453,
+          "winner": "X",
+          "votePct": 56.7
+        },
+        {
+          "name": "Sanders",
+          "votes": 346,
+          "winner": "",
+          "votePct": 43.3
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19069": {
+      "county": "19069",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 398,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 226,
+          "winner": "X",
+          "votePct": 56.78
+        },
+        {
+          "name": "Sanders",
+          "votes": 168,
+          "winner": "",
+          "votePct": 42.21
+        },
+        {
+          "name": "O'Malley",
+          "votes": 4,
+          "winner": "",
+          "votePct": 1.01
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19071": {
+      "county": "19071",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 270,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 120,
+          "winner": "X",
+          "votePct": 44.44
+        },
+        {
+          "name": "Sanders",
+          "votes": 135,
+          "winner": "",
+          "votePct": 50
+        },
+        {
+          "name": "O'Malley",
+          "votes": 15,
+          "winner": "",
+          "votePct": 5.56
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19073": {
+      "county": "19073",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 215,
+          "winner": "X",
+          "votePct": 53.88
+        },
+        {
+          "name": "Sanders",
+          "votes": 184,
+          "winner": "",
+          "votePct": 46.12
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19075": {
+      "county": "19075",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 398,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 186,
+          "winner": "X",
+          "votePct": 46.73
+        },
+        {
+          "name": "Sanders",
+          "votes": 206,
+          "winner": "",
+          "votePct": 51.76
+        },
+        {
+          "name": "O'Malley",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.51
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19077": {
+      "county": "19077",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 220,
+          "winner": "X",
+          "votePct": 55
+        },
+        {
+          "name": "Sanders",
+          "votes": 180,
+          "winner": "",
+          "votePct": 45
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19079": {
+      "county": "19079",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 599,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 353,
+          "winner": "X",
+          "votePct": 58.93
+        },
+        {
+          "name": "Sanders",
+          "votes": 246,
+          "winner": "",
+          "votePct": 41.07
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19081": {
+      "county": "19081",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 392,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 240,
+          "winner": "X",
+          "votePct": 61.22
+        },
+        {
+          "name": "Sanders",
+          "votes": 152,
+          "winner": "",
+          "votePct": 38.78
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19083": {
+      "county": "19083",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 699,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 403,
+          "winner": "X",
+          "votePct": 57.65
+        },
+        {
+          "name": "Sanders",
+          "votes": 296,
+          "winner": "",
+          "votePct": 42.35
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19085": {
+      "county": "19085",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 499,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 226,
+          "winner": "X",
+          "votePct": 45.29
+        },
+        {
+          "name": "Sanders",
+          "votes": 273,
+          "winner": "",
+          "votePct": 54.71
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19087": {
+      "county": "19087",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 700,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 350,
+          "winner": "X",
+          "votePct": 50
+        },
+        {
+          "name": "Sanders",
+          "votes": 350,
+          "winner": "",
+          "votePct": 50
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19089": {
+      "county": "19089",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 184,
+          "winner": "X",
+          "votePct": 46.12
+        },
+        {
+          "name": "Sanders",
+          "votes": 215,
+          "winner": "",
+          "votePct": 53.88
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19091": {
+      "county": "19091",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 299,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 166,
+          "winner": "X",
+          "votePct": 55.52
+        },
+        {
+          "name": "Sanders",
+          "votes": 133,
+          "winner": "",
+          "votePct": 44.48
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19093": {
+      "county": "19093",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 106,
+          "winner": "X",
+          "votePct": 53.27
+        },
+        {
+          "name": "Sanders",
+          "votes": 93,
+          "winner": "",
+          "votePct": 46.73
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19095": {
+      "county": "19095",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 700,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 357,
+          "winner": "X",
+          "votePct": 51
+        },
+        {
+          "name": "Sanders",
+          "votes": 343,
+          "winner": "",
+          "votePct": 49
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19097": {
+      "county": "19097",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 900,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 450,
+          "winner": "X",
+          "votePct": 50
+        },
+        {
+          "name": "Sanders",
+          "votes": 414,
+          "winner": "",
+          "votePct": 46
+        },
+        {
+          "name": "O'Malley",
+          "votes": 36,
+          "winner": "",
+          "votePct": 4
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19099": {
+      "county": "19099",
+      "precinctsReporting": 20,
+      "totalPrecincts": 20,
+      "totalVotes": 1800,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 927,
+          "winner": "X",
+          "votePct": 51.5
+        },
+        {
+          "name": "Sanders",
+          "votes": 810,
+          "winner": "",
+          "votePct": 45
+        },
+        {
+          "name": "O'Malley",
+          "votes": 63,
+          "winner": "",
+          "votePct": 3.5
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19101": {
+      "county": "19101",
+      "precinctsReporting": 12,
+      "totalPrecincts": 12,
+      "totalVotes": 899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 245,
+          "winner": "X",
+          "votePct": 27.25
+        },
+        {
+          "name": "Sanders",
+          "votes": 654,
+          "winner": "",
+          "votePct": 72.75
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19103": {
+      "county": "19103",
+      "precinctsReporting": 57,
+      "totalPrecincts": 57,
+      "totalVotes": 9199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 3700,
+          "winner": "X",
+          "votePct": 40.22
+        },
+        {
+          "name": "Sanders",
+          "votes": 5473,
+          "winner": "",
+          "votePct": 59.5
+        },
+        {
+          "name": "O'Malley",
+          "votes": 26,
+          "winner": "",
+          "votePct": 0.28
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19105": {
+      "county": "19105",
+      "precinctsReporting": 14,
+      "totalPrecincts": 14,
+      "totalVotes": 899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 419,
+          "winner": "X",
+          "votePct": 46.61
+        },
+        {
+          "name": "Sanders",
+          "votes": 480,
+          "winner": "",
+          "votePct": 53.39
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19107": {
+      "county": "19107",
+      "precinctsReporting": 15,
+      "totalPrecincts": 15,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 250,
+          "winner": "X",
+          "votePct": 62.5
+        },
+        {
+          "name": "Sanders",
+          "votes": 140,
+          "winner": "",
+          "votePct": 35
+        },
+        {
+          "name": "O'Malley",
+          "votes": 10,
+          "winner": "",
+          "votePct": 2.5
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19109": {
+      "county": "19109",
+      "precinctsReporting": 20,
+      "totalPrecincts": 20,
+      "totalVotes": 592,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 360,
+          "winner": "X",
+          "votePct": 60.81
+        },
+        {
+          "name": "Sanders",
+          "votes": 213,
+          "winner": "",
+          "votePct": 35.98
+        },
+        {
+          "name": "O'Malley",
+          "votes": 13,
+          "winner": "",
+          "votePct": 2.2
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 6,
+          "winner": "",
+          "votePct": 1.01
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19111": {
+      "county": "19111",
+      "precinctsReporting": 22,
+      "totalPrecincts": 22,
+      "totalVotes": 1699,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 929,
+          "winner": "X",
+          "votePct": 54.68
+        },
+        {
+          "name": "Sanders",
+          "votes": 770,
+          "winner": "",
+          "votePct": 45.32
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19113": {
+      "county": "19113",
+      "precinctsReporting": 86,
+      "totalPrecincts": 86,
+      "totalVotes": 12099,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 5733,
+          "winner": "X",
+          "votePct": 47.38
+        },
+        {
+          "name": "Sanders",
+          "votes": 6331,
+          "winner": "",
+          "votePct": 52.33
+        },
+        {
+          "name": "O'Malley",
+          "votes": 35,
+          "winner": "",
+          "votePct": 0.29
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19115": {
+      "county": "19115",
+      "precinctsReporting": 5,
+      "totalPrecincts": 5,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 224,
+          "winner": "X",
+          "votePct": 56
+        },
+        {
+          "name": "Sanders",
+          "votes": 168,
+          "winner": "",
+          "votePct": 42
+        },
+        {
+          "name": "O'Malley",
+          "votes": 8,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19117": {
+      "county": "19117",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 180,
+          "winner": "X",
+          "votePct": 60
+        },
+        {
+          "name": "Sanders",
+          "votes": 120,
+          "winner": "",
+          "votePct": 40
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19119": {
+      "county": "19119",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 80,
+          "winner": "X",
+          "votePct": 40.2
+        },
+        {
+          "name": "Sanders",
+          "votes": 113,
+          "winner": "",
+          "votePct": 56.78
+        },
+        {
+          "name": "O'Malley",
+          "votes": 6,
+          "winner": "",
+          "votePct": 3.02
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19121": {
+      "county": "19121",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 600,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 320,
+          "winner": "X",
+          "votePct": 53.33
+        },
+        {
+          "name": "Sanders",
+          "votes": 280,
+          "winner": "",
+          "votePct": 46.67
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19123": {
+      "county": "19123",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 699,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 393,
+          "winner": "X",
+          "votePct": 56.22
+        },
+        {
+          "name": "Sanders",
+          "votes": 306,
+          "winner": "",
+          "votePct": 43.78
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19125": {
+      "county": "19125",
+      "precinctsReporting": 17,
+      "totalPrecincts": 17,
+      "totalVotes": 1300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 650,
+          "winner": "X",
+          "votePct": 50
+        },
+        {
+          "name": "Sanders",
+          "votes": 624,
+          "winner": "",
+          "votePct": 48
+        },
+        {
+          "name": "O'Malley",
+          "votes": 26,
+          "winner": "",
+          "votePct": 2
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19127": {
+      "county": "19127",
+      "precinctsReporting": 19,
+      "totalPrecincts": 19,
+      "totalVotes": 1799,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 839,
+          "winner": "X",
+          "votePct": 46.64
+        },
+        {
+          "name": "Sanders",
+          "votes": 960,
+          "winner": "",
+          "votePct": 53.36
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19129": {
+      "county": "19129",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 499,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 255,
+          "winner": "X",
+          "votePct": 51.1
+        },
+        {
+          "name": "Sanders",
+          "votes": 244,
+          "winner": "",
+          "votePct": 48.9
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19131": {
+      "county": "19131",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 260,
+          "winner": "X",
+          "votePct": 65
+        },
+        {
+          "name": "Sanders",
+          "votes": 135,
+          "winner": "",
+          "votePct": 33.75
+        },
+        {
+          "name": "O'Malley",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.25
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19133": {
+      "county": "19133",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 299,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 180,
+          "winner": "X",
+          "votePct": 60.2
+        },
+        {
+          "name": "Sanders",
+          "votes": 116,
+          "winner": "",
+          "votePct": 38.8
+        },
+        {
+          "name": "O'Malley",
+          "votes": 3,
+          "winner": "",
+          "votePct": 1
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19135": {
+      "county": "19135",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 298,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 129,
+          "winner": "X",
+          "votePct": 43.29
+        },
+        {
+          "name": "Sanders",
+          "votes": 133,
+          "winner": "",
+          "votePct": 44.63
+        },
+        {
+          "name": "O'Malley",
+          "votes": 36,
+          "winner": "",
+          "votePct": 12.08
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19137": {
+      "county": "19137",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 108,
+          "winner": "X",
+          "votePct": 36
+        },
+        {
+          "name": "Sanders",
+          "votes": 192,
+          "winner": "",
+          "votePct": 64
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19139": {
+      "county": "19139",
+      "precinctsReporting": 23,
+      "totalPrecincts": 23,
+      "totalVotes": 1800,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 828,
+          "winner": "X",
+          "votePct": 46
+        },
+        {
+          "name": "Sanders",
+          "votes": 972,
+          "winner": "",
+          "votePct": 54
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19141": {
+      "county": "19141",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 298,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 152,
+          "winner": "X",
+          "votePct": 51.01
+        },
+        {
+          "name": "Sanders",
+          "votes": 141,
+          "winner": "",
+          "votePct": 47.32
+        },
+        {
+          "name": "O'Malley",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.68
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19143": {
+      "county": "19143",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 99,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 56,
+          "winner": "X",
+          "votePct": 56.57
+        },
+        {
+          "name": "Sanders",
+          "votes": 38,
+          "winner": "",
+          "votePct": 38.38
+        },
+        {
+          "name": "O'Malley",
+          "votes": 5,
+          "winner": "",
+          "votePct": 5.05
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19145": {
+      "county": "19145",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 197,
+          "winner": "X",
+          "votePct": 49.37
+        },
+        {
+          "name": "Sanders",
+          "votes": 202,
+          "winner": "",
+          "votePct": 50.63
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19147": {
+      "county": "19147",
+      "precinctsReporting": 6,
+      "totalPrecincts": 6,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 213,
+          "winner": "X",
+          "votePct": 53.38
+        },
+        {
+          "name": "Sanders",
+          "votes": 186,
+          "winner": "",
+          "votePct": 46.62
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19149": {
+      "county": "19149",
+      "precinctsReporting": 13,
+      "totalPrecincts": 13,
+      "totalVotes": 699,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 387,
+          "winner": "X",
+          "votePct": 55.36
+        },
+        {
+          "name": "Sanders",
+          "votes": 312,
+          "winner": "",
+          "votePct": 44.64
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19151": {
+      "county": "19151",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 198,
+          "winner": "X",
+          "votePct": 66
+        },
+        {
+          "name": "Sanders",
+          "votes": 90,
+          "winner": "",
+          "votePct": 30
+        },
+        {
+          "name": "O'Malley",
+          "votes": 12,
+          "winner": "",
+          "votePct": 4
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19153": {
+      "county": "19153",
+      "precinctsReporting": 177,
+      "totalPrecincts": 177,
+      "totalVotes": 22800,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 12122,
+          "winner": "X",
+          "votePct": 53.17
+        },
+        {
+          "name": "Sanders",
+          "votes": 10526,
+          "winner": "",
+          "votePct": 46.17
+        },
+        {
+          "name": "O'Malley",
+          "votes": 152,
+          "winner": "",
+          "votePct": 0.67
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19155": {
+      "county": "19155",
+      "precinctsReporting": 40,
+      "totalPrecincts": 40,
+      "totalVotes": 3099,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1519,
+          "winner": "X",
+          "votePct": 49.02
+        },
+        {
+          "name": "Sanders",
+          "votes": 1573,
+          "winner": "",
+          "votePct": 50.76
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.23
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19157": {
+      "county": "19157",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 424,
+          "winner": "X",
+          "votePct": 47.16
+        },
+        {
+          "name": "Sanders",
+          "votes": 475,
+          "winner": "",
+          "votePct": 52.84
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19159": {
+      "county": "19159",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 132,
+          "winner": "X",
+          "votePct": 66.33
+        },
+        {
+          "name": "Sanders",
+          "votes": 67,
+          "winner": "",
+          "votePct": 33.67
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19161": {
+      "county": "19161",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 300,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 165,
+          "winner": "X",
+          "votePct": 55
+        },
+        {
+          "name": "Sanders",
+          "votes": 135,
+          "winner": "",
+          "votePct": 45
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19163": {
+      "county": "19163",
+      "precinctsReporting": 63,
+      "totalPrecincts": 63,
+      "totalVotes": 8198,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 4025,
+          "winner": "X",
+          "votePct": 49.1
+        },
+        {
+          "name": "Sanders",
+          "votes": 4144,
+          "winner": "",
+          "votePct": 50.55
+        },
+        {
+          "name": "O'Malley",
+          "votes": 29,
+          "winner": "",
+          "votePct": 0.35
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19165": {
+      "county": "19165",
+      "precinctsReporting": 9,
+      "totalPrecincts": 9,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 168,
+          "winner": "X",
+          "votePct": 42
+        },
+        {
+          "name": "Sanders",
+          "votes": 232,
+          "winner": "",
+          "votePct": 58
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19167": {
+      "county": "19167",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 192,
+          "winner": "X",
+          "votePct": 48.12
+        },
+        {
+          "name": "Sanders",
+          "votes": 202,
+          "winner": "",
+          "votePct": 50.63
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 5,
+          "winner": "",
+          "votePct": 1.25
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19169": {
+      "county": "19169",
+      "precinctsReporting": 43,
+      "totalPrecincts": 43,
+      "totalVotes": 4599,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1862,
+          "winner": "X",
+          "votePct": 40.49
+        },
+        {
+          "name": "Sanders",
+          "votes": 2737,
+          "winner": "",
+          "votePct": 59.51
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19171": {
+      "county": "19171",
+      "precinctsReporting": 16,
+      "totalPrecincts": 16,
+      "totalVotes": 899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 476,
+          "winner": "X",
+          "votePct": 52.95
+        },
+        {
+          "name": "Sanders",
+          "votes": 423,
+          "winner": "",
+          "votePct": 47.05
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19173": {
+      "county": "19173",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 200,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 140,
+          "winner": "X",
+          "votePct": 70
+        },
+        {
+          "name": "Sanders",
+          "votes": 60,
+          "winner": "",
+          "votePct": 30
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19175": {
+      "county": "19175",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 499,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 231,
+          "winner": "X",
+          "votePct": 46.29
+        },
+        {
+          "name": "Sanders",
+          "votes": 268,
+          "winner": "",
+          "votePct": 53.71
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19177": {
+      "county": "19177",
+      "precinctsReporting": 8,
+      "totalPrecincts": 8,
+      "totalVotes": 199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 93,
+          "winner": "X",
+          "votePct": 46.73
+        },
+        {
+          "name": "Sanders",
+          "votes": 106,
+          "winner": "",
+          "votePct": 53.27
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19179": {
+      "county": "19179",
+      "precinctsReporting": 22,
+      "totalPrecincts": 22,
+      "totalVotes": 1491,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 817,
+          "winner": "X",
+          "votePct": 54.8
+        },
+        {
+          "name": "Sanders",
+          "votes": 667,
+          "winner": "",
+          "votePct": 44.74
+        },
+        {
+          "name": "O'Malley",
+          "votes": 7,
+          "winner": "",
+          "votePct": 0.47
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19181": {
+      "county": "19181",
+      "precinctsReporting": 31,
+      "totalPrecincts": 31,
+      "totalVotes": 2199,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1217,
+          "winner": "X",
+          "votePct": 55.34
+        },
+        {
+          "name": "Sanders",
+          "votes": 953,
+          "winner": "",
+          "votePct": 43.34
+        },
+        {
+          "name": "O'Malley",
+          "votes": 29,
+          "winner": "",
+          "votePct": 1.32
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19183": {
+      "county": "19183",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 899,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 484,
+          "winner": "X",
+          "votePct": 53.84
+        },
+        {
+          "name": "Sanders",
+          "votes": 415,
+          "winner": "",
+          "votePct": 46.16
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19185": {
+      "county": "19185",
+      "precinctsReporting": 4,
+      "totalPrecincts": 4,
+      "totalVotes": 200,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 130,
+          "winner": "X",
+          "votePct": 65
+        },
+        {
+          "name": "Sanders",
+          "votes": 70,
+          "winner": "",
+          "votePct": 35
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19187": {
+      "county": "19187",
+      "precinctsReporting": 28,
+      "totalPrecincts": 28,
+      "totalVotes": 1599,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 866,
+          "winner": "X",
+          "votePct": 54.16
+        },
+        {
+          "name": "Sanders",
+          "votes": 720,
+          "winner": "",
+          "votePct": 45.03
+        },
+        {
+          "name": "O'Malley",
+          "votes": 13,
+          "winner": "",
+          "votePct": 0.81
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19189": {
+      "county": "19189",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 400,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 170,
+          "winner": "X",
+          "votePct": 42.5
+        },
+        {
+          "name": "Sanders",
+          "votes": 230,
+          "winner": "",
+          "votePct": 57.5
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19191": {
+      "county": "19191",
+      "precinctsReporting": 11,
+      "totalPrecincts": 11,
+      "totalVotes": 1100,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 484,
+          "winner": "X",
+          "votePct": 44
+        },
+        {
+          "name": "Sanders",
+          "votes": 616,
+          "winner": "",
+          "votePct": 56
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19193": {
+      "county": "19193",
+      "precinctsReporting": 44,
+      "totalPrecincts": 44,
+      "totalVotes": 3600,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 1665,
+          "winner": "X",
+          "votePct": 46.25
+        },
+        {
+          "name": "Sanders",
+          "votes": 1920,
+          "winner": "",
+          "votePct": 53.33
+        },
+        {
+          "name": "O'Malley",
+          "votes": 15,
+          "winner": "",
+          "votePct": 0.42
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19195": {
+      "county": "19195",
+      "precinctsReporting": 7,
+      "totalPrecincts": 7,
+      "totalVotes": 399,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 181,
+          "winner": "X",
+          "votePct": 45.36
+        },
+        {
+          "name": "Sanders",
+          "votes": 218,
+          "winner": "",
+          "votePct": 54.64
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    },
+    "19197": {
+      "county": "19197",
+      "precinctsReporting": 10,
+      "totalPrecincts": 10,
+      "totalVotes": 499,
+      "Cand": [
+        {
+          "name": "Clinton",
+          "votes": 273,
+          "winner": "X",
+          "votePct": 54.71
+        },
+        {
+          "name": "Sanders",
+          "votes": 226,
+          "winner": "",
+          "votePct": 45.29
+        },
+        {
+          "name": "Uncommitted",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "Other",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        },
+        {
+          "name": "O'Malley",
+          "votes": 0,
+          "winner": "",
+          "votePct": 0
+        }
+      ]
+    }
+  },
+  "delegates": {
+    "Clinton": 23,
+    "Sanders": 21,
+    "O'Malley": 0,
+    "Uncommitted": 0,
+    "Other": 0
+  }
+}
