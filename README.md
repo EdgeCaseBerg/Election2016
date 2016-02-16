@@ -9,6 +9,8 @@ Running make will load a csv of the information into MySQL to run
 queries against. It also populates a couple of view's so it's easy to
 get the totals. 
 
+This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
+
 Latest Data (last updated 2-14-16)
 ======================================
 
