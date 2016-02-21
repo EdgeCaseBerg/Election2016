@@ -11,7 +11,7 @@ get the totals.
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 2-14-16)
+Latest Data (last updated 2-21-16)
 ======================================
 
 ```
@@ -19,8 +19,8 @@ mysql> select * from votetotal;
 +-----------------+--------+-----------+
 | candidate       | votes  | delegates |
 +-----------------+--------+-----------+
-| Bernie Sanders  | 221317 |        36 |
-| Hillary Clinton | 165704 |        32 |
+| Bernie Sanders  | 226906 |        52 |
+| Hillary Clinton | 171942 |        54 |
 | Donald Trump    | 145833 |        17 |
 | Ted Cruz        |  84855 |        11 |
 | John Kasich     |  48383 |         5 |
@@ -40,10 +40,11 @@ mysql> select * from partytotal;
 +-------+--------+
 | party | votes  |
 +-------+--------+
+| Dem   | 399600 |
 | Rep   | 391860 |
-| Dem   | 387773 |
 +-------+--------+
 2 rows in set (0.00 sec)
+
 
 ```
 
