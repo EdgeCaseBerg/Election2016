@@ -19,16 +19,16 @@ mysql> select * from votetotal;
 +-----------------+--------+-----------+
 | candidate       | votes  | delegates |
 +-----------------+--------+-----------+
+| Donald Trump    | 385685 |        61 |
+| Ted Cruz        | 249645 |        11 |
 | Bernie Sanders  | 226906 |        52 |
+| Marco Rubio     | 195913 |         3 |
 | Hillary Clinton | 171942 |        54 |
-| Donald Trump    | 145833 |        17 |
-| Ted Cruz        |  84855 |        11 |
-| John Kasich     |  48383 |         5 |
-| Jeb Bush        |  31310 |         3 |
-| Marco Rubio     |  30032 |         3 |
+| John Kasich     | 104589 |         5 |
+| Jeb Bush        |  89173 |         3 |
+| Ben Carson      |  59835 |         0 |
 | Chris Christie  |  24353 |         0 |
 | Carly Fiorina   |  15191 |         1 |
-| Ben Carson      |   6509 |         0 |
 | Mike Huckabee   |   3345 |         0 |
 | Rick Santorum   |   1783 |         0 |
 | Martin O'Malley |    752 |         0 |
@@ -37,14 +37,12 @@ mysql> select * from votetotal;
 14 rows in set (0.00 sec)
 
 mysql> select * from partytotal;
-+-------+--------+
-| party | votes  |
-+-------+--------+
-| Dem   | 399600 |
-| Rep   | 391860 |
-+-------+--------+
++-------+---------+
+| party | votes   |
++-------+---------+
+| Rep   | 1129778 |
+| Dem   |  399600 |
++-------+---------+
 2 rows in set (0.00 sec)
-
-
 ```
 
