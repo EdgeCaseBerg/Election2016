@@ -2,4 +2,5 @@ iowa-dem.json,http://graphics.wsj.com/live/primary2016/IA/dem.json
 iowa-gop.json,http://graphics.wsj.com/live/primary2016/IA/gop.json
 nh-county.json,http://graphics.wsj.com/elections/2016/new-hampshire-primaries-results/ 
 nv-dems,http://www.politico.com/2016-election/results/map/president/nevada
+sc-gop,http://www.politico.com/2016-election/results/map/president/south-carolina
 primaries.csv,https://docs.google.com/spreadsheets/d/1JzzY2w0GPSPx6TkZKum_q7bgj0ke9IQEY5nFPjN2U9M/view?usp=sharing
