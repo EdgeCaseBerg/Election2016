@@ -46,3 +46,5 @@ mysql> select * from partytotal;
 2 rows in set (0.00 sec)
 ```
 
+Note: I am not counting any delegates from any state's that have not had 
+their primaries/caucus yet.
