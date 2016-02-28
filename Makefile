@@ -2,4 +2,6 @@
 
 install:
 	cp data/primaries.csv /tmp
+	chmod 777 /tmp/primaries.csv
 	mysql -p < scripts/sql-table.sql
+	rm /tmp/primaries.csv
