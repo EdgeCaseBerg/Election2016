@@ -19,11 +19,11 @@ mysql> select * from votetotal;
 +-----------------+--------+-----------+
 | candidate       | votes  | delegates |
 +-----------------+--------+-----------+
+| Hillary Clinton | 443456 |        93 |
 | Donald Trump    | 385685 |        61 |
+| Bernie Sanders  | 322183 |        66 |
 | Ted Cruz        | 249645 |        11 |
-| Bernie Sanders  | 226906 |        52 |
 | Marco Rubio     | 195913 |         3 |
-| Hillary Clinton | 171942 |        54 |
 | John Kasich     | 104589 |         5 |
 | Jeb Bush        |  89173 |         3 |
 | Ben Carson      |  59835 |         0 |
@@ -34,16 +34,17 @@ mysql> select * from votetotal;
 | Martin O'Malley |    752 |         0 |
 | Jim Gilmore     |    266 |         0 |
 +-----------------+--------+-----------+
-14 rows in set (0.00 sec)
+14 rows in set (0.01 sec)
 
 mysql> select * from partytotal;
 +-------+---------+
 | party | votes   |
 +-------+---------+
 | Rep   | 1129778 |
-| Dem   |  399600 |
+| Dem   |  766391 |
 +-------+---------+
 2 rows in set (0.00 sec)
+
 ```
 
 Note: I am not counting any delegates from any state's that have not had 
