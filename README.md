@@ -11,7 +11,7 @@ get the totals.
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 3-2-2016)
+Latest Data (last updated 3-6-2016)
 ======================================
 
 ```
@@ -19,12 +19,12 @@ mysql> select * from votetotal;
 +-----------------+---------+-----------+
 | candidate       | votes   | delegates |
 +-----------------+---------+-----------+
-| Hillary Clinton | 3737914 |       605 |
-| Donald Trump    | 3331337 |       298 |
-| Ted Cruz        | 2747957 |       220 |
-| Bernie Sanders  | 2616127 |       409 |
-| Marco Rubio     | 2071789 |        97 |
-| John Kasich     |  648200 |        24 |
+| Hillary Clinton | 3986462 |       660 |
+| Donald Trump    | 3561780 |       351 |
+| Ted Cruz        | 2978166 |       291 |
+| Bernie Sanders  | 2733937 |       458 |
+| Marco Rubio     | 2156853 |       115 |
+| John Kasich     |  710754 |        34 |
 | Ben Carson      |  551774 |         3 |
 | Jeb Bush        |   89173 |         3 |
 | Chris Christie  |   24353 |         0 |
@@ -37,12 +37,12 @@ mysql> select * from votetotal;
 14 rows in set (0.00 sec)
 
 mysql> select * from partytotal;
-+-------+---------+
-| party | votes   |
-+-------+---------+
-| Rep   | 9485168 |
-| Dem   | 6354793 |
-+-------+---------+
++-------+----------+
+| party | votes    |
++-------+----------+
+| Rep   | 10093438 |
+| Dem   |  6721151 |
++-------+----------+
 2 rows in set (0.00 sec)
 
 ```
