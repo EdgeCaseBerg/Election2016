@@ -45,6 +45,35 @@ mysql> select * from partytotal;
 +-------+----------+
 2 rows in set (0.00 sec)
 
+mysql> select state from primaries group by state;
++-------+
+| state |
++-------+
+| AK    |
+| AL    |
+| AR    |
+| AS    |
+| CO    |
+| GA    |
+| IA    |
+| KS    |
+| KY    |
+| LA    |
+| MA    |
+| ME    |
+| MN    |
+| NE    |
+| NH    |
+| NV    |
+| OK    |
+| SC    |
+| TN    |
+| TX    |
+| VA    |
+| VT    |
++-------+
+22 rows in set (0.00 sec)
+
 ```
 
 Note: I am not counting any delegates from any state's that have not had 
