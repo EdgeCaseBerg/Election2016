@@ -11,7 +11,7 @@ get the totals.
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 3-6-2016)
+Latest Data (last updated 3-8-2016)
 ======================================
 
 ```
@@ -19,12 +19,12 @@ mysql> select * from votetotal;
 +-----------------+---------+-----------+
 | candidate       | votes   | delegates |
 +-----------------+---------+-----------+
-| Hillary Clinton | 3986462 |       660 |
-| Donald Trump    | 3561780 |       351 |
-| Ted Cruz        | 2978166 |       291 |
-| Bernie Sanders  | 2733937 |       458 |
-| Marco Rubio     | 2156853 |       115 |
-| John Kasich     |  710754 |        34 |
+| Hillary Clinton | 4739694 |       747 |
+| Donald Trump    | 4302247 |       422 |
+| Ted Cruz        | 3558022 |       347 |
+| Bernie Sanders  | 3360607 |       527 |
+| Marco Rubio     | 2337666 |       115 |
+| John Kasich     | 1084671 |        51 |
 | Ben Carson      |  551774 |         3 |
 | Jeb Bush        |   89173 |         3 |
 | Chris Christie  |   24353 |         0 |
@@ -40,8 +40,8 @@ mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 10093438 |
-| Dem   |  6721151 |
+| Rep   | 11968491 |
+| Dem   |  8101053 |
 +-------+----------+
 2 rows in set (0.00 sec)
 
@@ -55,13 +55,17 @@ mysql> select state from primaries group by state;
 | AS    |
 | CO    |
 | GA    |
+| HI    |
 | IA    |
+| ID    |
 | KS    |
 | KY    |
 | LA    |
 | MA    |
 | ME    |
+| MI    |
 | MN    |
+| MS    |
 | NE    |
 | NH    |
 | NV    |
@@ -72,8 +76,7 @@ mysql> select state from primaries group by state;
 | VA    |
 | VT    |
 +-------+
-22 rows in set (0.00 sec)
-
+26 rows in set (0.00 sec)
 ```
 
 Note: I am not counting any delegates from any state's that have not had 
