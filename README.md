@@ -1,12 +1,12 @@
 What is this?
 =======================================
 
-As primaries and caucus's happen I'm grabbing the totals and adding them
+As primaries and caucuses happen I'm grabbing the totals and adding them
 to the data. If I need to massage anything I'm writing a script for it
 or making a note of where the source numbers are coming from. 
 
 Running make will load a csv of the information into MySQL to run
-queries against. It also populates a couple of view's so it's easy to
+queries against. It also populates a couple of views so it's easy to
 get the totals. 
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
@@ -79,5 +79,5 @@ mysql> select state from primaries group by state;
 26 rows in set (0.00 sec)
 ```
 
-Note: I am not counting any delegates from any state's that have not had 
+Note: I am not counting any delegates from any states that have not had 
 their primaries/caucus yet.
