@@ -183,3 +183,5 @@ WY,Ted Cruz,Rep,644,66.3,9,http://www.nytimes.com/elections/results/wyoming
 WY,Marco Rubio,Rep,189,19.5,1,
 WY,Donald Trump,Rep,70,7.2,1,
 WY,John Kasich,Rep,0,0,0,
+MP,Hillary Clinton,Dem,102,59,4,"http://www.foxnews.com/politics/2016/03/12/clinton-wins-northern-mariana-islands-democratic-caucus.html, no raw vote given so computed from news article saying she won 54% of the 189 votes total, so: 189*.54"
+MP,Bernie Sanders,Dem,65,34,2,http://abcnews.go.com/Politics/hillary-clinton-wins-democratic-caucuses-northern-mariana-islands/story?id=37599233
