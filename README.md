@@ -9,6 +9,8 @@ Running make will load a csv of the information into MySQL to run
 queries against. It also populates a couple of views so it's easy to
 get the totals. 
 
+Sources are listed in data/primaries.csv once per state
+
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
 Latest Data (last updated 3-14-2016)
