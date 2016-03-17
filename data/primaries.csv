@@ -185,3 +185,9 @@ WY,Donald Trump,Rep,70,7.2,1,
 WY,John Kasich,Rep,0,0,0,
 MP,Hillary Clinton,Dem,102,59,4,"http://www.foxnews.com/politics/2016/03/12/clinton-wins-northern-mariana-islands-democratic-caucus.html, no raw vote given so computed from news article saying she won 54% of the 189 votes total, so: 189*.54"
 MP,Bernie Sanders,Dem,65,34,2,http://abcnews.go.com/Politics/hillary-clinton-wins-democratic-caucuses-northern-mariana-islands/story?id=37599233
+FL,Donald Trump,Rep,1077221,45.7,99,http://www.nytimes.com/elections/results/florida
+FL,Marco Rubio,Rep,636653,27,0,
+FL,Ted Cruz,Rep,403640,17.1,0,
+FL,John Kasich,Rep,159412,6.8,0,
+FL,Hillary Clinton,Dem,1097400,64.4,133,
+FL,Bernie Sanders,Dem,566603,33.3,65,
