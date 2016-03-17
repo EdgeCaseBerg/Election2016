@@ -13,40 +13,40 @@ Sources are listed in data/primaries.csv once per state
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 3-14-2016)
+Latest Data (last updated 3-17-2016)
 ======================================
 
 ```
-mysql> select * from votetotal;
-+-----------------+---------+-----------+
-| candidate       | votes   | delegates |
-+-----------------+---------+-----------+
-| Hillary Clinton | 4746767 |       732 |
-| Donald Trump    | 4105633 |       408 |
-| Ted Cruz        | 3416191 |       368 |
-| Bernie Sanders  | 3362185 |       537 |
-| Marco Rubio     | 2219192 |       156 |
-| John Kasich     | 1034184 |        62 |
-| Ben Carson      |  502205 |         3 |
-| Jeb Bush        |   31610 |         3 |
-| Chris Christie  |   24373 |         0 |
-| Carly Fiorina   |   15477 |         1 |
-| Mike Huckabee   |    3408 |         0 |
-| Rick Santorum   |    1814 |         0 |
-| Martin O'Malley |     752 |         0 |
-| Jim Gilmore     |     266 |         0 |
-| Rand Paul       |      41 |         0 |
-+-----------------+---------+-----------+
-15 rows in set (0.00 sec)
-
 mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 11354394 |
-| Dem   |  8109704 |
+| Rep   | 19854402 |
+| Dem   | 14647756 |
 +-------+----------+
-2 rows in set (0.00 sec)
+2 rows in set (0.01 sec)
+
+mysql> select * from votetotal;
++-----------------+---------+-----------+
+| candidate       | votes   | delegates |
++-----------------+---------+-----------+
+| Hillary Clinton | 8458071 |      1142 |
+| Donald Trump    | 7541587 |       662 |
+| Bernie Sanders  | 6188933 |       825 |
+| Ted Cruz        | 5481490 |       409 |
+| Marco Rubio     | 3392127 |       169 |
+| John Kasich     | 2722934 |       142 |
+| Ben Carson      |  572926 |         6 |
+| Jeb Bush        |   89478 |         4 |
+| Chris Christie  |   24373 |         0 |
+| Carly Fiorina   |   15477 |         1 |
+| Rand Paul       |    8522 |         1 |
+| Mike Huckabee   |    3408 |         0 |
+| Rick Santorum   |    1814 |         0 |
+| Martin O'Malley |     752 |         0 |
+| Jim Gilmore     |     266 |         0 |
++-----------------+---------+-----------+
+15 rows in set (0.00 sec)
 
 mysql> select state from primaries group by state;
 +-------+
@@ -58,10 +58,12 @@ mysql> select state from primaries group by state;
 | AS    |
 | CO    |
 | DC    |
+| FL    |
 | GA    |
 | HI    |
 | IA    |
 | ID    |
+| IL    |
 | KS    |
 | KY    |
 | LA    |
@@ -69,11 +71,14 @@ mysql> select state from primaries group by state;
 | ME    |
 | MI    |
 | MN    |
+| MO    |
 | MP    |
 | MS    |
+| NC    |
 | NE    |
 | NH    |
 | NV    |
+| OH    |
 | OK    |
 | PR    |
 | SC    |
@@ -83,7 +88,7 @@ mysql> select state from primaries group by state;
 | VT    |
 | WY    |
 +-------+
-30 rows in set (0.01 sec)
+35 rows in set (0.00 sec)
 
 ```
 
