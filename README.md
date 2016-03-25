@@ -13,7 +13,7 @@ Sources are listed in data/primaries.csv once per state
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 3-17-2016)
+Latest Data (last updated 3-25-2016)
 ======================================
 
 ```
@@ -21,21 +21,21 @@ mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 19854402 |
-| Dem   | 14647756 |
+| Rep   | 20466709 |
+| Dem   | 15147557 |
 +-------+----------+
-2 rows in set (0.01 sec)
+2 rows in set (0.00 sec)
 
 mysql> select * from votetotal;
 +-----------------+---------+-----------+
 | candidate       | votes   | delegates |
 +-----------------+---------+-----------+
-| Hillary Clinton | 8458071 |      1142 |
-| Donald Trump    | 7541587 |       662 |
-| Bernie Sanders  | 6188933 |       825 |
-| Ted Cruz        | 5481490 |       409 |
+| Hillary Clinton | 8714499 |      1197 |
+| Donald Trump    | 7816367 |       720 |
+| Bernie Sanders  | 6432306 |       898 |
+| Ted Cruz        | 5736204 |       449 |
 | Marco Rubio     | 3392127 |       169 |
-| John Kasich     | 2722934 |       142 |
+| John Kasich     | 2805747 |       142 |
 | Ben Carson      |  572926 |         6 |
 | Jeb Bush        |   89478 |         4 |
 | Chris Christie  |   24373 |         0 |
@@ -56,6 +56,7 @@ mysql> select state from primaries group by state;
 | AL    |
 | AR    |
 | AS    |
+| AZ    |
 | CO    |
 | DC    |
 | FL    |
@@ -84,11 +85,12 @@ mysql> select state from primaries group by state;
 | SC    |
 | TN    |
 | TX    |
+| UT    |
 | VA    |
 | VT    |
 | WY    |
 +-------+
-35 rows in set (0.00 sec)
+37 rows in set (0.00 sec)
 
 ```
 
