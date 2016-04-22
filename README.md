@@ -97,4 +97,4 @@ mysql> select state from primaries group by state;
 ```
 
 Note: I am not counting any delegates from any states that have not had 
-their primaries/caucus yet.
+their primaries/caucus yet. It also includes places like American Samoa
