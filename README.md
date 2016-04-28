@@ -13,7 +13,7 @@ Sources are listed in data/primaries.csv once per state
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 4-20-2016)
+Latest Data (last updated 4-28-2016)
 ======================================
 
 ```
