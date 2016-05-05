@@ -15,26 +15,25 @@ This data should be updated as the [primaries happen](http://www.uspresidentiale
 
 Latest Data (last updated 4-28-2016)
 ======================================
-
 ```
 mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 24701846 |
-| Dem   | 21074994 |
+| Rep   | 25776665 |
+| Dem   | 21703851 |
 +-------+----------+
-2 rows in set (0.00 sec)
+2 rows in set (0.06 sec)
 
 mysql> select * from votetotal;
 +-----------------+----------+-----------+
 | candidate       | votes    | delegates |
 +-----------------+----------+-----------+
-| Hillary Clinton | 11981241 |      1625 |
-| Donald Trump    | 10061892 |       924 |
-| Bernie Sanders  |  9093001 |      1260 |
-| Ted Cruz        |  6858195 |       488 |
-| John Kasich     |  3673368 |       151 |
+| Hillary Clinton | 12278391 |      1663 |
+| Donald Trump    | 10649598 |       981 |
+| Bernie Sanders  |  9424708 |      1304 |
+| Ted Cruz        |  7262522 |       488 |
+| John Kasich     |  3756154 |       151 |
 | Marco Rubio     |  3392127 |       169 |
 | Ben Carson      |   572926 |         6 |
 | Jeb Bush        |    89478 |         4 |
@@ -67,6 +66,7 @@ mysql> select state from primaries group by state;
 | IA    |
 | ID    |
 | IL    |
+| IN    |
 | KS    |
 | KY    |
 | LA    |
@@ -97,7 +97,7 @@ mysql> select state from primaries group by state;
 | WI    |
 | WY    |
 +-------+
-44 rows in set (0.01 sec)
+45 rows in set (0.01 sec)
 ```
 
 Note: I am not counting any delegates from any states that have not had 
