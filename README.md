@@ -20,32 +20,32 @@ mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 25776665 |
-| Dem   | 21703851 |
+| Rep   | 26171553 |
+| Dem   | 21917846 |
 +-------+----------+
-2 rows in set (0.06 sec)
+2 rows in set (0.00 sec)
 
 mysql> select * from votetotal;
 +-----------------+----------+-----------+
 | candidate       | votes    | delegates |
 +-----------------+----------+-----------+
-| Hillary Clinton | 12278391 |      1663 |
-| Donald Trump    | 10649598 |       981 |
-| Bernie Sanders  |  9424708 |      1304 |
-| Ted Cruz        |  7262522 |       488 |
-| John Kasich     |  3756154 |       151 |
-| Marco Rubio     |  3392127 |       169 |
-| Ben Carson      |   572926 |         6 |
-| Jeb Bush        |    89478 |         4 |
+| Hillary Clinton | 12364745 |      1674 |
+| Donald Trump    | 10927130 |      1047 |
+| Bernie Sanders  |  9548568 |      1322 |
+| Ted Cruz        |  7317148 |       488 |
+| John Kasich     |  3792095 |       152 |
+| Marco Rubio     |  3402192 |       169 |
+| Ben Carson      |   587352 |         6 |
+| Jeb Bush        |    91776 |         4 |
 | Chris Christie  |    24373 |         0 |
 | Carly Fiorina   |    15477 |         1 |
 | Rand Paul       |     8522 |         1 |
+| Martin O'Malley |     4533 |         0 |
 | Mike Huckabee   |     3408 |         0 |
 | Rick Santorum   |     1814 |         0 |
-| Martin O'Malley |      752 |         0 |
 | Jim Gilmore     |      266 |         0 |
 +-----------------+----------+-----------+
-15 rows in set (0.00 sec)
+15 rows in set (0.01 sec)
 
 mysql> select state from primaries group by state;
 +-------+
@@ -95,9 +95,11 @@ mysql> select state from primaries group by state;
 | VA    |
 | VT    |
 | WI    |
+| WV    |
 | WY    |
 +-------+
-45 rows in set (0.01 sec)
+46 rows in set (0.00 sec)
+
 ```
 
 Note: I am not counting any delegates from any states that have not had 
