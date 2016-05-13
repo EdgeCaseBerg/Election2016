@@ -271,3 +271,8 @@ IN,Ted Cruz,Rep,404327,36.7,0,
 IN,John Kasich,Rep,82786,7.5,0,
 IN,Bernie Sanders,Dem,331707,52.7,44,
 IN,Hillary Clinton,Dem,297150,47.3,38,
+NE,Donald Trump,Rep,121287,61.4,36,http://www.nytimes.com/elections/results/nebraska
+NE,Ted Cruz,Rep,36418,18.4,0,
+NE,John Kasich,Rep,22256,11.4,0,
+NE,Ben Carson,Rep,10029,5.1,0,
+NE,Marco Rubio,Rep,7170,3.6,0,
