@@ -20,32 +20,32 @@ mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 26171553 |
-| Dem   | 21917846 |
+| Rep   | 27043894 |
+| Dem   | 22945509 |
 +-------+----------+
-2 rows in set (0.00 sec)
+2 rows in set (0.01 sec)
 
 mysql> select * from votetotal;
 +-----------------+----------+-----------+
 | candidate       | votes    | delegates |
 +-----------------+----------+-----------+
-| Hillary Clinton | 12364745 |      1674 |
-| Donald Trump    | 10927130 |      1047 |
-| Bernie Sanders  |  9548568 |      1322 |
-| Ted Cruz        |  7317148 |       488 |
-| John Kasich     |  3792095 |       152 |
+| Hillary Clinton | 12836174 |      1754 |
+| Donald Trump    | 11570937 |      1105 |
+| Bernie Sanders  | 10099099 |      1457 |
+| Ted Cruz        |  7434457 |       493 |
+| John Kasich     |  3903320 |       157 |
 | Marco Rubio     |  3402192 |       169 |
 | Ben Carson      |   587352 |         6 |
 | Jeb Bush        |    91776 |         4 |
 | Chris Christie  |    24373 |         0 |
 | Carly Fiorina   |    15477 |         1 |
+| Martin O'Malley |    10236 |         0 |
 | Rand Paul       |     8522 |         1 |
-| Martin O'Malley |     4533 |         0 |
 | Mike Huckabee   |     3408 |         0 |
 | Rick Santorum   |     1814 |         0 |
 | Jim Gilmore     |      266 |         0 |
 +-----------------+----------+-----------+
-15 rows in set (0.01 sec)
+15 rows in set (0.00 sec)
 
 mysql> select state from primaries group by state;
 +-------+
@@ -85,6 +85,7 @@ mysql> select state from primaries group by state;
 | NY    |
 | OH    |
 | OK    |
+| OR    |
 | PA    |
 | PR    |
 | RI    |
@@ -94,11 +95,12 @@ mysql> select state from primaries group by state;
 | UT    |
 | VA    |
 | VT    |
+| WA    |
 | WI    |
 | WV    |
 | WY    |
 +-------+
-46 rows in set (0.00 sec)
+48 rows in set (0.00 sec)
 
 ```
 
