@@ -35,6 +35,10 @@ FROM primaries
 GROUP BY candidate,party 
 ORDER BY party, nominated DESC, votes DESC;
 
+CREATE OR REPLACE VIEW statewins AS
+SELECT candidate, state, MAX(votes)
+FROM primaries GROUP BY state ORDER BY votes DESC;
+
 TRUNCATE primaries;
 LOAD DATA INFILE '/tmp/primaries.csv'
 INTO TABLE primaries
