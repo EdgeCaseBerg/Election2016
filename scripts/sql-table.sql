@@ -35,9 +35,14 @@ FROM primaries
 GROUP BY candidate,party 
 ORDER BY party, nominated DESC, votes DESC;
 
+-- The only reason this view exists is to join to statewins
+CREATE OR REPLACE VIEW maxvotesinstates AS
+SELECT MAX(votes) as m, state FROM primaries GROUP BY state;
+
 CREATE OR REPLACE VIEW statewins AS
-SELECT candidate, state, MAX(votes)
-FROM primaries GROUP BY state ORDER BY votes DESC;
+SELECT candidate, primaries.state as state, votes
+FROM primaries JOIN maxvotesinstates ON m = votes
+ORDER BY votes DESC;
 
 TRUNCATE primaries;
 LOAD DATA INFILE '/tmp/primaries.csv'
