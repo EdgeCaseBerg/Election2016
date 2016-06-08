@@ -20,8 +20,8 @@ mysql> select * from partytotal;
 +-------+----------+
 | party | votes    |
 +-------+----------+
-| Rep   | 27043894 |
-| Dem   | 22945509 |
+| Rep   | 29355758 |
+| Dem   | 27710449 |
 +-------+----------+
 2 rows in set (0.01 sec)
 
@@ -29,23 +29,23 @@ mysql> select * from votetotal;
 +-----------------+----------+-----------+
 | candidate       | votes    | delegates |
 +-----------------+----------+-----------+
-| Hillary Clinton | 12836174 |      1754 |
-| Donald Trump    | 11570937 |      1105 |
-| Bernie Sanders  | 10099099 |      1457 |
-| Ted Cruz        |  7434457 |       493 |
-| John Kasich     |  3903320 |       157 |
-| Marco Rubio     |  3402192 |       169 |
-| Ben Carson      |   587352 |         6 |
-| Jeb Bush        |    91776 |         4 |
+| Hillary Clinton | 15559809 |      2188 |
+| Donald Trump    | 13334915 |      1408 |
+| Bernie Sanders  | 12140404 |      1779 |
+| Ted Cruz        |  7645756 |       493 |
+| John Kasich     |  4168597 |       157 |
+| Marco Rubio     |  3407305 |       169 |
+| Ben Carson      |   645301 |         6 |
+| Jeb Bush        |    98519 |         4 |
 | Chris Christie  |    24373 |         0 |
-| Carly Fiorina   |    15477 |         1 |
+| Carly Fiorina   |    16982 |         1 |
 | Martin O'Malley |    10236 |         0 |
 | Rand Paul       |     8522 |         1 |
 | Mike Huckabee   |     3408 |         0 |
 | Rick Santorum   |     1814 |         0 |
 | Jim Gilmore     |      266 |         0 |
 +-----------------+----------+-----------+
-15 rows in set (0.00 sec)
+15 rows in set (0.01 sec)
 
 mysql> select state from primaries group by state;
 +-------+
@@ -56,6 +56,7 @@ mysql> select state from primaries group by state;
 | AR    |
 | AS    |
 | AZ    |
+| CA    |
 | CO    |
 | CT    |
 | DC    |
@@ -78,9 +79,13 @@ mysql> select state from primaries group by state;
 | MO    |
 | MP    |
 | MS    |
+| MT    |
 | NC    |
+| ND    |
 | NE    |
 | NH    |
+| NJ    |
+| NM    |
 | NV    |
 | NY    |
 | OH    |
@@ -90,6 +95,7 @@ mysql> select state from primaries group by state;
 | PR    |
 | RI    |
 | SC    |
+| SD    |
 | TN    |
 | TX    |
 | UT    |
@@ -100,7 +106,7 @@ mysql> select state from primaries group by state;
 | WV    |
 | WY    |
 +-------+
-48 rows in set (0.00 sec)
+54 rows in set (0.00 sec)
 
 ```
 
