@@ -13,7 +13,7 @@ Sources are listed in data/primaries.csv once per state
 
 This data should be updated as the [primaries happen](http://www.uspresidentialelectionnews.com/2016-presidential-primary-schedule-calendar/)
 
-Latest Data (last updated 6-08-2016)
+Latest Data (last updated 6-19-2016)
 ======================================
 ```
 mysql> select * from partytotal;
@@ -21,17 +21,17 @@ mysql> select * from partytotal;
 | party | votes    |
 +-------+----------+
 | Rep   | 29355758 |
-| Dem   | 27710449 |
+| Dem   | 27805809 |
 +-------+----------+
-2 rows in set (0.01 sec)
+2 rows in set (0.00 sec)
 
-mysql> select * from votetotal;
+mysql>  select * from votetotal;
 +-----------------+----------+-----------+
 | candidate       | votes    | delegates |
 +-----------------+----------+-----------+
-| Hillary Clinton | 15559809 |      2188 |
+| Hillary Clinton | 15635032 |      2204 |
 | Donald Trump    | 13334915 |      1408 |
-| Bernie Sanders  | 12140404 |      1779 |
+| Bernie Sanders  | 12160541 |      1783 |
 | Ted Cruz        |  7645756 |       493 |
 | John Kasich     |  4168597 |       157 |
 | Marco Rubio     |  3407305 |       169 |
@@ -45,7 +45,7 @@ mysql> select * from votetotal;
 | Rick Santorum   |     1814 |         0 |
 | Jim Gilmore     |      266 |         0 |
 +-----------------+----------+-----------+
-15 rows in set (0.01 sec)
+15 rows in set (0.00 sec)
 
 mysql> select state from primaries group by state;
 +-------+
